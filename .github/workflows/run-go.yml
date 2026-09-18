@@ -1,7 +1,11 @@
 name: Run Go Script
 
 on:
-  workflow_dispatch: # GitHubの画面から手動で実行できるようにする設定
+  workflow_dispatch: # 手動実行用
+
+# リポジトリへファイルをコミット・プッシュするための書き込み権限を付与
+permissions:
+  contents: write
 
 jobs:
   run:
@@ -17,3 +21,12 @@ jobs:
 
       - name: Goプログラムの実行
         run: go run main.go
+
+      - name: 変更があればリポジトリにコミット＆プッシュ
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add articles.md
+          # 差分がある場合のみコミット
+          git diff --staged --quiet || git commit -m "Update articles.md [skip ci]"
+          git push
