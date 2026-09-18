@@ -38,3 +38,11 @@
 * [AI同士に共同作業をさせたら人間には読めない「独自言語」を生み出して会話し始める現象が観測される](https://gigazine.net/news/20260918-ai-agent-evolve-language/)
 * [緊急で社内Jev勉強会を開催したらアイデアがバンバン出て頭が柔らかくなった - LayerX エンジニアブログ](https://tech.layerx.co.jp/entry/2026/09/18/185816)
 * [「Unicode 18.0」がリリース ～秦代の「小篆」、女真文字を追加。新しい絵文字は9種／13,007文字が追加。収録文字数の総計は172,808文字に](https://forest.watch.impress.co.jp/docs/news/2142260.html)
+
+## 取得日時: 9月19日 1時33分
+
+* [好き嫌い.comは運営者が利用者のことどうなっても良い感じらしくて開示が爆速らしい「運営者と直接やりとりすれば2000円で投稿者のIPアドレスを爆速で教えてくれます」](https://togetter.com/li/2747247)
+* [Claude Codeのプロジェクトが刷新、「あとはよろしく」で並行作業し結果を生む](https://pc.watch.impress.co.jp/docs/news/2142119.html)
+* [【窓の杜 30周年記念インタビュー】 高校時代のゲーム開発から独立、そして米国移住へ。定番エディタ「EmEditor」開発者が貫いた「ニッチで世界一」という哲学](https://forest.watch.impress.co.jp/docs/serial/30thinterview/2121255.html)
+* [Jevでハーネスエンジニアリング](https://zenn.dev/watany/articles/36e11a20ce3743)
+* [BigQueryのスロット、返し忘れていませんか? fluid scalingによるスロット費用最適化 - エムスリーテックブログ](https://www.m3tech.blog/entry/2026/09/18/160000)
