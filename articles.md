@@ -22,3 +22,11 @@
 * [AI ネイティブなデータ分析基盤を作った話](https://zenn.dev/pksha/articles/5a1dc6470019d6)
 * [トヨタ、毎年1兆円を投資し工場とロボットを更新 40万台をフィジカルAIであるLarge Behavior Models搭載ロボなどに](https://car.watch.impress.co.jp/docs/news/2142008.html)
 * [Example use cases - TypeSafe AI](https://docs.typesafe.ai/concepts/use-case-map)
+
+## 取得日時: 9月18日 16時17分
+
+* [自転車の空気入れが超ラクに! 愛車すべてをクリックバルブ対応にしよう](https://kaden.watch.impress.co.jp/docs/column/ebike-everyday/2130387.html)
+* [『マネーフォワード ME』、2026年9月17日(木)より「Apps in ChatGPT」で利用できるアプリの提供を開始](https://prtimes.jp/main/html/rd/p/000001675.000008962.html)
+* [Microsoft幹部がAIによるデータスクレイピングを「人類史上最大の労働窃盗」と表現](https://gigazine.net/news/20260918-microsoft-exec-called-ai-scraping-largest-theft-labor/)
+* [モデルルーティングをTypeSafe(Jev)に置き換えたら、どれくらい速く・安くなるか試してみた | DevelopersIO](https://dev.classmethod.jp/articles/jev-for-llm-model-routing/)
+* [Qwen3.8 27Bを9分の1に圧縮も性能98.2%維持の「Bonsai 2 27B」](https://pc.watch.impress.co.jp/docs/news/2142052.html)
