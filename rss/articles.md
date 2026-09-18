@@ -46,3 +46,11 @@
 * [【窓の杜 30周年記念インタビュー】 高校時代のゲーム開発から独立、そして米国移住へ。定番エディタ「EmEditor」開発者が貫いた「ニッチで世界一」という哲学](https://forest.watch.impress.co.jp/docs/serial/30thinterview/2121255.html)
 * [Jevでハーネスエンジニアリング](https://zenn.dev/watany/articles/36e11a20ce3743)
 * [BigQueryのスロット、返し忘れていませんか? fluid scalingによるスロット費用最適化 - エムスリーテックブログ](https://www.m3tech.blog/entry/2026/09/18/160000)
+
+## 取得日時: 9月19日 4時11分
+
+* [【徹底解説】DeepSeek v4.1 Flashの内部構造【最適化したから解ること】｜shi3z](https://note.com/shi3zblog/n/n6d4fbe03218e)
+* [Z.aiが中国製AIインフラで「GLM-5.3-Flash」の本番サービスを提供したノウハウを共有、AIエージェントでインフラを管理してNVIDIA GPUと同等まで効率化](https://gigazine.net/news/20260918-how-glm-built-inference-infrastructure/)
+* [Uberで2人前の寿司を頼んだのに1人前セットが届いた。料金は2人前払っていて、領収書も送ったのに、Uberから「返金できない」と言われた→トラブル対応の杜撰さを示す報告相次ぐ](https://togetter.com/li/2747370)
+* [AIは「違和感」を認知できない](https://wirelesswire.jp/2026/09/94513/)
+* [Ubuntu 24.04.5のリリース、Ubuntu 26.10（stonking）の開発; Rust版coreutilsのcp、mv、rmへの移行、CIX P1の正式サポート | gihyo.jp](https://gihyo.jp/admin/clip/01/ubuntu-topics/202609/18)
