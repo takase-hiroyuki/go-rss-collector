@@ -16,6 +16,9 @@ permissions:
 jobs:
   run:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: rss
     steps:
       - name: リポジトリのコードを取得
         uses: actions/checkout@v4
