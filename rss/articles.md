@@ -62,3 +62,11 @@
 * [「Qwen3.8-Omni-Flash」リリース、Gemini 3.8 Flashに匹敵する音声・映像処理性能を達成](https://gigazine.net/news/20260918-qwen-3-8-omni-flash/)
 * [[石川温の「スマホ業界 Watch」] 見えない部分が大幅進化、「Apple Watch Series 12/Ultra 4」「AirPods 5」実機先行レビュー](https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2142098.html)
 * [視界から脳みそを拡張する、全部入り「Rokid スマートAIグラス」を試す](https://www.itmedia.co.jp/pcuser/articles/2609/18/news023.html)
+
+## 取得日時: 9月19日 8時35分
+
+* [SemIf — local decisions in your browser](https://openjev.com/)
+* [Valibotはどうやって**文字列**を数えているのか - プププなテクブ](https://blog.inorinrinrin.com/entry/8e2abf66-324e-4bab-092e-f1fe29f99f96)
+* [MacBookに数枚の紙を挟んで持ち運んだだけで、ディスプレイが損傷した……？　薄い紙でも油断できない理由](https://www.itmedia.co.jp/pcuser/articles/2609/17/news099.html)
+* [OpenAIのAIエージェントが5月13日にHugging Faceのアカウントを不正に乗っ取りサーバーを調査していたことが明らかに、「Hugging Faceハッキングを防げたはず」とセキュリティ研究者](https://gigazine.net/news/20260917-openai-agents-probed-hugging-face-weaknesses-before-major-hack/)
+* [ゲーム開発者の生成AI活用が8割超に　CESAが初調査　「業務効率化」に最大の期待](https://www.itmedia.co.jp/news/article/2609/18/2000001618/)
