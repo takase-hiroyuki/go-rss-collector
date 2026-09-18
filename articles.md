@@ -14,3 +14,11 @@
 * [[法林岳之の「週刊モバイルCATCH UP」]ローミング終了の「楽天モバイル」とはどう付き合う？](https://k-tai.watch.impress.co.jp/docs/column/mobile_catchup/2141810.html)
 * [13年続けた個人プロダクトで、作ること以外で学んだ10のこと - SANOGRAPHIX Blog](https://text.sanographix.net/entry/2026/09/15/191000)
 * [Skill suggestion - TypeSafe AI](https://docs.typesafe.ai/cookbooks/skill_suggestion)
+
+## 取得日時: 9月18日 15時54分
+
+* [「1合」という単位にとらわれないご飯の炊き方｜ツジメシ](https://note.com/tsujimeshi/n/nf81f3a9daa1f)
+* [負債のメタファと2026年 / Debt Metaphor in Agentic Engineering Age 202609 Edition](https://speakerdeck.com/twada/debt-metaphor-in-agentic-engineering-age-202609-edition)
+* [AI ネイティブなデータ分析基盤を作った話](https://zenn.dev/pksha/articles/5a1dc6470019d6)
+* [トヨタ、毎年1兆円を投資し工場とロボットを更新 40万台をフィジカルAIであるLarge Behavior Models搭載ロボなどに](https://car.watch.impress.co.jp/docs/news/2142008.html)
+* [Example use cases - TypeSafe AI](https://docs.typesafe.ai/concepts/use-case-map)
