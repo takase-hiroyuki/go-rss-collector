@@ -54,3 +54,11 @@
 * [Uberで2人前の寿司を頼んだのに1人前セットが届いた。料金は2人前払っていて、領収書も送ったのに、Uberから「返金できない」と言われた→トラブル対応の杜撰さを示す報告相次ぐ](https://togetter.com/li/2747370)
 * [AIは「違和感」を認知できない](https://wirelesswire.jp/2026/09/94513/)
 * [Ubuntu 24.04.5のリリース、Ubuntu 26.10（stonking）の開発; Rust版coreutilsのcp、mv、rmへの移行、CIX P1の正式サポート | gihyo.jp](https://gihyo.jp/admin/clip/01/ubuntu-topics/202609/18)
+
+## 取得日時: 9月19日 6時44分
+
+* [出版取次の日販、米AI企業に書籍を大量販売か　業界団体が説明要求（朝日新聞） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/212f2a1ec5d3862735a3a456429c4d816bf5d178)
+* [肖像画をChatGPTに読み込ませて出力→加工して納品　委託先による著作権侵害で、小学館「サライ.jp」が謝罪](https://www.itmedia.co.jp/news/article/2609/18/2000001645/)
+* [「Qwen3.8-Omni-Flash」リリース、Gemini 3.8 Flashに匹敵する音声・映像処理性能を達成](https://gigazine.net/news/20260918-qwen-3-8-omni-flash/)
+* [[石川温の「スマホ業界 Watch」] 見えない部分が大幅進化、「Apple Watch Series 12/Ultra 4」「AirPods 5」実機先行レビュー](https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2142098.html)
+* [視界から脳みそを拡張する、全部入り「Rokid スマートAIグラス」を試す](https://www.itmedia.co.jp/pcuser/articles/2609/18/news023.html)
