@@ -30,3 +30,11 @@
 * [Microsoft幹部がAIによるデータスクレイピングを「人類史上最大の労働窃盗」と表現](https://gigazine.net/news/20260918-microsoft-exec-called-ai-scraping-largest-theft-labor/)
 * [モデルルーティングをTypeSafe(Jev)に置き換えたら、どれくらい速く・安くなるか試してみた | DevelopersIO](https://dev.classmethod.jp/articles/jev-for-llm-model-routing/)
 * [Qwen3.8 27Bを9分の1に圧縮も性能98.2%維持の「Bonsai 2 27B」](https://pc.watch.impress.co.jp/docs/news/2142052.html)
+
+## 取得日時: 9月18日 21時22分
+
+* [既存の LLM が CPU なら、 Jev はその GPU 版みたいなやつ](https://zenn.dev/mizchi/articles/jev-is-gpu-for-llms)
+* [ネコの新種、100年以上ぶりに発見](https://japan.cnet.com/article/35252798/)
+* [AI同士に共同作業をさせたら人間には読めない「独自言語」を生み出して会話し始める現象が観測される](https://gigazine.net/news/20260918-ai-agent-evolve-language/)
+* [緊急で社内Jev勉強会を開催したらアイデアがバンバン出て頭が柔らかくなった - LayerX エンジニアブログ](https://tech.layerx.co.jp/entry/2026/09/18/185816)
+* [「Unicode 18.0」がリリース ～秦代の「小篆」、女真文字を追加。新しい絵文字は9種／13,007文字が追加。収録文字数の総計は172,808文字に](https://forest.watch.impress.co.jp/docs/news/2142260.html)
