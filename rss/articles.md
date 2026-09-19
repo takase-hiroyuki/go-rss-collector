@@ -86,3 +86,11 @@
 * [AIに任せた品質は、誰が見立てるのか - AI時代のテストマネジメント](https://speakerdeck.com/nakanao/ai-ni-makaseta-hinshitsu-ha-dare-ga-mitateru-no-ka-ai-jidai-no-tesuto-manejimento)
 * [米軍、AI誤報で作戦計画　中国船に「核部品」、直前中止 | NEWSjp](https://news.jp/i/1473810070062515120)
 * [【福田昭のセミコン業界最前線】 DRAMとNANDの暴騰で、想定外の急激な膨張を続ける2026年の半導体市場](https://pc.watch.impress.co.jp/docs/column/semicon/2142421.html)
+
+## 取得日時: 9月20日 6時23分
+
+* [Jev 図解ガイド](https://jev-guide.take-otani.workers.dev/)
+* [東プレから分割キーボード「REALFORCE RS1」登場｜79キー日本語配列・有線接続 - TALPKEYBOARD BLOG](https://www.talpkeyboard.com/entry/topre-realforcers1-keyboard-info)
+* [全社に OpenCode + LiteLLM を導入してコストを抑えつつ AI 活用を進めている話](https://zenn.dev/jtcc/articles/7e74fef42580a1)
+* [AIとの対話だけで完成! 広がる“アプリ開発革命” | NHKニュース](https://news.web.nhk/newsweb/na/nd-20260918de50982)
+* [その Lambda、8分で 管理者権限まで奪われます](https://speakerdeck.com/k1nakayama/sono-lambda-8-bun-de-kanrisha-kengen-made-ubawaremasu)
