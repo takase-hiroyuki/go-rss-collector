@@ -78,3 +78,11 @@
 * [GitHub - browser-use/jev-ultrafast: i. am. speed.](https://github.com/browser-use/jev-ultrafast)
 * [学位なしで年収1500万円超を狙える「無料のAI認定資格」3選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）](https://forbesjapan.com/articles/detail/104778)
 * [AutomatticのCEOが追放された件で代わりに暫定CEOとなった人物と法務責任者が815万ドルの退職金を得る合意を行っていたことが判明](https://gigazine.net/news/20260918-automattic-chief-signed-reciprocal-severance/)
+
+## 取得日時: 9月19日 20時53分
+
+* [Androidでおサイフケータイを使いたくない理由　初期化で消えないデータと売却時の落とし穴](https://www.itmedia.co.jp/mobile/articles/2609/19/news002.html)
+* [Codexを使うなら、config.tomlとAGENTS.mdを押さえておきたい - じゃあ、おうちで学べる](https://syu-m-5151.hatenablog.com/entry/2026/09/19/112330)
+* [AIに任せた品質は、誰が見立てるのか - AI時代のテストマネジメント](https://speakerdeck.com/nakanao/ai-ni-makaseta-hinshitsu-ha-dare-ga-mitateru-no-ka-ai-jidai-no-tesuto-manejimento)
+* [米軍、AI誤報で作戦計画　中国船に「核部品」、直前中止 | NEWSjp](https://news.jp/i/1473810070062515120)
+* [【福田昭のセミコン業界最前線】 DRAMとNANDの暴騰で、想定外の急激な膨張を続ける2026年の半導体市場](https://pc.watch.impress.co.jp/docs/column/semicon/2142421.html)
