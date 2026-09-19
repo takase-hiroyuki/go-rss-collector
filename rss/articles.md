@@ -70,3 +70,11 @@
 * [MacBookに数枚の紙を挟んで持ち運んだだけで、ディスプレイが損傷した……？　薄い紙でも油断できない理由](https://www.itmedia.co.jp/pcuser/articles/2609/17/news099.html)
 * [OpenAIのAIエージェントが5月13日にHugging Faceのアカウントを不正に乗っ取りサーバーを調査していたことが明らかに、「Hugging Faceハッキングを防げたはず」とセキュリティ研究者](https://gigazine.net/news/20260917-openai-agents-probed-hugging-face-weaknesses-before-major-hack/)
 * [ゲーム開発者の生成AI活用が8割超に　CESAが初調査　「業務効率化」に最大の期待](https://www.itmedia.co.jp/news/article/2609/18/2000001618/)
+
+## 取得日時: 9月19日 10時36分
+
+* [世界37カ国のうち日本を含むほとんどの国で「AIは雇用増加ではなく雇用喪失を引き起こす」と予想されていることが判明](https://gigazine.net/news/20260918-more-people-expect-ai-job-loss/)
+* [米アンソロピックが生物学の実験施設　AIを創薬に活用 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN18CET0Y6A910C2000000/)
+* [GitHub - browser-use/jev-ultrafast: i. am. speed.](https://github.com/browser-use/jev-ultrafast)
+* [学位なしで年収1500万円超を狙える「無料のAI認定資格」3選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）](https://forbesjapan.com/articles/detail/104778)
+* [AutomatticのCEOが追放された件で代わりに暫定CEOとなった人物と法務責任者が815万ドルの退職金を得る合意を行っていたことが判明](https://gigazine.net/news/20260918-automattic-chief-signed-reciprocal-severance/)
