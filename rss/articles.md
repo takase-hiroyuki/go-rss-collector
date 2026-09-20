@@ -94,3 +94,11 @@
 * [全社に OpenCode + LiteLLM を導入してコストを抑えつつ AI 活用を進めている話](https://zenn.dev/jtcc/articles/7e74fef42580a1)
 * [AIとの対話だけで完成! 広がる“アプリ開発革命” | NHKニュース](https://news.web.nhk/newsweb/na/nd-20260918de50982)
 * [その Lambda、8分で 管理者権限まで奪われます](https://speakerdeck.com/k1nakayama/sono-lambda-8-bun-de-kanrisha-kengen-made-ubawaremasu)
+
+## 取得日時: 9月20日 21時11分
+
+* [5分でJev入門（すぐ使う） - Qiita](https://qiita.com/Ninagawa123/items/8ec3f5fe18c20fab1b2a)
+* [AIバブルはこうして終わる　金利高と収穫逓減「死の交差」 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUB164ZN0W6A910C2000000/)
+* [アルトマン氏、OpenAI内部モデルがトップ数学者を超越と明かす 学界に未曾有の焦燥感 — BigGo ファイナンス](https://finance.biggo.jp/news/6c25d38e-2d47-4da2-91cc-b30b32792794)
+* [昼休みに職場の電話に「010～」で始まる番号から着信があった。無視していたら上司が「なぜすぐに出ない！」と怒って電話に出た。 日本郵便の本社から上司宛の荷物が届かないと言ってるようだ。（いつもハンズフリー機能で受け答えする上司） 俺が「詐欺ですよ」と伝えると電話の向こうで激怒！→「そもそも本社から郵便物の配達についてお客に電話をかけることなどほぼ100%ない」](https://posfie.com/@mumimushunyu/p/Q9gnECY)
+* [Jevはサイコロを振らない｜「較正された確率」の意外な落とし穴｜林寛太 Kanta Hayashi](https://note.com/kantahayashiai/n/n4c54eed30787)
