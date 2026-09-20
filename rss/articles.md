@@ -102,3 +102,11 @@
 * [アルトマン氏、OpenAI内部モデルがトップ数学者を超越と明かす 学界に未曾有の焦燥感 — BigGo ファイナンス](https://finance.biggo.jp/news/6c25d38e-2d47-4da2-91cc-b30b32792794)
 * [昼休みに職場の電話に「010～」で始まる番号から着信があった。無視していたら上司が「なぜすぐに出ない！」と怒って電話に出た。 日本郵便の本社から上司宛の荷物が届かないと言ってるようだ。（いつもハンズフリー機能で受け答えする上司） 俺が「詐欺ですよ」と伝えると電話の向こうで激怒！→「そもそも本社から郵便物の配達についてお客に電話をかけることなどほぼ100%ない」](https://posfie.com/@mumimushunyu/p/Q9gnECY)
 * [Jevはサイコロを振らない｜「較正された確率」の意外な落とし穴｜林寛太 Kanta Hayashi](https://note.com/kantahayashiai/n/n4c54eed30787)
+
+## 取得日時: 9月21日 6時23分
+
+* [iPhone Duoは重すぎる？ Pro Maxを1年使った私が気になったのは、重さよりTouch ID – @tarosite](https://tarosite.net/tech/2026/09/20/iphone-duo-weight-and-touch-id/)
+* [大分県の別府温泉では約100℃の源泉を竹で細かく分散して通すことで、自然にお湯を冷ます技術が発展していた「昔の人の知恵だなぁ…」](https://togetter.com/li/2748029)
+* [「Jev」とは　“文章を書かないAI”がなぜ話題に？　元OpenAI研究者が開発、「“スマートなif文”と考えてみて」](https://www.itmedia.co.jp/aiplus/article/2609/20/2000001664/)
+* [GitHub - minorun365/minorun-marp-skill: Marpで登壇スライドを作るための、ストーリー・図・デザインバランスのスキル集と黒地テーマ、検査ツール](https://github.com/minorun365/minorun-marp-skill)
+* [Jevには残念なことに技術的な革新は無いが、すでにそこにあることが強いアドバンテージ](https://anond.hatelabo.jp/20260920135749)
