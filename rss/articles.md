@@ -110,3 +110,11 @@
 * [「Jev」とは　“文章を書かないAI”がなぜ話題に？　元OpenAI研究者が開発、「“スマートなif文”と考えてみて」](https://www.itmedia.co.jp/aiplus/article/2609/20/2000001664/)
 * [GitHub - minorun365/minorun-marp-skill: Marpで登壇スライドを作るための、ストーリー・図・デザインバランスのスキル集と黒地テーマ、検査ツール](https://github.com/minorun365/minorun-marp-skill)
 * [Jevには残念なことに技術的な革新は無いが、すでにそこにあることが強いアドバンテージ](https://anond.hatelabo.jp/20260920135749)
+
+## 取得日時: 9月21日 22時52分
+
+* [愚昧なブクマカども](https://anond.hatelabo.jp/20260921134652)
+* [エンジニアと育児の両立の難しさ](https://tech-blog-v2-opal.vercel.app/article/balancing-engineering-and-parenting)
+* [Google AI Pro(2,900円)へのAIサブスク統一でYouTube Premium LiteとGoogle Cloud費用と色々が実質無料 - 太陽がまぶしかったから](https://www.du-soleil.com/entry/unify-into-google-ai-pro)
+* [テックリードとアーキテクトの違い、テックリードとEMの違い - mtx2s’s blog](https://mtx2s.hatenablog.com/entry/2026/09/21/182658)
+* [なぜSMS認証は弱いと言われるのか - Qiita](https://qiita.com/ktdatascience/items/666a82fcdf3dc4af00d7)
