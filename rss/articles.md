@@ -118,3 +118,11 @@
 * [Google AI Pro(2,900円)へのAIサブスク統一でYouTube Premium LiteとGoogle Cloud費用と色々が実質無料 - 太陽がまぶしかったから](https://www.du-soleil.com/entry/unify-into-google-ai-pro)
 * [テックリードとアーキテクトの違い、テックリードとEMの違い - mtx2s’s blog](https://mtx2s.hatenablog.com/entry/2026/09/21/182658)
 * [なぜSMS認証は弱いと言われるのか - Qiita](https://qiita.com/ktdatascience/items/666a82fcdf3dc4af00d7)
+
+## 取得日時: 9月22日 7時32分
+
+* [夫がフォルダ名を「2026-09-19」とつけていたので、 「何そのフォルダ名」と（20260919でええやろ、の意味で）言ったら、 「こうすると新しい順に並ぶから便利だよ」と言われた。 そうか……フィンランドでは普通は「19.9.2026」か……。→「yymmddで世界統一すべきシンプルな理由」](https://posfie.com/@petaritape/p/Es0IJEZ)
+* [Claude Codeの Agent view とセッション間通信は使ったほうがいい - じゃあ、おうちで学べる](https://syu-m-5151.hatenablog.com/entry/2026/09/21/104258)
+* [判断特化型AI「Jev」を簡単な具体例でわかりやすく解説！実際に試してみた | DevelopersIO](https://dev.classmethod.jp/articles/jev-guide-with-examples/)
+* [Windows 11 Homeでローカルアカウントを作成する新たな「抜け道」が発見される](https://garumax.com/windows-11-home-local-account-new-workaround)
+* [自転車交通違反の“反則金”の裏に警察の苦しい懐事情…　警察官僚の悲願だった“反則金化”とカネの行方（女性自身） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/c3af48e96bb9fd049a1c6e68ab222c8ae126237b)
