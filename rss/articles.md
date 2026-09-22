@@ -126,3 +126,11 @@
 * [判断特化型AI「Jev」を簡単な具体例でわかりやすく解説！実際に試してみた | DevelopersIO](https://dev.classmethod.jp/articles/jev-guide-with-examples/)
 * [Windows 11 Homeでローカルアカウントを作成する新たな「抜け道」が発見される](https://garumax.com/windows-11-home-local-account-new-workaround)
 * [自転車交通違反の“反則金”の裏に警察の苦しい懐事情…　警察官僚の悲願だった“反則金化”とカネの行方（女性自身） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/c3af48e96bb9fd049a1c6e68ab222c8ae126237b)
+
+## 取得日時: 9月22日 21時31分
+
+* [【独自】古書店で「謎の大量注文」相次ぐ……AI学習か 米国向け「日本の本 50トン」の輸出記録も（2026年9月22日掲載）｜日テレNEWS NNN](https://news.ntv.co.jp/category/society/e48899c1ab1445f683929740ef2b3aa6)
+* [tanteki — 業務のための文書をもっと端的に](https://iwasa-kosui.github.io/tanteki/)
+* [思考の外注割合を増やし、理解は外注しない - Konifar's ZATSU](https://konifar-zatsu.hatenadiary.jp/entry/2026/09/22/112134)
+* [macOS 27にはローカルLLMが入っている - Qiita](https://qiita.com/chibicco/items/ef1a9e40c4cdf15d8e21)
+* [ホームページに還ろう](https://kitasenjudesign.com/zine/)
