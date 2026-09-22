@@ -134,3 +134,11 @@
 * [思考の外注割合を増やし、理解は外注しない - Konifar's ZATSU](https://konifar-zatsu.hatenadiary.jp/entry/2026/09/22/112134)
 * [macOS 27にはローカルLLMが入っている - Qiita](https://qiita.com/chibicco/items/ef1a9e40c4cdf15d8e21)
 * [ホームページに還ろう](https://kitasenjudesign.com/zine/)
+
+## 取得日時: 9月23日 6時57分
+
+* [「AIは意識を持ち得ない」――世界的SF作家から届いたアンソロピックへの“メッセージ”](https://que.dailyshincho.jp/node/20880/)
+* [大量注文が来てた古本屋(Amazon)だけど質問ある？](https://anond.hatelabo.jp/20260922210618)
+* [AIがチェスで圧勝する理由の一端が見えてきた――「ややこしいまま耐える」時間が人間より長い - ナゾロジー](https://nazology.kusuguru.co.jp/archives/199973)
+* [コロンビアで乗ったUberのおっちゃん「日本人は人生を良くしようとしすぎ」.…幸せって問題がない状態じゃなくて、問題があっても機嫌よくいられること](https://posfie.com/@Count_Down_000/p/GX0uIFx)
+* [Claude Codeの Plugins は設定したほうがいい - じゃあ、おうちで学べる](https://syu-m-5151.hatenablog.com/entry/2026/09/22/124945)
