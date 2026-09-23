@@ -150,3 +150,11 @@
 * [Mixture of Experts 基礎技術メモ](https://iwashi.co/2026/09/23/mixture-of-experts-moe-memo)
 * [一日の作業をMarkdownに自動記録するAmbient Contextが良さげかも | kawarimidoll.com](https://kawarimidoll.com/posts/202609222/)
 * [What a task costs on Opus 5.5 | Claude by Anthropic](https://claude.com/blog/what-a-task-costs-on-opus-5-5)
+
+## 取得日時: 9月24日 7時10分
+
+* [まさかの「Appleが神コスパ」になっちゃった：新型M6 Mac miniレビュー | ギズモード・ジャパン](https://www.gizmodo.jp/article/2609-m6-mac-mini-review/)
+* [Claude Codeが「AGENTS.md」に対応。CLAUDE.mdが存在しない場合、自動的に読み込み](https://www.publickey1.jp/blog/26/claude_codeagentsmdclaudemd.html)
+* [Herdr Annotate で効率的なAIコーディングレビューサイクルを実現する](https://portablecode.info/2026/09/23/herdr-annotate-ai-review/)
+* [AI投資1兆ドルの帳尻は？ 「生産性2.7倍が必要」と 経済学者たちは試算する](https://www.technologyreview.jp/s/391065/what-must-happen-for-ais-trillion-dollar-gamble-to-pay-off/)
+* [loading.dev](https://loading.dev/)
