@@ -142,3 +142,11 @@
 * [AIがチェスで圧勝する理由の一端が見えてきた――「ややこしいまま耐える」時間が人間より長い - ナゾロジー](https://nazology.kusuguru.co.jp/archives/199973)
 * [コロンビアで乗ったUberのおっちゃん「日本人は人生を良くしようとしすぎ」.…幸せって問題がない状態じゃなくて、問題があっても機嫌よくいられること](https://posfie.com/@Count_Down_000/p/GX0uIFx)
 * [Claude Codeの Plugins は設定したほうがいい - じゃあ、おうちで学べる](https://syu-m-5151.hatenablog.com/entry/2026/09/22/124945)
+
+## 取得日時: 9月23日 21時41分
+
+* [ITエンジニアが本気で婚活したら7年かかった｜いぐぞー ✈️ 旅するプログラマー](https://note.com/igz0/n/n758e57fddaa8)
+* [そのlsは、GNU製ですか。2026年、UbuntuがコマンドをRust製に置き換え終えるまでに起きたこと - インフラ学習サイト「InfraAcademy」](https://engineer-ninaritai.com/ubuntu-rust-coreutils-2026/)
+* [Mixture of Experts 基礎技術メモ](https://iwashi.co/2026/09/23/mixture-of-experts-moe-memo)
+* [一日の作業をMarkdownに自動記録するAmbient Contextが良さげかも | kawarimidoll.com](https://kawarimidoll.com/posts/202609222/)
+* [What a task costs on Opus 5.5 | Claude by Anthropic](https://claude.com/blog/what-a-task-costs-on-opus-5-5)
