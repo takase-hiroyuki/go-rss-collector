@@ -166,3 +166,11 @@
 * [ハーネス設計入門 〜 基礎知識の整理から実務へのステップアップ 〜](https://speakerdeck.com/kinopeee/hanesu-sekkei-nyuumon-kiso-chishiki-no-seiri-kara-jitsumu-heno-suteppu-appu)
 * [長年解読できなかった82文字のエニグマ暗号を「GPT-6 Astra」が解読、独自に解読プログラムも作成](https://gigazine.net/news/20260924-enigma-mvueh-break/)
 * [3大、俺の中で天才ゲームプログラマ](https://anond.hatelabo.jp/20260924153226)
+
+## 取得日時: 9月25日 7時11分
+
+* [AIに文章を書かせると一番言いたいことが埋もれるので、想定読者と読後感を先に決めさせるSkillを作った - $shibayu36->blog;](https://blog.shibayu36.org/entry/2026/09/24/173000)
+* [みんなJevの話してる。やってないの俺だけ](https://zenn.dev/unsoluble_sugar/articles/jev-system-one-model-intro)
+* [エージェント時代のソフトウェア開発：手書きコードの終了と全面的な楽観主義](https://fasttube.cc/ja/v/vDjW_dRyKXY)
+* [Go言語で書かれた高速なIDE「Rune」、オープンソースで公開。ターミナルとコマンドプロンプト中心の開発環境、複数リモートノードをローカルのように操作可能](https://www.publickey1.jp/blog/26/goiderune.html)
+* [日本全国でMicrosoft Officeが突然消えたりライセンス認証が外れる不具合が発生→再インストールなどの対応が必要になったがどうしてこうなった？](https://togetter.com/li/2749851)
