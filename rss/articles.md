@@ -158,3 +158,11 @@
 * [Herdr Annotate で効率的なAIコーディングレビューサイクルを実現する](https://portablecode.info/2026/09/23/herdr-annotate-ai-review/)
 * [AI投資1兆ドルの帳尻は？ 「生産性2.7倍が必要」と 経済学者たちは試算する](https://www.technologyreview.jp/s/391065/what-must-happen-for-ais-trillion-dollar-gamble-to-pay-off/)
 * [loading.dev](https://loading.dev/)
+
+## 取得日時: 9月24日 21時40分
+
+* [はてな匿名ダイアリーは本日で20周年を迎えました - はてラボ 開発者ブログ](https://labo.hatenastaff.com/entry/2026/09/24/150000)
+* [「楽天銀行から数百万が勝手に移動」「残高が0に」……楽天証券のシステム不具合、連休中に発生](https://www.itmedia.co.jp/news/article/2609/24/2000001708/)
+* [ハーネス設計入門 〜 基礎知識の整理から実務へのステップアップ 〜](https://speakerdeck.com/kinopeee/hanesu-sekkei-nyuumon-kiso-chishiki-no-seiri-kara-jitsumu-heno-suteppu-appu)
+* [長年解読できなかった82文字のエニグマ暗号を「GPT-6 Astra」が解読、独自に解読プログラムも作成](https://gigazine.net/news/20260924-enigma-mvueh-break/)
+* [3大、俺の中で天才ゲームプログラマ](https://anond.hatelabo.jp/20260924153226)
