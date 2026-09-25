@@ -182,3 +182,11 @@
 * [「LLMの出力コードを理解できない初心者ばかり」　PS5非公式ハックの主導者が離脱、AI時代のOSS開発に苦言](https://atmarkit.itmedia.co.jp/ait/articles/2609/25/news048.html)
 * [「部活で褒めるのが苦手」と言う次女に「観察上手になればいい」と話した - レバテックLAB](https://levtech.jp/media/detail_931/)
 * [InstagramとFacebookに投稿された偽広告の責任をMetaが負うとの判決をドイツの裁判所が下す、偽広告コンテンツの削除と損害賠償の支払いが命じられる](https://gigazine.net/news/20260925-meta-fake-ads/)
+
+## 取得日時: 9月26日 7時10分
+
+* [OpenAIとClaudeのAgent SDKから学ぶAgentの基本構成 - ぷらすのブログ](https://blog.p1ass.com/posts/agent-foundations/)
+* [業務プロセスをいじっても生産性は上がらない。あるいは業務を良くするテコについて：プロジェクトマジック：オルタナティブ・ブログ](https://blogs.itmedia.co.jp/magic/2026/09/post_157.html)
+* [AI議事録の「誰の発言か分からん」を解決。0.1B「Nemotron 3 Diarization」無償公開](https://pc.watch.impress.co.jp/docs/news/2143200.html)
+* [Microsoft、新しい業務向け「Copilot」を発表 ～エージェント機能などを統合／新機能「Home」「Code」「Autopilot」を追加](https://forest.watch.impress.co.jp/docs/news/2143487.html)
+* [EXPLAIN で詰まったときの三つ目の手札、Optimizer Trace の話 - Timee Product Team Blog](https://tech.timee.co.jp/entry/2026/09/25/162348)
