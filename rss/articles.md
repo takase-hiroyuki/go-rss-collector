@@ -174,3 +174,11 @@
 * [エージェント時代のソフトウェア開発：手書きコードの終了と全面的な楽観主義](https://fasttube.cc/ja/v/vDjW_dRyKXY)
 * [Go言語で書かれた高速なIDE「Rune」、オープンソースで公開。ターミナルとコマンドプロンプト中心の開発環境、複数リモートノードをローカルのように操作可能](https://www.publickey1.jp/blog/26/goiderune.html)
 * [日本全国でMicrosoft Officeが突然消えたりライセンス認証が外れる不具合が発生→再インストールなどの対応が必要になったがどうしてこうなった？](https://togetter.com/li/2749851)
+
+## 取得日時: 9月25日 21時41分
+
+* [スマート冷蔵庫のファームウェアアップデート失敗で冷蔵機能が停止、食品が腐る事態に【やじうまWatch】](https://internet.watch.impress.co.jp/docs/yajiuma/2143157.html)
+* [グーグル「Gemini」に電話代行の新機能　レストラン予約もお任せ](https://japan.cnet.com/article/35252958/)
+* [「LLMの出力コードを理解できない初心者ばかり」　PS5非公式ハックの主導者が離脱、AI時代のOSS開発に苦言](https://atmarkit.itmedia.co.jp/ait/articles/2609/25/news048.html)
+* [「部活で褒めるのが苦手」と言う次女に「観察上手になればいい」と話した - レバテックLAB](https://levtech.jp/media/detail_931/)
+* [InstagramとFacebookに投稿された偽広告の責任をMetaが負うとの判決をドイツの裁判所が下す、偽広告コンテンツの削除と損害賠償の支払いが命じられる](https://gigazine.net/news/20260925-meta-fake-ads/)
