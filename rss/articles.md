@@ -198,3 +198,11 @@
 * [メルカリにおけるAI時代の高速プロトタイピング基盤「Arca」](https://speakerdeck.com/ryotarai/niokeru-ai-jidai-no-kousoku-kiban-arca)
 * [反AIの社会的な居場所が潰されててすげーわ](https://anond.hatelabo.jp/20260926101532)
 * [妻がベビーカーを押しているときは、変なジジイに絡まれたりババアになれ..](https://anond.hatelabo.jp/20260926111613)
+
+## 取得日時: 9月27日 6時55分
+
+* [【検証】Google AI Pro 限界まで使い倒したらめちゃくちゃお得 説｜ぶるぺん/blue.pen5805](https://note.com/blue_pen5805/n/nb124b104c28b)
+* [ナッツを多く食べる人、認知テストで高成績の傾向　豪州チームが1700人以上を分析](https://www.itmedia.co.jp/news/article/2609/26/2000001711/)
+* [「テレワーク廃止で人が辞める」「争奪戦が激しいITエンジニア職」、変革期を生き抜く組織の選択](https://atmarkit.itmedia.co.jp/ait/articles/2609/26/news010.html)
+* [インシデントが起きた瞬間、自分が何をすべきか分からない人へ。CSIRTの動き方まで見渡せる教科書 - Qiita](https://qiita.com/yasu1109/items/53b294aa9c288ace8c59)
+* [高校の文化祭でPOSシステムをCloudflare上に1から構築/運用した話 〜短期開発から本番障害、そして完売まで〜 - Qiita](https://qiita.com/ast-24/items/454fc975b095230565c7)
