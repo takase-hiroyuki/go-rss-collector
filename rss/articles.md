@@ -190,3 +190,11 @@
 * [AI議事録の「誰の発言か分からん」を解決。0.1B「Nemotron 3 Diarization」無償公開](https://pc.watch.impress.co.jp/docs/news/2143200.html)
 * [Microsoft、新しい業務向け「Copilot」を発表 ～エージェント機能などを統合／新機能「Home」「Code」「Autopilot」を追加](https://forest.watch.impress.co.jp/docs/news/2143487.html)
 * [EXPLAIN で詰まったときの三つ目の手札、Optimizer Trace の話 - Timee Product Team Blog](https://tech.timee.co.jp/entry/2026/09/25/162348)
+
+## 取得日時: 9月26日 21時9分
+
+* [ローカルLLMで使えるWeb検索まとめ｜npaka](https://note.com/npaka/n/n1d86b2196515)
+* [DHHはRailsを捨てたのか？｜laiso](https://sizu.me/laiso/posts/ut6i125ew44m)
+* [メルカリにおけるAI時代の高速プロトタイピング基盤「Arca」](https://speakerdeck.com/ryotarai/niokeru-ai-jidai-no-kousoku-kiban-arca)
+* [反AIの社会的な居場所が潰されててすげーわ](https://anond.hatelabo.jp/20260926101532)
+* [妻がベビーカーを押しているときは、変なジジイに絡まれたりババアになれ..](https://anond.hatelabo.jp/20260926111613)
