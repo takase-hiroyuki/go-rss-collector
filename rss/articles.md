@@ -214,3 +214,11 @@
 * [5年前に盗まれたギターがアメリカから帰ってきた話｜TAKU](https://note.com/takuinsist/n/n7d2b265d707b)
 * [ITなんて何も分からない父親に「寺の業務システムを作りたい」と言われたので概念図を書いてもらったら、一発でこれが出てきてすごい](https://togetter.com/li/2751108)
 * [ローカルLLMのためのメモリ基礎知識｜npaka](https://note.com/npaka/n/n0ee92a316be3)
+
+## 取得日時: 9月28日 6時58分
+
+* [はてブコメントで攻撃的なやつをJevで隠す拡張機能 - 本しゃぶり](https://honeshabri.hatenablog.com/entry/hatebu-veil)
+* [リモートワークを続けるためにやるべきこと - モヒカン技術ブログ](https://blog.pinkumohikan.com/entry/for-continuing-to-remote-work)
+* [ChatGPTの英語学習効果とは？ 最新の研究や依存の注意点も紹介・おすすめの学習ロードマップも完全解説 - ポリグロットライフ | 言語まなび∞ラボ](https://www.sunafuki.com/entry/chatgpt_English)
+* [「新しいドパ」フラッシュ暗算のように次々本の文章を出していく「PSVR」という読書手法を、AIを使って再現したらなかなか読める](https://togetter.com/li/2751150)
+* [JevでXのタイムラインを浄化する拡張機能を作った](https://zenn.dev/midorisawa07/articles/58411e9ee7e990)
