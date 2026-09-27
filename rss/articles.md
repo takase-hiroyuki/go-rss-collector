@@ -206,3 +206,11 @@
 * [「テレワーク廃止で人が辞める」「争奪戦が激しいITエンジニア職」、変革期を生き抜く組織の選択](https://atmarkit.itmedia.co.jp/ait/articles/2609/26/news010.html)
 * [インシデントが起きた瞬間、自分が何をすべきか分からない人へ。CSIRTの動き方まで見渡せる教科書 - Qiita](https://qiita.com/yasu1109/items/53b294aa9c288ace8c59)
 * [高校の文化祭でPOSシステムをCloudflare上に1から構築/運用した話 〜短期開発から本番障害、そして完売まで〜 - Qiita](https://qiita.com/ast-24/items/454fc975b095230565c7)
+
+## 取得日時: 9月27日 21時55分
+
+* [ChatGPTやClaudeの有料プランに課金できる人だけが正しい検索結果に辿り着き、貧乏人はハルシネーションだらけの嘘と本当の区別がつかない世界に突き落とされると主張する](https://togetter.com/li/2750963)
+* [「SuicaがJR東海エリアで使えない」問題、ついに解消か　JR東海社長「勉強している」](https://www.itmedia.co.jp/mobile/articles/2609/27/news012.html)
+* [5年前に盗まれたギターがアメリカから帰ってきた話｜TAKU](https://note.com/takuinsist/n/n7d2b265d707b)
+* [ITなんて何も分からない父親に「寺の業務システムを作りたい」と言われたので概念図を書いてもらったら、一発でこれが出てきてすごい](https://togetter.com/li/2751108)
+* [ローカルLLMのためのメモリ基礎知識｜npaka](https://note.com/npaka/n/n0ee92a316be3)
