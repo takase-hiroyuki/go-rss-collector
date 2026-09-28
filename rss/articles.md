@@ -230,3 +230,11 @@
 * [オムロン、祖業を売却　電子部品事業「重い決断」 | NEWSjp](https://news.jp/i/1477171752691761383)
 * [「タイムズカーWebサイト」への不正アクセスに関する調査結果および今後の対応について（第2報） | カーシェアリングのタイムズカー](https://share.timescar.jp/news/2026/0928/1815.html)
 * [「タイムズカー」会員情報約660万件漏えい　運転免許画像など　不正アクセスで](https://www.itmedia.co.jp/news/article/2609/28/2000001808/)
+
+## 取得日時: 9月29日 8時47分
+
+* [Codexを使うなら、/goalとサイドチャットを押さえておきたい - じゃあ、おうちで学べる](https://syu-m-5151.hatenablog.com/entry/2026/09/27/120017)
+* [Yahoo!きっずサービス終了のお知らせ - Yahoo!きっずからのお知らせ - Yahoo!きっず](https://kids.yahoo.co.jp/info/archives/20260928_1.html)
+* [タイムズカーWebサイトへの不正アクセスについてまとめてみた - piyolog](https://piyolog.hatenadiary.jp/entry/2026/09/28/214857)
+* [NRアプリへの不正アクセスによる会員情報漏えいに関するお詫びとお知らせ|ニッポンレンタカー](https://www.nipponrentacar.co.jp/info/202609.html)
+* [UIの本に「長押しの機能はユーザが気づきにくいよ」って書いてあって、ふ～んって思いながら部屋の照明のボタン長押ししたら、白からオレンジになった「お前もかよ」](https://togetter.com/li/2751548)
