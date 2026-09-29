@@ -238,3 +238,11 @@
 * [タイムズカーWebサイトへの不正アクセスについてまとめてみた - piyolog](https://piyolog.hatenadiary.jp/entry/2026/09/28/214857)
 * [NRアプリへの不正アクセスによる会員情報漏えいに関するお詫びとお知らせ|ニッポンレンタカー](https://www.nipponrentacar.co.jp/info/202609.html)
 * [UIの本に「長押しの機能はユーザが気づきにくいよ」って書いてあって、ふ～んって思いながら部屋の照明のボタン長押ししたら、白からオレンジになった「お前もかよ」](https://togetter.com/li/2751548)
+
+## 取得日時: 9月29日 22時56分
+
+* [免許証画像が漏れると何が“ヤバい”のか　タイムズカーで最大約660万件の個人情報漏えいで考えられる「3つのリスク」](https://www.itmedia.co.jp/mobile/articles/2609/29/news085.html)
+* [AIで地図アプリをたくさん作ったので話を聞いてほしい　地図好きが作る自分が本当に使いたかったアプリの数々](https://dailyportalz.jp/kiji/ai-chizu-app-tsukutta)
+* [IIJ、新人エンジニア向け研修教材を無料公開　Web技術の基礎から生成AI活用まで20講義超](https://www.itmedia.co.jp/news/article/2609/29/2000001854/)
+* [「タイムズカーWebサイト」への不正アクセスに関する調査結果および今後の対応について（第3報） | カーシェアリングのタイムズカー](https://share.timescar.jp/news/2026/0929/1816.html)
+* [ChromeOSの後継Googlebook OSはウンコ💩やで](https://anond.hatelabo.jp/20260925135223)
