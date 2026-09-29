@@ -246,3 +246,11 @@
 * [IIJ、新人エンジニア向け研修教材を無料公開　Web技術の基礎から生成AI活用まで20講義超](https://www.itmedia.co.jp/news/article/2609/29/2000001854/)
 * [「タイムズカーWebサイト」への不正アクセスに関する調査結果および今後の対応について（第3報） | カーシェアリングのタイムズカー](https://share.timescar.jp/news/2026/0929/1816.html)
 * [ChromeOSの後継Googlebook OSはウンコ💩やで](https://anond.hatelabo.jp/20260925135223)
+
+## 取得日時: 9月30日 7時54分
+
+* [「Microsoft Learn」の公開ドキュメントリポジトリ、多くが年内に終了へ／廃止対象では「GitHub」経由の修正提案ができなくなる](https://forest.watch.impress.co.jp/docs/news/2143945.html)
+* [箱はよくできているのに羊がいないはてなパークスの現状について - 関内関外日記](https://goldhead.hatenablog.com/entry/2026/09/29/125355)
+* [無料でJev互換の小型高速意思決定モデル「Jeff」、ローカル環境で約22～28ミリ秒と爆速](https://gigazine.net/news/20260929-jeff/)
+* [Git 2.56.0の新機能とGit 3.0リリース計画の概要](https://about.gitlab.com/ja-jp/blog/whats-new-in-git-2-56-0/)
+* [GitHub - mizchi/explainer](https://github.com/mizchi/explainer)
