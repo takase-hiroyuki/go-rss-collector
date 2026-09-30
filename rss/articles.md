@@ -262,3 +262,11 @@
 * [タイムズカー、退会者の免許証画像も「7年」保存していた理由　パーク24に聞いた](https://www.itmedia.co.jp/news/article/2609/30/2000001877/)
 * [「WSL 3.0」がリリース、3カ月のテストを経て「WSL containers」が正式版に／「Docker」なしでLinuxコンテナーを構築・実行、「wslc compose」の開発にも着手](https://forest.watch.impress.co.jp/docs/news/2144295.html)
 * [オレのClaude Code作業環境、控えめにいって最高すぎる〜Stream Deckでherdrを操作、完了はずんだもんが読み上げ〜 | SIOS Tech Lab](https://tech-lab.sios.jp/archives/54936)
+
+## 取得日時: 10月1日 7時54分
+
+* [Gemini 4 Argon: our next era of frontier intelligence](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)
+* [GitHub - nanaism/yomiyasu: AI生成された文章の不自然さを取り除き、人間にとって自然な日本語へ書き直すためのAgent Skill](https://github.com/nanaism/yomiyasu)
+* [芝浦工業大学・尾崎教授の計算アルゴリズムをNVIDIAが新たに採用〜 AI時代のGPUから、科学シミュレーションに不可欠な高精度計算を引き出す 〜｜芝浦工業大学](https://www.shibaura-it.ac.jp/headline/detail/20260930_7070_51_1.html)
+* [設計次第でAIコードの読む量は減らせる / designing-for-code-reading](https://speakerdeck.com/minodriven/designing-for-code-reading)
+* [凸凹育児とエンジニアを両方やるということ - yprestoの非技術ブログ](https://ypresto.hatenablog.jp/entry/2026/09/30/233500)
