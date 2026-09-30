@@ -254,3 +254,11 @@
 * [無料でJev互換の小型高速意思決定モデル「Jeff」、ローカル環境で約22～28ミリ秒と爆速](https://gigazine.net/news/20260929-jeff/)
 * [Git 2.56.0の新機能とGit 3.0リリース計画の概要](https://about.gitlab.com/ja-jp/blog/whats-new-in-git-2-56-0/)
 * [GitHub - mizchi/explainer](https://github.com/mizchi/explainer)
+
+## 取得日時: 9月30日 22時33分
+
+* [はてな匿名ダイアリーがChatGPTから使えるようになりました - はてラボ 開発者ブログ](https://labo.hatenastaff.com/entry/2026/09/30/151500)
+* [タイムズカー情報漏洩 集団訴訟｜参加希望者受付中](https://timescar-lawsuit.com/)
+* [タイムズカー、退会者の免許証画像も「7年」保存していた理由　パーク24に聞いた](https://www.itmedia.co.jp/news/article/2609/30/2000001877/)
+* [「WSL 3.0」がリリース、3カ月のテストを経て「WSL containers」が正式版に／「Docker」なしでLinuxコンテナーを構築・実行、「wslc compose」の開発にも着手](https://forest.watch.impress.co.jp/docs/news/2144295.html)
+* [オレのClaude Code作業環境、控えめにいって最高すぎる〜Stream Deckでherdrを操作、完了はずんだもんが読み上げ〜 | SIOS Tech Lab](https://tech-lab.sios.jp/archives/54936)
