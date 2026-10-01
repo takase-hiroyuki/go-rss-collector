@@ -278,3 +278,11 @@
 * [佐川急便、不正アクセスで個人情報流出か　送り主・届け先の氏名や住所など、約100日分の荷物データ対象](https://www.itmedia.co.jp/news/article/2610/01/2000001933/)
 * [Gboard チームからの新しいキーボードのご提案 2026](https://blog.google/intl/ja-jp/products/android-chrome-play/gboard-2026/)
 * [日本原子力機構に不正アクセス　研究者の個人情報が漏えい | NEWSjp](https://news.jp/i/1478318653420880862)
+
+## 取得日時: 10月2日 8時4分
+
+* [全体像が知りたいんだよォー！そんな時は図解スキルeli5が便利](https://eiji.page/blog/ai-skill-eli5-is-great)
+* [AIを業務改善につなげるための5ステップ ― サービスデザインを活用した要件定義 - Qiita](https://qiita.com/TamakiSeki/items/ac268db56f92b991970b)
+* [怪異をすべて“物理”でぶっ飛ばすホラー映像作品『現地確認記録』が話題に。異常な主人公・佐藤が異変を調査](https://news.denfaminicogamer.jp/news/261001u)
+* [dotfiles を AI agent のために作り変えた](https://tellme.tokyo/post/2026/10/01/ai-agent-first-dotfiles/)
+* [テスト要求仕様（TRS）を書いてみたら、テスト設計が楽になった話](https://zenn.dev/edash_tech_blog/articles/0d49bd338b64f0)
