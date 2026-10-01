@@ -270,3 +270,11 @@
 * [芝浦工業大学・尾崎教授の計算アルゴリズムをNVIDIAが新たに採用〜 AI時代のGPUから、科学シミュレーションに不可欠な高精度計算を引き出す 〜｜芝浦工業大学](https://www.shibaura-it.ac.jp/headline/detail/20260930_7070_51_1.html)
 * [設計次第でAIコードの読む量は減らせる / designing-for-code-reading](https://speakerdeck.com/minodriven/designing-for-code-reading)
 * [凸凹育児とエンジニアを両方やるということ - yprestoの非技術ブログ](https://ypresto.hatenablog.jp/entry/2026/09/30/233500)
+
+## 取得日時: 10月1日 23時22分
+
+* [睡眠中に「ピンクノイズ」を聞くと“脳内ゴミ”の洗い流しが強まる？　米MITが人間で実験　Science系列誌で発表](https://www.itmedia.co.jp/news/article/2610/01/2000001901/)
+* [免許悪用防止届け一部休止　タイムズカー画像流出で | NEWSjp](https://news.jp/i/1478299651827581816)
+* [佐川急便、不正アクセスで個人情報流出か　送り主・届け先の氏名や住所など、約100日分の荷物データ対象](https://www.itmedia.co.jp/news/article/2610/01/2000001933/)
+* [Gboard チームからの新しいキーボードのご提案 2026](https://blog.google/intl/ja-jp/products/android-chrome-play/gboard-2026/)
+* [日本原子力機構に不正アクセス　研究者の個人情報が漏えい | NEWSjp](https://news.jp/i/1478318653420880862)
