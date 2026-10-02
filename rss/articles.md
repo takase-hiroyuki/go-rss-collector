@@ -294,3 +294,11 @@
 * [OpenPOI API — 日本全国337万件のPOI検索API](https://openpoiapi.com/)
 * [文字画像APNGメーカー｜TRPG WEBツール観測所](https://kumachansteps.github.io/trpg-web-tools/tools/text-apng-maker/)
 * [はてな匿名ダイアリーがClaudeからも使えるようになりました - はてラボ 開発者ブログ](https://labo.hatenastaff.com/entry/2026/10/02/113000)
+
+## 取得日時: 10月3日 7時54分
+
+* [ネットワークの仕組みを実習で体感できる入門教材「Linuxネットワーク標準教科書」を無償公開 ～2,000名超のLinuC Open Networkコミュニティで共創、LinuC学習の土台に ～](https://lpi.or.jp/news/press/page/20261001_01/)
+* [普通のメガネなのに網膜投影　TDKがレンズに埋め込める透明ミラー](https://www.watch.impress.co.jp/docs/news/2145266.html)
+* [「ｅ－Ｔａｘ」で不具合　贈与税申告内容が閲覧される状態に | NHKニュース](https://news.web.nhk/newsweb/na/nd-20261002de53960)
+* [【Cursor pstack】AIエージェントに開発を任せる環境をつくる ―月2,500件のPRを支えた開発基盤とは？](https://zenn.dev/sc30gsw/books/080faba713547b)
+* [タイムズカー免許証画像流出、集団訴訟準備サイトに1万人超登録　責任追及へ弁護士が開設](https://www.sankei.com/article/20261002-CBY3MPTUCVOO7BQLK4W4MOITEM/)
