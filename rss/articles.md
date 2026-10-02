@@ -286,3 +286,11 @@
 * [怪異をすべて“物理”でぶっ飛ばすホラー映像作品『現地確認記録』が話題に。異常な主人公・佐藤が異変を調査](https://news.denfaminicogamer.jp/news/261001u)
 * [dotfiles を AI agent のために作り変えた](https://tellme.tokyo/post/2026/10/01/ai-agent-first-dotfiles/)
 * [テスト要求仕様（TRS）を書いてみたら、テスト設計が楽になった話](https://zenn.dev/edash_tech_blog/articles/0d49bd338b64f0)
+
+## 取得日時: 10月2日 22時45分
+
+* [【速報】ヤマト運輸、不正アクセスで顧客情報流出か](https://www.47news.jp/15026982.html)
+* [AI時代の勉強法(2026)](https://iwashi.co/2026/10/01/how-to-study-in-ai-era)
+* [OpenPOI API — 日本全国337万件のPOI検索API](https://openpoiapi.com/)
+* [文字画像APNGメーカー｜TRPG WEBツール観測所](https://kumachansteps.github.io/trpg-web-tools/tools/text-apng-maker/)
+* [はてな匿名ダイアリーがClaudeからも使えるようになりました - はてラボ 開発者ブログ](https://labo.hatenastaff.com/entry/2026/10/02/113000)
