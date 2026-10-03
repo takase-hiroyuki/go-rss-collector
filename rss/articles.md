@@ -310,3 +310,11 @@
 * [Codex Security ・ Claude Security 入門｜npaka](https://note.com/npaka/n/n2b9c36c471b6)
 * [「アバハウス」全顧客の情報漏えいか　会員・受注DBに不正アクセス　「不審な返金メール届いた」報告で判明](https://www.itmedia.co.jp/news/article/2610/03/2000001981/)
 * [宮本佳林『【技術ブログ】ライブツアー用WebアプリをCloudflareWorkersとD1で』](https://ameblo.jp/miyamotokarin-official/entry-12980414977.html)
+
+## 取得日時: 10月4日 7時4分
+
+* [「決め方」の渡し方 / How to hand over the "decision-making process"](https://speakerdeck.com/pauli/how-to-hand-over-the-decision-making-process)
+* [CSS の margin-trim でコンテナーの端の余白を取り除く](https://azukiazusa.dev/blog/css-margin-trim/)
+* [2026 年 10 月前半の LLM 利用状況](https://voluntas.ghost.io/2026-10-first-half-llm/)
+* [ＡＩの社会実装に関する情報提供のお願い : 規制改革 - 内閣府](https://www8.cao.go.jp/kisei-kaikaku/kisei/forms/261002_forms.html)
+* [AI増田判定、便利すぎて本文を読まなくて済むようになってる](https://anond.hatelabo.jp/20261003152005)
