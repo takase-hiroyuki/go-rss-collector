@@ -302,3 +302,11 @@
 * [「ｅ－Ｔａｘ」で不具合　贈与税申告内容が閲覧される状態に | NHKニュース](https://news.web.nhk/newsweb/na/nd-20261002de53960)
 * [【Cursor pstack】AIエージェントに開発を任せる環境をつくる ―月2,500件のPRを支えた開発基盤とは？](https://zenn.dev/sc30gsw/books/080faba713547b)
 * [タイムズカー免許証画像流出、集団訴訟準備サイトに1万人超登録　責任追及へ弁護士が開設](https://www.sankei.com/article/20261002-CBY3MPTUCVOO7BQLK4W4MOITEM/)
+
+## 取得日時: 10月3日 21時24分
+
+* [韓国6行に「AIハッキング」、4行で個人情報流出](https://www.chosunonline.com/site/data/html_dir/2026/10/03/2026100380012.html)
+* [新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた - Qiita](https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14)
+* [Codex Security ・ Claude Security 入門｜npaka](https://note.com/npaka/n/n2b9c36c471b6)
+* [「アバハウス」全顧客の情報漏えいか　会員・受注DBに不正アクセス　「不審な返金メール届いた」報告で判明](https://www.itmedia.co.jp/news/article/2610/03/2000001981/)
+* [宮本佳林『【技術ブログ】ライブツアー用WebアプリをCloudflareWorkersとD1で』](https://ameblo.jp/miyamotokarin-official/entry-12980414977.html)
