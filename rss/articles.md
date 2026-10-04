@@ -318,3 +318,11 @@
 * [2026 年 10 月前半の LLM 利用状況](https://voluntas.ghost.io/2026-10-first-half-llm/)
 * [ＡＩの社会実装に関する情報提供のお願い : 規制改革 - 内閣府](https://www8.cao.go.jp/kisei-kaikaku/kisei/forms/261002_forms.html)
 * [AI増田判定、便利すぎて本文を読まなくて済むようになってる](https://anond.hatelabo.jp/20261003152005)
+
+## 取得日時: 10月4日 22時7分
+
+* [AI に仕事を奪われるのはエンジニアではなくプロダクトマネージャーの方だった](https://portalshit.net/2026/10/03/ai-is-eating-product-management)
+* [localhostを爆速でインターネットへ安全に公開する「Cloudflare Quick Tunnels」、たった1つのコマンドで暗号化された公開URLを作成可能でアカウント・DNSレコード・ポート開放は一切不要](https://gigazine.net/news/20261004-cloudflare-quick-tunnels/)
+* [個人向けGeminiのモデル選択が厳格化　無料ユーザーが使えるのは「Flash-Lite」のみに](https://www.itmedia.co.jp/news/article/2610/04/2000001987/)
+* [日経にサイバー攻撃　情報漏洩、不審メール9000件送信 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUD02B5F0S6A001C2000000/)
+* [「雑に扱うと面倒、と思わせるのは大事」大手金融機関に無限のAI対応やられ実質ノー回答だったので「消費者庁に電話するしかねーな」とつぶやいたら、人間に繋がった](https://togetter.com/li/2753906)
