@@ -334,3 +334,11 @@
 * [30年かけて育てた自動耳コピ「WaoN」がiOS/Macアプリに！AI時代にあえて挑む、0倍速でも音が鳴り続ける「わおん」](https://www.dtmstation.com/archives/80372.html)
 * [JSONはシンプルで明快な仕様が魅力ですが、そんなJSONでも微妙な実装差異が生じる罠がいくつかあります。本稿はこうした機微を実装の比較を通](https://zenn.dev/qnighy/articles/json-ambiguity)
 * [AIでの人員削減は現実的ではないと希望で語る人がいる中、外注はゼロにして社内の人間を20人から4人にした経営者の経験談を語る「築き上げてきたものがAIで完全に崩壊」](https://togetter.com/li/2753949)
+
+## 取得日時: 10月6日 0時49分
+
+* [焼肉きんぐに不正アクセス、1078万人分の情報流出　アプリ登録者ほぼ全員が対象](https://ascii.jp/elem/000/004/440/4440100/)
+* [俺のAIプログラミング手法(2026/10/05)](https://zenn.dev/mizchi/articles/ai-coding-loop-formal)
+* [アマゾン「Audible」、本の登場人物と会話できる新機能を提供へ](https://japan.cnet.com/article/35253230/)
+* [何これ、すごすぎる！！ PhotoshopやIllustratorをオープンソースで再構築、しかもWin、Mac、Linux、Web対応で無料](https://coliss.com/wp-content/cache/all/articles/build-websites/operation/work/7-adobe-apps-open-sourced.html/index.html)
+* [AIでコード生成は加速、でも人間の確認が追いつかない問題。t-wadaが示す「レビュー解体」という答え - エンジニアtype | 転職type](https://type.jp/et/feature/31834/)
