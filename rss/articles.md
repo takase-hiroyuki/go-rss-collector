@@ -342,3 +342,11 @@
 * [アマゾン「Audible」、本の登場人物と会話できる新機能を提供へ](https://japan.cnet.com/article/35253230/)
 * [何これ、すごすぎる！！ PhotoshopやIllustratorをオープンソースで再構築、しかもWin、Mac、Linux、Web対応で無料](https://coliss.com/wp-content/cache/all/articles/build-websites/operation/work/7-adobe-apps-open-sourced.html/index.html)
 * [AIでコード生成は加速、でも人間の確認が追いつかない問題。t-wadaが示す「レビュー解体」という答え - エンジニアtype | 転職type](https://type.jp/et/feature/31834/)
+
+## 取得日時: 10月6日 9時43分
+
+* [連日の不正アクセスの件、マジでシャレにならないが、こんなやばいの日本だけ？他の国で問題になってないん？「今世界中で起きてる」](https://togetter.com/li/2754581)
+* [ウナギ稚魚の生産コストが4万円→1800円に　約20分の1以下に削減　水産研究・教育機構が大型水槽を開発 | himanews](https://himanews.jp/2145532462-2/)
+* [Codex Cloudを利用してコード修正してもらっていたら本名が駄々洩れしていた話 | Pandora Pocket](https://blog.hitsujin.jp/entry/2026/10/05/codex-cloud-git-author)
+* [【速報】「多くの方々にご不便とご心配かけ、深くお詫び」大阪公立大が謝罪　ランサムウェアによるサイバー攻撃か　基盤システム障害で全授業が休講中　対面授業は9日以降再開予定 | TBS NEWS DIG](https://newsdig.tbs.co.jp/articles/-/2990268)
+* [ランサム集団キリンの中心メンバー、日本で拘束　アサヒにも「攻撃」（朝日新聞） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/e8c753300f37b0f2ba619bfe706422fe59ed0d6b)
