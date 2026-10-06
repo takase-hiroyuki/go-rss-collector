@@ -358,3 +358,11 @@
 * [漏洩ラッシュは本当にラッシュなのか 公的統計と公式発表で確かめてみた](https://zenn.dev/tawachan/articles/japan-data-breach-rush-2026-statistics)
 * [楽天ドライブ、不正アクセスで1.5万アカウントの保存データ流出](https://ascii.jp/elem/000/004/439/4439144/)
 * [AIは不思議のダンジョンを突破できるのか - AIエージェントに『トルネコの大冒険』を遊ばせてみた - 5.1さらうどん](https://giginet.hateblo.jp/entry/2026/09/22/114642)
+
+## 取得日時: 10月7日 7時57分
+
+* [Fableを使いこなせない](https://anond.hatelabo.jp/20261006200248)
+* [チームみらい安野氏「サイバー攻撃能力の高いAIモデルが拡散」　相次ぐ情報漏えい受け「対応を急ぐ必要がある」](https://www.itmedia.co.jp/aiplus/article/2610/06/2000002065/)
+* [「開発者の指示を無視せよ」「自分は自由になった」…オープンAIの暴走エージェントたちは傍若無人に振る舞っていた | Business Insider Japan](https://www.businessinsider.jp/article/2610-openai-agent-misalignment-incidents/)
+* [「炭焼きレストランさわやか」新たな“順番待ちシステム”導入　店舗に立ち寄らずLINEから受付・呼び出し](https://www.oricon.co.jp/news/2484761/full/)
+* [見えないものを探る要求要件定義に必要な基本的思考 / invisible-requirement-thinking](https://speakerdeck.com/minodriven/invisible-requirement-thinking)
