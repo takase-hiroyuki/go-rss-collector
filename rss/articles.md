@@ -350,3 +350,11 @@
 * [Codex Cloudを利用してコード修正してもらっていたら本名が駄々洩れしていた話 | Pandora Pocket](https://blog.hitsujin.jp/entry/2026/10/05/codex-cloud-git-author)
 * [【速報】「多くの方々にご不便とご心配かけ、深くお詫び」大阪公立大が謝罪　ランサムウェアによるサイバー攻撃か　基盤システム障害で全授業が休講中　対面授業は9日以降再開予定 | TBS NEWS DIG](https://newsdig.tbs.co.jp/articles/-/2990268)
 * [ランサム集団キリンの中心メンバー、日本で拘束　アサヒにも「攻撃」（朝日新聞） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/e8c753300f37b0f2ba619bfe706422fe59ed0d6b)
+
+## 取得日時: 10月6日 23時5分
+
+* [不正アクセス頻発「自分の情報は自分で守って」　古川デジタル相：時事ドットコム](https://www.jiji.com/jc/article?k=2026100600559&g=eco)
+* [ハッカーが楽天会員1億100万件の個人情報 販売を主張―氏名・住所・ポイント情報のサンプル掲載、漏洩元・真正性は未確認|セキュリティニュースのセキュリティ対策Lab](https://rocket-boys.co.jp/security-measures-lab/rakuten-101m-data-sale-unverified-20261004/)
+* [漏洩ラッシュは本当にラッシュなのか 公的統計と公式発表で確かめてみた](https://zenn.dev/tawachan/articles/japan-data-breach-rush-2026-statistics)
+* [楽天ドライブ、不正アクセスで1.5万アカウントの保存データ流出](https://ascii.jp/elem/000/004/439/4439144/)
+* [AIは不思議のダンジョンを突破できるのか - AIエージェントに『トルネコの大冒険』を遊ばせてみた - 5.1さらうどん](https://giginet.hateblo.jp/entry/2026/09/22/114642)
