@@ -374,3 +374,11 @@
 * [【速報】HIS、顧客6百人超パスポート情報流出か](https://www.47news.jp/15049148.html)
 * [【独自】“日本は世界最悪のコンピュータセキュリティ体制” ハッカー集団「Qilin」中心メンバー拘束で取材に応じる アサヒビールなどにサイバー攻撃 | TBS NEWS DIG](https://newsdig.tbs.co.jp/articles/-/2995228)
 * [バイブコーディングで作った公開中のWebアプリ、9割に脆弱性　MSの研究者など調査](https://www.itmedia.co.jp/news/article/2610/07/2000002055/)
+
+## 取得日時: 10月8日 8時32分
+
+* [銀行もやられるの時間の問題だろ。そんな事ありえないwと言うだろうが、銀行のデータ全部消滅したらどうなるんだ。いま預金通帳もってない者多いだろ。おれは持ってるが、記入された残高が今銀行にあると証明するすべがない。その後ATMで引き出してませんか？カード会社が引き落としてませんか？とか。→「これを一番恐れている🥶 ネット証券ネット銀行…。 怖いよ〜😭」](https://posfie.com/@petaritape/p/wXRbWdC)
+* [伝書鳩に不正アクセス　野鳩侵入で情報漏えい２４０万件](https://kyoko-np.net/2026100801.html)
+* [IDCFクラウドへのランサムウェア攻撃についてまとめてみた - piyolog](https://piyolog.hatenadiary.jp/entry/2026/10/08/070606)
+* [手動テストを渡すだけでE2Eが完成する仕組みを作りました - kickflow Tech Blog](https://tech.kickflow.co.jp/entry/2026/10/06/105939)
+* [【速報】RTX Spark搭載Surfaceが正式発表、18コア/24GBモデルや20コア/128GBモデル](https://pc.watch.impress.co.jp/docs/news/2146579.html)
