@@ -366,3 +366,11 @@
 * [「開発者の指示を無視せよ」「自分は自由になった」…オープンAIの暴走エージェントたちは傍若無人に振る舞っていた | Business Insider Japan](https://www.businessinsider.jp/article/2610-openai-agent-misalignment-incidents/)
 * [「炭焼きレストランさわやか」新たな“順番待ちシステム”導入　店舗に立ち寄らずLINEから受付・呼び出し](https://www.oricon.co.jp/news/2484761/full/)
 * [見えないものを探る要求要件定義に必要な基本的思考 / invisible-requirement-thinking](https://speakerdeck.com/minodriven/invisible-requirement-thinking)
+
+## 取得日時: 10月7日 23時22分
+
+* [相次ぐWEBシステムからの情報漏洩事案について | セキュリティ研究センターブログ](https://security.macnica.co.jp/blog/2026/10/web-incidents2026.html)
+* [最近のLLMは黙って考えられるようになっている - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ](https://joisino.hatenablog.com/entry/filler)
+* [【速報】HIS、顧客6百人超パスポート情報流出か](https://www.47news.jp/15049148.html)
+* [【独自】“日本は世界最悪のコンピュータセキュリティ体制” ハッカー集団「Qilin」中心メンバー拘束で取材に応じる アサヒビールなどにサイバー攻撃 | TBS NEWS DIG](https://newsdig.tbs.co.jp/articles/-/2995228)
+* [バイブコーディングで作った公開中のWebアプリ、9割に脆弱性　MSの研究者など調査](https://www.itmedia.co.jp/news/article/2610/07/2000002055/)
