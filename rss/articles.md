@@ -390,3 +390,11 @@
 * [【速報】ローソンに不正アクセス、215万件漏えい](https://www.47news.jp/15055808.html)
 * [すでにWEBデザイナーの8割は不要である - Qiita](https://qiita.com/kotowazaman/items/74621592ace2ff968670)
 * [2026年 情報漏洩・不正アクセスTier表](https://ai.itokoba.com/security-tier/)
+
+## 取得日時: 10月9日 8時42分
+
+* [AIに月3万円使えない人はその時点で負けている｜手羽先](https://note.com/teba_eleven/n/n61e5e7700881)
+* [さくらインターネット、GPU専有によりトークン消費量を気にせず定額で利用できる「さくらのAI Engineプライベートエディション」提供開始を発表](https://www.publickey1.jp/blog/26/gpuai_engine.html)
+* [情報漏えいの公表急増――いま増えているのは「攻撃」ではなく「発覚」 | SECURITY DRIVE](https://securitydrive.jp/column/0023/)
+* [外国人技術者の米永住権申請制度、Microsoftの利用停止　バンス氏表明 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN08BSH0Y6A001C2000000/)
+* [【速報】リーマン予想に進展があったかもしれない【零点の評価から何が言えるの？】 - tsujimotterのノートブック](https://tsujimotter.hatenablog.com/entry/riemann-hypothesis-progression-oct-2026)
