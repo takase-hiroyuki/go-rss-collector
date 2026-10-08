@@ -382,3 +382,11 @@
 * [IDCFクラウドへのランサムウェア攻撃についてまとめてみた - piyolog](https://piyolog.hatenadiary.jp/entry/2026/10/08/070606)
 * [手動テストを渡すだけでE2Eが完成する仕組みを作りました - kickflow Tech Blog](https://tech.kickflow.co.jp/entry/2026/10/06/105939)
 * [【速報】RTX Spark搭載Surfaceが正式発表、18コア/24GBモデルや20コア/128GBモデル](https://pc.watch.impress.co.jp/docs/news/2146579.html)
+
+## 取得日時: 10月8日 23時30分
+
+* [嫌われるデザインの歴史](https://zenn.dev/blackmose/articles/de0170a13be930)
+* [直近で相次いでいる国内組織における不正アクセスに関する注意喚起](https://www.jpcert.or.jp/at/2026/at260030.html)
+* [【速報】ローソンに不正アクセス、215万件漏えい](https://www.47news.jp/15055808.html)
+* [すでにWEBデザイナーの8割は不要である - Qiita](https://qiita.com/kotowazaman/items/74621592ace2ff968670)
+* [2026年 情報漏洩・不正アクセスTier表](https://ai.itokoba.com/security-tier/)
