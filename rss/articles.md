@@ -398,3 +398,11 @@
 * [情報漏えいの公表急増――いま増えているのは「攻撃」ではなく「発覚」 | SECURITY DRIVE](https://securitydrive.jp/column/0023/)
 * [外国人技術者の米永住権申請制度、Microsoftの利用停止　バンス氏表明 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN08BSH0Y6A001C2000000/)
 * [【速報】リーマン予想に進展があったかもしれない【零点の評価から何が言えるの？】 - tsujimotterのノートブック](https://tsujimotter.hatenablog.com/entry/riemann-hypothesis-progression-oct-2026)
+
+## 取得日時: 10月9日 23時17分
+
+* [アメリカ 運転免許証などの情報 1億5000万件以上が漏えいか | NHKニュース](https://news.web.nhk/newsweb/na/nd-20261009de57294)
+* [「AIをいじめないで」Anthropic、Claudeへの虐待を禁止](https://ascii.jp/elem/000/004/441/4441372/)
+* [不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構](https://www.ipa.go.jp/security/security-alert/2026/alert20261009.html)
+* [印刷物基準の文字組みをウェブの世界で。日本デザインセンター様から生まれたiOS用文字組みエンジンをJavaScriptに移植しました。 | non-standard world株式会社](https://www.non-standardworld.co.jp/stone-engine-js/)
+* [これには驚いた！ 今度はExcelやWordやPower Pointをオープンソースで再構築、Win、Mac、Linux、Web対応で無料](https://coliss.com/wp-content/cache/all/articles/build-websites/operation/work/3-microsoft-apps-open-sourced.html/index.html)
