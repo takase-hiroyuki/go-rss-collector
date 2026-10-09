@@ -406,3 +406,11 @@
 * [不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構](https://www.ipa.go.jp/security/security-alert/2026/alert20261009.html)
 * [印刷物基準の文字組みをウェブの世界で。日本デザインセンター様から生まれたiOS用文字組みエンジンをJavaScriptに移植しました。 | non-standard world株式会社](https://www.non-standardworld.co.jp/stone-engine-js/)
 * [これには驚いた！ 今度はExcelやWordやPower Pointをオープンソースで再構築、Win、Mac、Linux、Web対応で無料](https://coliss.com/wp-content/cache/all/articles/build-websites/operation/work/3-microsoft-apps-open-sourced.html/index.html)
+
+## 取得日時: 10月10日 8時8分
+
+* [【速報】AIで調べた判例実在せず書籍絶版](https://www.47news.jp/15060645.html)
+* [Deno is joining Cloudflare | Deno](https://deno.com/blog/cloudflare)
+* [「秀丸エディタ」v9.59が公開 ～Windows XP/Vistaのサポートを終了／Windows 11の「テキスト カーソル インジケーター」に対応、カーソルが見やすく](https://forest.watch.impress.co.jp/docs/news/2146950.html)
+* [「お前たちのクラウドはわれわれのもの」　IDCFクラウドの管理画面に出た攻撃者のメッセージ　内容に運営元は](https://www.itmedia.co.jp/news/article/2610/09/2000002184/)
+* [システム障害の対応についてエンジニアの約6割が対応しきれないと回答…その要因には即戦力となる人材不足や体制の問題、過酷な労働時間、下請け構造などが考えられる](https://togetter.com/li/2756123)
