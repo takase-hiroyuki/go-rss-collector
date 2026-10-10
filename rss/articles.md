@@ -422,3 +422,11 @@
 * [個人情報漏洩が日常になってしまった世界でどうしていくべきか](https://nyosegawa.com/posts/data-leak-era/)
 * [事業活動を AI Ready にする攻めと守りのデータエンジニアリング / data-engineering-for-ai-ready-business](https://speakerdeck.com/pei0804/data-engineering-for-ai-ready-business)
 * [日本人の大腸がん、約半数に“腸内細菌の毒素”が関与　40歳以下の発症は7割　東大・阪大が200人を全ゲノム解析](https://www.itmedia.co.jp/news/article/2610/10/2000002035/)
+
+## 取得日時: 10月11日 7時23分
+
+* [国内で相次ぐ不正アクセスに対する注意喚起についてまとめてみた - piyolog](https://piyolog.hatenadiary.jp/entry/2026/10/11/004353)
+* [SQLite 本体にベクトル検索拡張 vec1 がやってきた](https://zenn.dev/mattn/articles/6e9996319ac099)
+* [若手エンジニアに必要だと感じた「AIを使う力」](https://zenn.dev/muit_techblog/articles/6ea28887c79457)
+* [Readest — 無料オープンソースのEPUB・PDFリーダー、全プラットフォーム対応](https://readest.com/ja)
+* [音声合成に日本語を正しく読んでもらう話 〜高低アクセントからG2Pまで〜 【前編】](https://zenn.dev/mkj/articles/speech-tts-japanese-2026)
