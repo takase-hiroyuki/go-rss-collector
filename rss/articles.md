@@ -414,3 +414,11 @@
 * [「秀丸エディタ」v9.59が公開 ～Windows XP/Vistaのサポートを終了／Windows 11の「テキスト カーソル インジケーター」に対応、カーソルが見やすく](https://forest.watch.impress.co.jp/docs/news/2146950.html)
 * [「お前たちのクラウドはわれわれのもの」　IDCFクラウドの管理画面に出た攻撃者のメッセージ　内容に運営元は](https://www.itmedia.co.jp/news/article/2610/09/2000002184/)
 * [システム障害の対応についてエンジニアの約6割が対応しきれないと回答…その要因には即戦力となる人材不足や体制の問題、過酷な労働時間、下請け構造などが考えられる](https://togetter.com/li/2756123)
+
+## 取得日時: 10月10日 22時30分
+
+* [bpmn.io で始める AI-Ready な業務フロー管理 | フューチャー技術ブログ](https://future-architect.github.io/articles/20261009a/)
+* [AI駆動開発の時代になったのでトヨタ生産方式から見直す](https://speakerdeck.com/terurou/ai-kudou-kaihatsu-no-jidai-ni-nata-node-toyota-seisan-houshiki-kara-minaosu)
+* [個人情報漏洩が日常になってしまった世界でどうしていくべきか](https://nyosegawa.com/posts/data-leak-era/)
+* [事業活動を AI Ready にする攻めと守りのデータエンジニアリング / data-engineering-for-ai-ready-business](https://speakerdeck.com/pei0804/data-engineering-for-ai-ready-business)
+* [日本人の大腸がん、約半数に“腸内細菌の毒素”が関与　40歳以下の発症は7割　東大・阪大が200人を全ゲノム解析](https://www.itmedia.co.jp/news/article/2610/10/2000002035/)
