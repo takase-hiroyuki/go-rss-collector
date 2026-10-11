@@ -430,3 +430,11 @@
 * [若手エンジニアに必要だと感じた「AIを使う力」](https://zenn.dev/muit_techblog/articles/6ea28887c79457)
 * [Readest — 無料オープンソースのEPUB・PDFリーダー、全プラットフォーム対応](https://readest.com/ja)
 * [音声合成に日本語を正しく読んでもらう話 〜高低アクセントからG2Pまで〜 【前編】](https://zenn.dev/mkj/articles/speech-tts-japanese-2026)
+
+## 取得日時: 10月11日 22時54分
+
+* [【コピペ卒業】Kindle・電子書籍をPDF化＆OCRするアプリを作りました｜リットン｜電子書籍・Python・生成AIで遊ぶ金融マン](https://note.com/lytton_life/n/n838e58f5aff8)
+* [AI×アーキテクト | 技術評論社](https://gihyo.jp/book/2026/978-4-297-16033-3)
+* [GPU不要で驚きの精度。リアルタイム多言語文字起こしツール「hayamimi」使ってみましたー。｜ゆいまる‐IT界隈以外でAIを使いまくる2005年生まれ](https://note.com/humble_bobcat51/n/n64602c64db6c)
+* [CPUのみで動作するリアルタイム多言語音声認識「早耳」、GPUもクラウドAPIも使わずメモリ2GB未満でライブ字幕表示からブラウザ表示・話者ラベル付け・翻訳字幕まで可能](https://gigazine.net/news/20261011-hayamimi/)
+* [オートパイロットは外せる人間を前提にしている — AI時代のエンジニア技能維持を航空業界に学ぶ](https://zenn.dev/shimitaro/articles/eb45d8d63c7bd1)
