@@ -438,3 +438,11 @@
 * [GPU不要で驚きの精度。リアルタイム多言語文字起こしツール「hayamimi」使ってみましたー。｜ゆいまる‐IT界隈以外でAIを使いまくる2005年生まれ](https://note.com/humble_bobcat51/n/n64602c64db6c)
 * [CPUのみで動作するリアルタイム多言語音声認識「早耳」、GPUもクラウドAPIも使わずメモリ2GB未満でライブ字幕表示からブラウザ表示・話者ラベル付け・翻訳字幕まで可能](https://gigazine.net/news/20261011-hayamimi/)
 * [オートパイロットは外せる人間を前提にしている — AI時代のエンジニア技能維持を航空業界に学ぶ](https://zenn.dev/shimitaro/articles/eb45d8d63c7bd1)
+
+## 取得日時: 10月12日 7時45分
+
+* [「AIに指示するだけでひとりでそこそこのゲームが作れてしまいます」ゲームクリエイター・堀井雄二氏がAIを使い30分ほどでゲームを作成し、様々な反応が寄せられる](https://togetter.com/li/2756939)
+* [証券口座パスキーの安全性を高めよ！”物理キー”を本格導入した話](https://toruoka.xyz/202610_security_key/)
+* [Opus 5.5のおかげで3Dプリンターを活用できるようになった - Write and Run](https://diary.hatenablog.jp/entry/2026/10/11/204055)
+* [月間100万人のサービス刷新で、 技術選定をHonoに振り切った話](https://speakerdeck.com/yutobara/gekkan-100-mannin-no-sabisu-sasshin-de-gijutsu-sentei-o-hono-ni-furikita-hanashi-e49c651f-8130-48bb-b6ef-eac3cc9f358a)
+* [ゼロトラストはキツくない｜「完成」を目指す運用がキツい | CloudNative BLOGs](https://blog.cloudnative.co.jp/articles/answer-ai-era-zero-trust/)
