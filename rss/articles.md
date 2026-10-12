@@ -446,3 +446,11 @@
 * [Opus 5.5のおかげで3Dプリンターを活用できるようになった - Write and Run](https://diary.hatenablog.jp/entry/2026/10/11/204055)
 * [月間100万人のサービス刷新で、 技術選定をHonoに振り切った話](https://speakerdeck.com/yutobara/gekkan-100-mannin-no-sabisu-sasshin-de-gijutsu-sentei-o-hono-ni-furikita-hanashi-e49c651f-8130-48bb-b6ef-eac3cc9f358a)
 * [ゼロトラストはキツくない｜「完成」を目指す運用がキツい | CloudNative BLOGs](https://blog.cloudnative.co.jp/articles/answer-ai-era-zero-trust/)
+
+## 取得日時: 10月13日 1時39分
+
+* [【完全版】電子書籍をPDF化・OCRする方法｜Kindle・Kobo・DMMなど5サービス対応の無料アプリ | Odds and Ends](https://web.archive.org/web/20261011101825/https://lyttonblog.com/programming/ebook-pdf-ocr/)
+* [なんでもリバースエンジニアリング。ソースコード非公開のアプリをAIに解析させ、類似機能を作らせるオープンソースツール「REA」（生成AIクローズアップ） | テクノエッジ TechnoEdge](https://www.techno-edge.net/article/2026/10/12/5574.html)
+* [人生やりたいことリストのすすめ　FIRE後の楽しみを可視化する | ドクセル](https://www.docswell.com/s/ipusiron/ZGN668-2026-08-15-213702)
+* [OpenCode から Pi へ切り替えた](https://voluntas.ghost.io/migrate-opencode-to-pi/)
+* [サイバーセキュリティを勉強するなら今？おすすめリソース紹介 - Qiita](https://qiita.com/leolui2004/items/226062f17e55202e8c47)
