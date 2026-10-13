@@ -470,3 +470,11 @@
 * [Anthropic、自己複製AIの「兆し」を指摘　55ドルのTVボックス15台で26Bモデルが稼働](https://www.itmedia.co.jp/news/article/2610/13/2000002204/)
 * [楽天モバイルで情報漏えいのおそれ　過去に契約していた人も対象に](https://ascii.jp/elem/000/004/442/4442187/)
 * [総務省｜不正アクセスによる情報漏えい等の事案を踏まえた対応について （公開アプリの解析情報を悪用した攻撃への注意喚起）](https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu02_000680.html)
+
+## 取得日時: 10月14日 8時14分
+
+* [私物Macと仕事Macのdotfilesとアプリ管理をmise bootstrapで管理しやすくした - $shibayu36->blog;](https://blog.shibayu36.org/entry/2026/10/13/173000)
+* [米Getty Imagesが破産申請へ　AI画像の台頭で経営悪化、「報道写真」軸に年内の再建目指す](https://www.itmedia.co.jp/news/article/2610/13/2000002234/)
+* [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control)
+* [あなたの『Amazon Kindle』は最新モデルへ買い替えるべき？ 歴代モデル徹底比較【山口真弘のおすすめ読書タブレット比較】](https://forest.watch.impress.co.jp/docs/bookwatch/tabletrecom/2147295.html)
+* [リバースエンジニアリングの産業革命-REA](https://rea.tools/ja/blog/touhou-reconstruction/)
