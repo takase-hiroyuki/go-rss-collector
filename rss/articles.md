@@ -462,3 +462,11 @@
 * [Deno開発元がCloudflareに合流。Denoの開発は終了へ、今後はCloudflare WorkersとDurable Objectsのオープンソース実装に注力](https://www.publickey1.jp/blog/26/denocloudflaredenocloudflare_workersdurable_objects.html)
 * [プログラミングにAIを使うのは全然悪くないが、初心者が本格的に使って商売するのは違うのでは？AI生成したコードがエラーの場合、クライアントに責任を取れるのか？議論に](https://togetter.com/li/2757347)
 * [抽象的なことを考える時、無意識に具体化しないためのメモ - Qiita](https://qiita.com/J-T_ky2g/items/36aaf36d9eef97672c3d)
+
+## 取得日時: 10月13日 23時55分
+
+* [【注意喚起】 相次ぐ情報漏えい、その原因の一つは「アプリ解析からのサーバ攻撃」｜2026年｜NICT-情報通信研究機構](https://www.nict.go.jp/press/2026/10/13-1.html)
+* [フランスのスーパー数百店舗で冷蔵設備にサイバー攻撃　温度が最高50度に上昇し食品大量廃棄に](https://www.itmedia.co.jp/news/article/2610/13/2000002201/)
+* [Anthropic、自己複製AIの「兆し」を指摘　55ドルのTVボックス15台で26Bモデルが稼働](https://www.itmedia.co.jp/news/article/2610/13/2000002204/)
+* [楽天モバイルで情報漏えいのおそれ　過去に契約していた人も対象に](https://ascii.jp/elem/000/004/442/4442187/)
+* [総務省｜不正アクセスによる情報漏えい等の事案を踏まえた対応について （公開アプリの解析情報を悪用した攻撃への注意喚起）](https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu02_000680.html)
