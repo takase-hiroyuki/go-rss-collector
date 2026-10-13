@@ -454,3 +454,11 @@
 * [人生やりたいことリストのすすめ　FIRE後の楽しみを可視化する | ドクセル](https://www.docswell.com/s/ipusiron/ZGN668-2026-08-15-213702)
 * [OpenCode から Pi へ切り替えた](https://voluntas.ghost.io/migrate-opencode-to-pi/)
 * [サイバーセキュリティを勉強するなら今？おすすめリソース紹介 - Qiita](https://qiita.com/leolui2004/items/226062f17e55202e8c47)
+
+## 取得日時: 10月13日 10時13分
+
+* [AI時代のサイバー攻撃、度重なる情報漏洩からの守りを固めるための政府への7つの提言私案｜安野貴博](https://note.com/takahiroanno/n/n27e77cc9bb80)
+* [産業革命の時代にどうやって精度の高い「ねじ」を作り出したのか？](https://gigazine.net/news/20261013-how-machines-learned-precision/)
+* [Deno開発元がCloudflareに合流。Denoの開発は終了へ、今後はCloudflare WorkersとDurable Objectsのオープンソース実装に注力](https://www.publickey1.jp/blog/26/denocloudflaredenocloudflare_workersdurable_objects.html)
+* [プログラミングにAIを使うのは全然悪くないが、初心者が本格的に使って商売するのは違うのでは？AI生成したコードがエラーの場合、クライアントに責任を取れるのか？議論に](https://togetter.com/li/2757347)
+* [抽象的なことを考える時、無意識に具体化しないためのメモ - Qiita](https://qiita.com/J-T_ky2g/items/36aaf36d9eef97672c3d)
