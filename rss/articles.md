@@ -478,3 +478,11 @@
 * [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control)
 * [あなたの『Amazon Kindle』は最新モデルへ買い替えるべき？ 歴代モデル徹底比較【山口真弘のおすすめ読書タブレット比較】](https://forest.watch.impress.co.jp/docs/bookwatch/tabletrecom/2147295.html)
 * [リバースエンジニアリングの産業革命-REA](https://rea.tools/ja/blog/touhou-reconstruction/)
+
+## 取得日時: 10月14日 21時48分
+
+* [日本における「純粋な悪の代名詞」とは誰なのか（たとえばヒトラーのような） - 文化史（技術と人文科学） - はてなパークス](https://p.hatena.ne.jp/p/1542167047763398656/t/1559549110216822784?s=1&m=raw)
+* [AnthropicがGit代替のバージョン管理システム「Scion」を開発し社内移行済み、AIでコードが爆増してGitの限界に達したので耐えられるシステムを開発](https://gigazine.net/news/20261014-anthropic-scion-version-control-system/)
+* [SBI証券のFXで“誤ロスカット”　再委託先IIJが作業ミス、システムでも検知できず　779口座が対象](https://www.itmedia.co.jp/news/article/2610/14/2000002249/)
+* [Claude Codeがほとんどの場合、動画編集してくれる。8時間の素材を30分で1時間に編集。字幕もつけられる｜shi3z](https://note.com/shi3zblog/n/ncb38d2978074)
+* [【第5報】不正アクセスによる障害に関する調査の進捗について | IDCフロンティア](https://www.idcf.jp/news/topics/20261014001)
