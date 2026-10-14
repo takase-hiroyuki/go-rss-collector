@@ -486,3 +486,11 @@
 * [SBI証券のFXで“誤ロスカット”　再委託先IIJが作業ミス、システムでも検知できず　779口座が対象](https://www.itmedia.co.jp/news/article/2610/14/2000002249/)
 * [Claude Codeがほとんどの場合、動画編集してくれる。8時間の素材を30分で1時間に編集。字幕もつけられる｜shi3z](https://note.com/shi3zblog/n/ncb38d2978074)
 * [【第5報】不正アクセスによる障害に関する調査の進捗について | IDCフロンティア](https://www.idcf.jp/news/topics/20261014001)
+
+## 取得日時: 10月15日 7時11分
+
+* [HTML-in-Canvasで作る未来のWeb UI表現](https://speakerdeck.com/clockmaker/html-in-canvas)
+* [WAF でブロックする前に確かめていること](https://zenn.dev/azunyan/articles/7a105969d7d16c)
+* [ポスドクの転職は「敗北」とは限らない―数学博士がアカデミアの外で見つけた新たな生き方｜ポスドクの転職体験記](https://note.com/postdoc_career/n/nc9dcfe5ea3d3)
+* [フロントエンドのモデルに境界を引く](https://speakerdeck.com/babywkb/furonto-endo-no-moderu-ni-kyoukai-o-hiku)
+* [AIエージェントによるウェブサイトへの攻撃の注意喚起](https://www.scutum.jp/information/waf_tech_blog/2026/10/waf-blog-085.html)
