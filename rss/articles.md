@@ -494,3 +494,11 @@
 * [ポスドクの転職は「敗北」とは限らない―数学博士がアカデミアの外で見つけた新たな生き方｜ポスドクの転職体験記](https://note.com/postdoc_career/n/nc9dcfe5ea3d3)
 * [フロントエンドのモデルに境界を引く](https://speakerdeck.com/babywkb/furonto-endo-no-moderu-ni-kyoukai-o-hiku)
 * [AIエージェントによるウェブサイトへの攻撃の注意喚起](https://www.scutum.jp/information/waf_tech_blog/2026/10/waf-blog-085.html)
+
+## 取得日時: 10月15日 21時34分
+
+* [バーガーキング アプリの会員情報 約1118万件漏えい | NHKニュース](https://news.web.nhk/newsweb/na/nd-20261015de59803)
+* [当社サイトへの不正アクセスによるお客様情報流出のお詫びとお知らせ｜ソースネクスト](https://www.sourcenext.com/support/i/2026/1015_info/)
+* [ワールドガチャ｜架空の町をガチャで作ってマンガの背景に](https://tools.oyasumi-gamedev.com/worldgacha/)
+* [有名企業や一流開発者のノウハウをそのまま持ち込める、Claude Codeスキル11選｜苦しんでプログラミングを学んだ柴犬（くるしば）](https://note.com/shiba_program/n/nd2d72747f8c5)
+* [PlayStation 5で27Bの生成AIが動作。脱獄の進展次第ではPS5もAI需要の餌食になる可能性](https://gazlog.jp/entry/ps5-can-run-27b-llm/)
