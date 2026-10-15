@@ -502,3 +502,11 @@
 * [ワールドガチャ｜架空の町をガチャで作ってマンガの背景に](https://tools.oyasumi-gamedev.com/worldgacha/)
 * [有名企業や一流開発者のノウハウをそのまま持ち込める、Claude Codeスキル11選｜苦しんでプログラミングを学んだ柴犬（くるしば）](https://note.com/shiba_program/n/nd2d72747f8c5)
 * [PlayStation 5で27Bの生成AIが動作。脱獄の進展次第ではPS5もAI需要の餌食になる可能性](https://gazlog.jp/entry/ps5-can-run-27b-llm/)
+
+## 取得日時: 10月16日 7時5分
+
+* [ソースネクスト、最大2251万件の情報流出　パスワード再設定を](https://www.watch.impress.co.jp/docs/news/2148547.html)
+* [連続不正アクセス事案の攻撃手法に関する調査 - JPCERT/CC Eyes](https://blogs.jpcert.or.jp/ja/2026/10/web_api_attacks.html)
+* [国内で相次ぐWebシステムからの情報漏えい～ラックの観測から見える変化と、企業が今とるべき対策 | LAC WATCH](https://www.lac.co.jp/lacwatch/alert/20261015_004996.html)
+* [データ転送ライブラリ「curl」に特定の条件でリモートからコードを実行される脆弱性／深刻度Highを含む24件の脆弱性を修正したv8.23.0が公開](https://forest.watch.impress.co.jp/docs/news/2148495.html)
+* [なぜ今、“クラウド録画”なのか。パナソニックの新「全自動ディーガ」の詳細](https://av.watch.impress.co.jp/docs/topic/2148483.html)
