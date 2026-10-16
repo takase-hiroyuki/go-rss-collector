@@ -518,3 +518,11 @@
 * [『note組大きくリードしてます。はてな組も頑張ってください』 - orangestar2](https://orangestar2.hatenadiary.com/entry/2026/10/16/140905)
 * [Claude Code 入門](https://speakerdeck.com/nogu66/claude-code-nyuumon)
 * [Windows 11、8GBメモリのPCも軽快に 基本メモリ使用量を削減](https://www.watch.impress.co.jp/docs/news/2148683.html)
+
+## 取得日時: 10月17日 6時59分
+
+* [【重要】Linuxカーネルの脆弱性（CVE-2026-99999）に関する当社サービスへの影響について | さくらインターネット](https://www.sakura.ad.jp/corporate/information/announcements/2026/10/16/1968226051/)
+* [タイムズカー、退会後も7年間保管していた免許証画像を全削除へ　約660万アカウント分の漏えい受け](https://www.itmedia.co.jp/news/article/2610/16/2000002346/)
+* [徳丸浩氏に聞く、タイムズカー事案から考えるユーザーデータ管理 保管場所と漏えいリスクの移転・回避、消去の判断体制](https://unitis.jp/articles/24665/)
+* [漏えいが起きたときに最初に読んでほしい章を、発売前に公開します - 思い出したいことがある](https://www.seko-law.com/entry/reort)
+* [Eストアー ショップサーブへのサイバー攻撃による個人情報漏洩 まとめ PFU・キングジムなど影響企業一覧、885万3,839件が対象|セキュリティニュースのセキュリティ対策Lab](https://rocket-boys.co.jp/security-measures-lab/shopserve-data-breach-company-list-2026/)
