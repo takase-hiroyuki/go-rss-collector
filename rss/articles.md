@@ -510,3 +510,11 @@
 * [国内で相次ぐWebシステムからの情報漏えい～ラックの観測から見える変化と、企業が今とるべき対策 | LAC WATCH](https://www.lac.co.jp/lacwatch/alert/20261015_004996.html)
 * [データ転送ライブラリ「curl」に特定の条件でリモートからコードを実行される脆弱性／深刻度Highを含む24件の脆弱性を修正したv8.23.0が公開](https://forest.watch.impress.co.jp/docs/news/2148495.html)
 * [なぜ今、“クラウド録画”なのか。パナソニックの新「全自動ディーガ」の詳細](https://av.watch.impress.co.jp/docs/topic/2148483.html)
+
+## 取得日時: 10月16日 21時14分
+
+* [ソースネクスト パスワード暗号化がない状態で流出 再設定を | NHKニュース](https://news.web.nhk/newsweb/na/nd-20261016de60556)
+* [ヤマト運輸 個人情報530万件余の外部流出を確認 | NHKニュース](https://news.web.nhk/newsweb/na/nd-20261016de60395)
+* [『note組大きくリードしてます。はてな組も頑張ってください』 - orangestar2](https://orangestar2.hatenadiary.com/entry/2026/10/16/140905)
+* [Claude Code 入門](https://speakerdeck.com/nogu66/claude-code-nyuumon)
+* [Windows 11、8GBメモリのPCも軽快に 基本メモリ使用量を削減](https://www.watch.impress.co.jp/docs/news/2148683.html)
