@@ -526,3 +526,11 @@
 * [徳丸浩氏に聞く、タイムズカー事案から考えるユーザーデータ管理 保管場所と漏えいリスクの移転・回避、消去の判断体制](https://unitis.jp/articles/24665/)
 * [漏えいが起きたときに最初に読んでほしい章を、発売前に公開します - 思い出したいことがある](https://www.seko-law.com/entry/reort)
 * [Eストアー ショップサーブへのサイバー攻撃による個人情報漏洩 まとめ PFU・キングジムなど影響企業一覧、885万3,839件が対象|セキュリティニュースのセキュリティ対策Lab](https://rocket-boys.co.jp/security-measures-lab/shopserve-data-breach-company-list-2026/)
+
+## 取得日時: 10月17日 20時31分
+
+* [ソースネクスト　暗号化されていないパスワードが流出した理由とは（山口健太） - エキスパート - Yahoo!ニュース](https://news.yahoo.co.jp/expert/articles/b3e710c60d79d276a00321906fa87ac9243f5530)
+* [中国製車両、ノルウェー軍の機密情報を記録 訓練中に発覚](https://www.afpbb.com/articles/-/3658078)
+* [BASE子会社の漏えい、約2335万人分に　209万人分はクレカ番号「先頭6桁と下4桁」「有効期限」も](https://www.itmedia.co.jp/news/article/2610/17/2000002349/)
+* [How the Claude Code team does code review / claude.dev Blog](https://claude.dev/blog/solving-code-review-at-anthropic/)
+* [漢字の上にふりがなを表示する日本語フォント「Furifont」オープンライセンスで公開 | gihyo.jp](https://gihyo.jp/article/2026/10/furifont)
