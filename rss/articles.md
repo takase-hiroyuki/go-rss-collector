@@ -534,3 +534,11 @@
 * [BASE子会社の漏えい、約2335万人分に　209万人分はクレカ番号「先頭6桁と下4桁」「有効期限」も](https://www.itmedia.co.jp/news/article/2610/17/2000002349/)
 * [How the Claude Code team does code review / claude.dev Blog](https://claude.dev/blog/solving-code-review-at-anthropic/)
 * [漢字の上にふりがなを表示する日本語フォント「Furifont」オープンライセンスで公開 | gihyo.jp](https://gihyo.jp/article/2026/10/furifont)
+
+## 取得日時: 10月18日 6時22分
+
+* [亡くなった声優の声、AIでの再現は原則禁止　日俳連が新指針](https://japan.cnet.com/article/35253656/)
+* [AI駆動PMの組織でのはじめかた｜すぅ | AI駆動PM](https://note.com/suh_sunaneko/n/n23ed6981ff6a)
+* [GitHub - google-research/harness2](https://github.com/google-research/harness2)
+* [コード系でOpus 5超え「DeepSeek-V4.1-Flash-1017」無償公開](https://pc.watch.impress.co.jp/docs/news/2149045.html)
+* [すべてのAIコーディングエージェントのコストを閲覧・検索・追跡しローカルで動作する「AgentsView」、Claude Code・Codex・Cursor・Copilot・Geminiなど60種類以上のエージェントを自動検出し全文検索も可能](https://gigazine.net/news/20261017-agentsview/)
