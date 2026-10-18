@@ -542,3 +542,11 @@
 * [GitHub - google-research/harness2](https://github.com/google-research/harness2)
 * [コード系でOpus 5超え「DeepSeek-V4.1-Flash-1017」無償公開](https://pc.watch.impress.co.jp/docs/news/2149045.html)
 * [すべてのAIコーディングエージェントのコストを閲覧・検索・追跡しローカルで動作する「AgentsView」、Claude Code・Codex・Cursor・Copilot・Geminiなど60種類以上のエージェントを自動検出し全文検索も可能](https://gigazine.net/news/20261017-agentsview/)
+
+## 取得日時: 10月18日 21時0分
+
+* [スマホの「充電80％止めで長持ち」「挿しっぱなし充電NG」は本当？　実験で見えた意外な結果](https://www.itmedia.co.jp/mobile/articles/2610/18/news002.html)
+* [AnthropicのAI時代のコードレビュー術 - Claude Codeによる自動レビューと人間の役割｜npaka](https://note.com/npaka/n/ndb4b0f424ced)
+* [iOS 27にしてからiPhoneの充電がもたない…。原因は「あの設定」だった | ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2610-ios27-battery-drain-connection-assist/)
+* [example.com が刷新された話 | blog.jxck.io](https://blog.jxck.io/entries/2026-10-17/example.com.html)
+* [知らない分野を学ぶ技術 powered by AI - ぷりんの雑記帳](https://smooth-pudding.hatenablog.com/entry/2026/10/17/145830)
