@@ -550,3 +550,11 @@
 * [iOS 27にしてからiPhoneの充電がもたない…。原因は「あの設定」だった | ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2610-ios27-battery-drain-connection-assist/)
 * [example.com が刷新された話 | blog.jxck.io](https://blog.jxck.io/entries/2026-10-17/example.com.html)
 * [知らない分野を学ぶ技術 powered by AI - ぷりんの雑記帳](https://smooth-pudding.hatenablog.com/entry/2026/10/17/145830)
+
+## 取得日時: 10月19日 6時21分
+
+* [変体仮名一覧表](https://cid.ninjal.ac.jp/kana/list/)
+* [『コミックシーモア』サービス再開の見通し立たず「正確な再開日時をお伝えすることが困難な状況です」（オリコン） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/df7e374ecdb58831f4b5f497fdcf5407c9af4e36)
+* [リーダーシップなき越境は組織を壊す｜TakayukiSaruta](https://note.com/srt_taka/n/nff6c2d40c11b)
+* [オントロジーとは？意味・ナレッジグラフとの違い・LLMでの効果](https://fd-x.co.jp/insights/41-what-is-ontology)
+* [技術書を年に数冊しか買わない自分に、O'Reillyのサブスク年$150は割に合うか（ACM経由で契約してMCPまで）](https://zenn.dev/sonicmoov/articles/oreilly-subscription-acm)
