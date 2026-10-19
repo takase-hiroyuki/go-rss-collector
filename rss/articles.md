@@ -566,3 +566,11 @@
 * [相次ぐ不正アクセスの攻撃元の多くがAIであることを確認 | セキュリティブログ | 脆弱性診断（セキュリティ診断）のGMOサイバーセキュリティ byイエラエ](https://gmo-cybersecurity.com/blog/20261019/)
 * [AIの反乱よりもトクリュウによるスマートロックやスマート家電へのサイバー攻撃による同時多発的なフィジカルテロルのが怖い - 太陽がまぶしかったから](https://www.du-soleil.com/entry/iot-cyber-attack-physical-terror)
 * [デジタル庁、Androidのマイナカード対応機種を公開](https://k-tai.watch.impress.co.jp/docs/news/2149346.html)
+
+## 取得日時: 10月20日 7時51分
+
+* [サイバー攻撃受け情報漏えい、中国語のＡＩエージェント悪用か…国内８０社への攻撃巡り痕跡](https://www.yomiuri.co.jp/national/20261019-GYT1T00477/)
+* [Claude Codeに全部任せて開発してたエンジニアの末路、1〜2ヶ月後ガチで地獄ですよ｜ゆうき｜月収100万円超エンジニアを多数輩出](https://note.com/yukiedu/n/n4d25f5e1d590)
+* [ひとり会社が、AIと二人でISMSを取った話｜村山毅 Tim](https://note.com/timtarou/n/n5443f159e7bc)
+* [JP Incident Monitor](https://elkentaro.github.io/jp_incidents/)
+* [最近Gemini使い始めたけど、明らかにchatGPTの方が優秀じゃないか？「Geminiはやる気あるバカってイメージ」「嘘しかつかないので使うのやめました」](https://togetter.com/li/2760356)
