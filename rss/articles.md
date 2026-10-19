@@ -558,3 +558,11 @@
 * [リーダーシップなき越境は組織を壊す｜TakayukiSaruta](https://note.com/srt_taka/n/nff6c2d40c11b)
 * [オントロジーとは？意味・ナレッジグラフとの違い・LLMでの効果](https://fd-x.co.jp/insights/41-what-is-ontology)
 * [技術書を年に数冊しか買わない自分に、O'Reillyのサブスク年$150は割に合うか（ACM経由で契約してMCPまで）](https://zenn.dev/sonicmoov/articles/oreilly-subscription-acm)
+
+## 取得日時: 10月19日 23時32分
+
+* [仕事を進めるだけでは、仕事しか進まない。木こりのジレンマを Claude Code で解いた5ヶ月の記録 - RAKUS Developers Blog | ラクス エンジニアブログ](https://tech-blog.rakus.co.jp/entry/20261019/weekly-reflection)
+* [ソースネクスト、パスワードなぜ平文で流出　「暗号化していたが、鍵にアクセスできるシステムに侵入された」](https://www.itmedia.co.jp/news/article/2610/19/2000002372/)
+* [相次ぐ不正アクセスの攻撃元の多くがAIであることを確認 | セキュリティブログ | 脆弱性診断（セキュリティ診断）のGMOサイバーセキュリティ byイエラエ](https://gmo-cybersecurity.com/blog/20261019/)
+* [AIの反乱よりもトクリュウによるスマートロックやスマート家電へのサイバー攻撃による同時多発的なフィジカルテロルのが怖い - 太陽がまぶしかったから](https://www.du-soleil.com/entry/iot-cyber-attack-physical-terror)
+* [デジタル庁、Androidのマイナカード対応機種を公開](https://k-tai.watch.impress.co.jp/docs/news/2149346.html)
