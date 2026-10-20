@@ -582,3 +582,11 @@
 * [人間のAIに対する判断移譲 - 西尾泰和の外部脳](https://scrapbox.io/nishio/%E4%BA%BA%E9%96%93%E3%81%AEAI%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E5%88%A4%E6%96%AD%E7%A7%BB%E8%AD%B2)
 * [生成AIの女性画像、なぜ「作り物」に見えるの?毛穴や産毛まで感じる自然な肌を目指し無料版AIの1K画像で感じた限界と、実在感のある写真への挑戦 - Quadro Diary 生成AI 過去日記](https://quadro.hateblo.jp/entry/seiseiai_real)
 * [Photoshopをオープンソースで再構築した「PhotoCraft」が日本語フォントの縦書きに対応、各ツールの使い勝手も向上](https://coliss.com/articles/build-websites/operation/work/crafting-apps-20261020.html)
+
+## 取得日時: 10月21日 7時12分
+
+* [ウィンドウズアップデートについて調べたらめちゃめちゃ面白かった](https://anond.hatelabo.jp/20261020173628)
+* [あなたの会社は、慌てて脆弱性検査にARTEXを使わなくていい｜Yusuke Kawabata（SaaS運営）](https://note.com/uplucid/n/ncb9e3567ce2f)
+* [ふるさとチョイス、不正アクセスによる寄附者様情報の外部流出に関するお詫びとお知らせ | NEWSROOM | 株式会社トラストバンク](https://www.trustbank.co.jp/newsroom/newsrelease/news261020/)
+* [委託先への不正アクセスに起因するお客さまのシステム障害、情報漏えいに関するお詫び](https://jpn.nec.com/news/info/20261020.html)
+* [AIペネトレーションテスト基盤「Cairn」の公開パネルから見えた攻撃活動についてまとめてみた - piyolog](https://piyolog.hatenadiary.jp/entry/2026/10/20/205855)
