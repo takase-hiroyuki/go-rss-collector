@@ -574,3 +574,11 @@
 * [ひとり会社が、AIと二人でISMSを取った話｜村山毅 Tim](https://note.com/timtarou/n/n5443f159e7bc)
 * [JP Incident Monitor](https://elkentaro.github.io/jp_incidents/)
 * [最近Gemini使い始めたけど、明らかにchatGPTの方が優秀じゃないか？「Geminiはやる気あるバカってイメージ」「嘘しかつかないので使うのやめました」](https://togetter.com/li/2760356)
+
+## 取得日時: 10月20日 21時39分
+
+* [「侵入経路塞いだが、バックドアから……」不正アクセス105時間の攻防、分単位で報告　防災メールのアルカディア](https://www.itmedia.co.jp/news/article/2610/20/2000002426/)
+* [ソフトウェアの産業革命 - ちなみに](https://blog.nishimu.land/entry/2026/10/20/123916)
+* [人間のAIに対する判断移譲 - 西尾泰和の外部脳](https://scrapbox.io/nishio/%E4%BA%BA%E9%96%93%E3%81%AEAI%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E5%88%A4%E6%96%AD%E7%A7%BB%E8%AD%B2)
+* [生成AIの女性画像、なぜ「作り物」に見えるの?毛穴や産毛まで感じる自然な肌を目指し無料版AIの1K画像で感じた限界と、実在感のある写真への挑戦 - Quadro Diary 生成AI 過去日記](https://quadro.hateblo.jp/entry/seiseiai_real)
+* [Photoshopをオープンソースで再構築した「PhotoCraft」が日本語フォントの縦書きに対応、各ツールの使い勝手も向上](https://coliss.com/articles/build-websites/operation/work/crafting-apps-20261020.html)
