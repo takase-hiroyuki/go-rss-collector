@@ -590,3 +590,11 @@
 * [ふるさとチョイス、不正アクセスによる寄附者様情報の外部流出に関するお詫びとお知らせ | NEWSROOM | 株式会社トラストバンク](https://www.trustbank.co.jp/newsroom/newsrelease/news261020/)
 * [委託先への不正アクセスに起因するお客さまのシステム障害、情報漏えいに関するお詫び](https://jpn.nec.com/news/info/20261020.html)
 * [AIペネトレーションテスト基盤「Cairn」の公開パネルから見えた攻撃活動についてまとめてみた - piyolog](https://piyolog.hatenadiary.jp/entry/2026/10/20/205855)
+
+## 取得日時: 10月21日 21時50分
+
+* [PHPの重大な脆弱性「php2shell」（CVE-2026-109618、CVE-2026-109619）の概要と対応指針 - GMO Flatt Security Blog](https://blog.flatt.tech/entry/php2shell)
+* [修正予告されたPHPの2件の深刻な脆弱性についてまとめてみた - piyolog](https://piyolog.hatenadiary.jp/entry/2026/10/21/174516)
+* [著名ITサービス相次いで緊急メンテへ　コドモン、シャドバ、BASE、さくらのレンタルサーバなど　「PHP」脆弱性に起因か](https://www.itmedia.co.jp/news/article/2610/21/2000002472/)
+* [不正アクセス“金融機関が狙われる段階に変わってきた可能性” | NHKニュース](https://news.web.nhk/newsweb/na/nd-20261021de62921)
+* [委託事業者における個人情報漏えいについて](https://www.osaka-u.ac.jp/ja/news/topics/2026/10/21004)
