@@ -598,3 +598,11 @@
 * [著名ITサービス相次いで緊急メンテへ　コドモン、シャドバ、BASE、さくらのレンタルサーバなど　「PHP」脆弱性に起因か](https://www.itmedia.co.jp/news/article/2610/21/2000002472/)
 * [不正アクセス“金融機関が狙われる段階に変わってきた可能性” | NHKニュース](https://news.web.nhk/newsweb/na/nd-20261021de62921)
 * [委託事業者における個人情報漏えいについて](https://www.osaka-u.ac.jp/ja/news/topics/2026/10/21004)
+
+## 取得日時: 10月22日 7時14分
+
+* [【PHP脆弱性php2shell】パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619）：秋山大志のそれとりあえず作ってみようか。：オルタナティブ・ブログ](https://blogs.itmedia.co.jp/agile/2026/10/php2shell_cve_2026_109618_panic.html)
+* [これが視界に入った瞬間、1秒以内に「AIだ！」と思ったけど我々は一体何に「AIっぽさ」を感じているのか→文字や色味以外にも判別ポイントがある？](https://togetter.com/li/2761175)
+* [PHPの「緊急」レベルの脆弱性、開発元が修正バージョン公開　「直ちにアップデートを」](https://www.itmedia.co.jp/news/article/2610/22/2000002480/)
+* [PHPの重大脆弱性「PHP2Shell」はセキュリティ企業のCalifとWizがAIを用いて発見しOpenAIの枠組みを使って対策したことが判明](https://gigazine.net/news/20261022-php2shell-wiz-openai-calif/)
+* [Today's PHP Security Release, and How We're Strengthening PHP Security](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/)
