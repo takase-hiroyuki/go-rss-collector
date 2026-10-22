@@ -614,3 +614,11 @@
 * [仕組みを理解する動画を、Claude Codeに作らせると便利すぎる](https://zenn.dev/explaza/articles/c749042ecbe232)
 * [パスワードを使い回すなとは言うものの、あらゆるサービスに会員登録させられるし普通に手入力が必要な場面も多くてどうしたらいいんだ？](https://togetter.com/li/2761441)
 * [高市総理、サイバーセキュリティの本を出していた　しかも“PHP”から](https://www.itmedia.co.jp/news/article/2610/22/2000002522/)
+
+## 取得日時: 10月23日 7時13分
+
+* [デジタル庁HPの問い合わせ内容漏洩か　最大1万3000件以上](https://news.tv-asahi.co.jp/news_economy/articles/000542237.html)
+* [【速報】中国政府系がAIで攻撃、MSが発表](https://www.47news.jp/15123221.html)
+* [Claude Opus 5.5でいい感じのアクションゲームを作るための一工夫七つ - ABAの日誌](https://aba.hatenablog.com/entry/2026/10/22/194027)
+* [これがPHPの脆弱性を呟いてしまった人か。マジで全世界をデスマに叩き落とした人として後世に語り継がれると思う](https://posfie.com/@golden_haniwa/p/LQ90sis)
+* [中国政府系集団がAI攻撃　米マイクロソフト確認（共同通信） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/4281d049b33e5a3349a912eddf42476b228f1879)
