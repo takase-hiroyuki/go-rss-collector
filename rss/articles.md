@@ -606,3 +606,11 @@
 * [PHPの「緊急」レベルの脆弱性、開発元が修正バージョン公開　「直ちにアップデートを」](https://www.itmedia.co.jp/news/article/2610/22/2000002480/)
 * [PHPの重大脆弱性「PHP2Shell」はセキュリティ企業のCalifとWizがAIを用いて発見しOpenAIの枠組みを使って対策したことが判明](https://gigazine.net/news/20261022-php2shell-wiz-openai-calif/)
 * [Today's PHP Security Release, and How We're Strengthening PHP Security](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/)
+
+## 取得日時: 10月22日 21時53分
+
+* [PHP 8.5.12の緊急リリースにpixivはどう対応したか - pixiv inside](https://inside.pixiv.blog/2026/10/22/193321)
+* [PHP脆弱性“PoCフライング公開”の経緯、支援財団が公表　混乱広げた企業を名指しで批判](https://www.itmedia.co.jp/news/article/2610/22/2000002525/)
+* [仕組みを理解する動画を、Claude Codeに作らせると便利すぎる](https://zenn.dev/explaza/articles/c749042ecbe232)
+* [パスワードを使い回すなとは言うものの、あらゆるサービスに会員登録させられるし普通に手入力が必要な場面も多くてどうしたらいいんだ？](https://togetter.com/li/2761441)
+* [高市総理、サイバーセキュリティの本を出していた　しかも“PHP”から](https://www.itmedia.co.jp/news/article/2610/22/2000002522/)
