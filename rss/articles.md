@@ -630,3 +630,11 @@
 * [PHP2Shellへの対応を振り返って - コドモン Product Team Blog](https://tech.codmon.com/entry/2026/10/23/173909)
 * [パナソニックHD、利用禁止の生成AIに従業員らの情報送出　33万人分 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUF237Z60T21C26A0000000/)
 * [上場企業の経営論点（1673〜2026年）](https://the-shashi.com/issue/)
+
+## 取得日時: 10月24日 6時57分
+
+* [「Mermaid」図を描けるMarkdownエディター「MerMark Editor」が日本語化／有志の貢献により、v0.8.1から](https://forest.watch.impress.co.jp/docs/news/2150751.html)
+* [ドイツ・ミュンヘン市が再びオープンソースに移行--「Linux」デスクトップを含まず](https://japan.zdnet.com/article/35253683/)
+* [モスバーガー 流通済みプリペイドカード情報 約57万件が流出 | NHKニュース](https://news.web.nhk/newsweb/na/nd-20261023de64388)
+* [マイクロソフトによる「シェーダーコンパイル要らず」の新技術、ついにNVIDIAグラボ向けに解禁。ゲーム起動時の“あの待ち時間”とおさらば - AUTOMATON](https://automaton-media.com/articles/newsjp/20261023-475245/)
+* [タイムズカー情報漏えい、“お見舞金”3000円支払いへ　本人確認書類は全削除](https://k-tai.watch.impress.co.jp/docs/news/2150820.html)
