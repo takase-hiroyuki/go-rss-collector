@@ -622,3 +622,11 @@
 * [Claude Opus 5.5でいい感じのアクションゲームを作るための一工夫七つ - ABAの日誌](https://aba.hatenablog.com/entry/2026/10/22/194027)
 * [これがPHPの脆弱性を呟いてしまった人か。マジで全世界をデスマに叩き落とした人として後世に語り継がれると思う](https://posfie.com/@golden_haniwa/p/LQ90sis)
 * [中国政府系集団がAI攻撃　米マイクロソフト確認（共同通信） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/4281d049b33e5a3349a912eddf42476b228f1879)
+
+## 取得日時: 10月23日 21時32分
+
+* [タイムズカー免許証画像流出、「お見舞い」1人3000円　146万人が対象 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC231CP0T21C26A0000000/)
+* [佐川急便 流出した個人情報は最大5300万件超の可能性 | NHKニュース](https://news.web.nhk/newsweb/na/nd-20261023de64285)
+* [PHP2Shellへの対応を振り返って - コドモン Product Team Blog](https://tech.codmon.com/entry/2026/10/23/173909)
+* [パナソニックHD、利用禁止の生成AIに従業員らの情報送出　33万人分 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUF237Z60T21C26A0000000/)
+* [上場企業の経営論点（1673〜2026年）](https://the-shashi.com/issue/)
