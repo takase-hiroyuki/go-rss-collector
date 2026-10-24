@@ -646,3 +646,11 @@
 * [AIサイバー対策緊急提言 | チームみらい](https://team-mir.ai/lp/ai-cybersecurity/proposal.html)
 * [PHPの緊急脆弱性「php2shell」で攻撃されていないか？サーバーに残る3つの痕跡と確認方法 - インフラ学習サイト「InfraAcademy」](https://engineer-ninaritai.com/php2shell-attack-detection/)
 * [決定的なフロントエンドアーキテクチャがいい](https://speakerdeck.com/bengo4com/20261024-vuefes-2026-deterministic-frontend)
+
+## 取得日時: 10月25日 6時28分
+
+* [JSがこんなに減る！ HTML・CSS最新技術2026](https://ics-ikeda.github.io/261024_vuefes_2026/)
+* [家族の代理で薬を貰いに行ったら、「ご本人のマイナンバーカードを提出して暗証番号をお願いします」と言われ、本人以外に要求することを疑問視した投稿が波紋を呼ぶ](https://togetter.com/li/2762295)
+* [「HTTP2Shell」CVE-2026-111497、Node.js・Python・Bun・Envoyに影響 Brotliの重大脆弱性と修正版を確認|セキュリティニュースのセキュリティ対策Lab](https://rocket-boys.co.jp/security-measures-lab/brotli_cve-2026-111497_http2shell_20261024/)
+* [Building agents: When to fold subagents into your main agent loop](https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop)
+* [みんなはどのダークパターン広告が好き？ - orangestar2](https://orangestar2.hatenadiary.com/entry/2026/10/23/163042)
