@@ -638,3 +638,11 @@
 * [モスバーガー 流通済みプリペイドカード情報 約57万件が流出 | NHKニュース](https://news.web.nhk/newsweb/na/nd-20261023de64388)
 * [マイクロソフトによる「シェーダーコンパイル要らず」の新技術、ついにNVIDIAグラボ向けに解禁。ゲーム起動時の“あの待ち時間”とおさらば - AUTOMATON](https://automaton-media.com/articles/newsjp/20261023-475245/)
 * [タイムズカー情報漏えい、“お見舞金”3000円支払いへ　本人確認書類は全削除](https://k-tai.watch.impress.co.jp/docs/news/2150820.html)
+
+## 取得日時: 10月24日 20時56分
+
+* [【重要】お名前.com デスクトップクラウドサービスに対するサイバー攻撃について（第4報） | GMOインターネットグループ株式会社](https://group.gmo/info/alert/20261024/)
+* [不正アクセス受けたＧＭＯ、政府に「能動的サイバー防御」の適用を緊急要請](https://www.yomiuri.co.jp/economy/20261024-GYT1T00180/)
+* [AIサイバー対策緊急提言 | チームみらい](https://team-mir.ai/lp/ai-cybersecurity/proposal.html)
+* [PHPの緊急脆弱性「php2shell」で攻撃されていないか？サーバーに残る3つの痕跡と確認方法 - インフラ学習サイト「InfraAcademy」](https://engineer-ninaritai.com/php2shell-attack-detection/)
+* [決定的なフロントエンドアーキテクチャがいい](https://speakerdeck.com/bengo4com/20261024-vuefes-2026-deterministic-frontend)
