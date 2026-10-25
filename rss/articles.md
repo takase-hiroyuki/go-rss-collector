@@ -662,3 +662,11 @@
 * [思いつきが現実になる世界でこわい - 運河](https://uiuret.hatenablog.com/entry/2026/10/25/080436)
 * [ヨドバシ秋葉原の展示用iPhone Duo、すでにヒンジがだめになっててありえない「(販売店で)リアル耐久テストされてて参考になるなあ」「Samsungがいかに優秀かわかる」](https://togetter.com/li/2762609)
 * [さよならWordPress。ゲ制工房は新時代のCMS、EmDashに移行しました。](https://yurinchi2525.com/20261025emdash/)
+
+## 取得日時: 10月26日 6時37分
+
+* [AI ネイティブの SDLC プレイブック](https://claude.com/ja/resources/articles/the-ai-native-sdlc-playbook)
+* [「もうプロンプトは書かない」　Claude Code生みの親が明かす“ループエンジニアリング”の衝撃](https://www.itmedia.co.jp/business/articles/2610/24/news009.html)
+* [確率と統計を視覚的なアニメーションで理解できる「Seeing Theory」](https://gigazine.net/news/20261025-seeing-theory/)
+* [ソフトウェアの脆弱性情報をいち早く入手する - CVE・CISA KEV・JPCERT/CC・OSV｜npaka](https://note.com/npaka/n/na5ad6472d68c)
+* [「山の木の実ぜんぶ乗せフルーツタルト」を作った動画をアップしたら、「サムネがAIっぽい」と批判されてしまった「知らないものはAIに見える時代になった？」](https://togetter.com/li/2762761)
