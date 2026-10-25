@@ -654,3 +654,11 @@
 * [「HTTP2Shell」CVE-2026-111497、Node.js・Python・Bun・Envoyに影響 Brotliの重大脆弱性と修正版を確認|セキュリティニュースのセキュリティ対策Lab](https://rocket-boys.co.jp/security-measures-lab/brotli_cve-2026-111497_http2shell_20261024/)
 * [Building agents: When to fold subagents into your main agent loop](https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop)
 * [みんなはどのダークパターン広告が好き？ - orangestar2](https://orangestar2.hatenadiary.com/entry/2026/10/23/163042)
+
+## 取得日時: 10月25日 21時27分
+
+* [リュウジはなぜ嫌われている人からはすごく嫌われているのか…リュウジが自分自身のアンチになる要素を解説、さらに自分に対してのアンチ発言も](https://togetter.com/li/2762636)
+* [eMudhra のインシデントは Web にとって何を意味するのか | blog.jxck.io](https://blog.jxck.io/entries/2026-10-25/emudhra.html)
+* [思いつきが現実になる世界でこわい - 運河](https://uiuret.hatenablog.com/entry/2026/10/25/080436)
+* [ヨドバシ秋葉原の展示用iPhone Duo、すでにヒンジがだめになっててありえない「(販売店で)リアル耐久テストされてて参考になるなあ」「Samsungがいかに優秀かわかる」](https://togetter.com/li/2762609)
+* [さよならWordPress。ゲ制工房は新時代のCMS、EmDashに移行しました。](https://yurinchi2525.com/20261025emdash/)
