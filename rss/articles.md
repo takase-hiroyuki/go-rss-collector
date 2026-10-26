@@ -678,3 +678,11 @@
 * [無料の画像生成AI「Moss-Image」がすごい　日本語も漫画も生成、商用利用OKの実力を試した (1/4)](https://ascii.jp/elem/000/004/445/4445534/)
 * [月の利益はほぼマイナス…4年半続けた飲食店を手放した経営者が語る、失敗と教訓 - おなじみ丨近くの店から、なじみの店へ。](https://onaji.me/entry/2026/10/26)
 * [「年齢は合ってますが、人間ではありません」　6歳の飼い猫に届いた“進研ゼミの案内”　なぜ届いたのかベネッセに聞いた](https://www.itmedia.co.jp/news/article/2610/26/2000002597/)
+
+## 取得日時: 10月27日 8時4分
+
+* [Apple、iPad miniに史上最大のアップデートを導入](https://www.apple.com/jp/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/)
+* [AIが答えを出す時代に、ヒトは何を学ぶのか？ この問いに応える3冊](https://dain.cocolog-nifty.com/myblog/2026/10/post-822dc0.html)
+* [アップル、薄さ5.4mmでOLED搭載の新「iPad mini」発表、11万9800円～](https://k-tai.watch.impress.co.jp/docs/news/2151317.html)
+* [有機ELの新型「iPad mini」発表　A20 Pro、IP67対応、8.5型に大型化して11万9800円から](https://www.itmedia.co.jp/pcuser/articles/2610/26/news081.html)
+* [「Python」に再び「eMudhra」問題への対策、「Python 3.15.2」など5バージョンを提供／侵害された鍵をブロックする“最後の砦”が「ssl」モジュールに](https://forest.watch.impress.co.jp/docs/news/2151194.html)
