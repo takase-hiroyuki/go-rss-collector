@@ -670,3 +670,11 @@
 * [確率と統計を視覚的なアニメーションで理解できる「Seeing Theory」](https://gigazine.net/news/20261025-seeing-theory/)
 * [ソフトウェアの脆弱性情報をいち早く入手する - CVE・CISA KEV・JPCERT/CC・OSV｜npaka](https://note.com/npaka/n/na5ad6472d68c)
 * [「山の木の実ぜんぶ乗せフルーツタルト」を作った動画をアップしたら、「サムネがAIっぽい」と批判されてしまった「知らないものはAIに見える時代になった？」](https://togetter.com/li/2762761)
+
+## 取得日時: 10月26日 23時5分
+
+* [Ｊｏｓｈｉｎ、不正アクセスで最大約600万件の会員情報などが漏えいの可能性　](https://internet.watch.impress.co.jp/docs/news/2151273.html)
+* [楽天トラベルに不正アクセス、顧客情報260万件流出か　クレカ3万件も - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC2686T0W6A021C2000000/)
+* [無料の画像生成AI「Moss-Image」がすごい　日本語も漫画も生成、商用利用OKの実力を試した (1/4)](https://ascii.jp/elem/000/004/445/4445534/)
+* [月の利益はほぼマイナス…4年半続けた飲食店を手放した経営者が語る、失敗と教訓 - おなじみ丨近くの店から、なじみの店へ。](https://onaji.me/entry/2026/10/26)
+* [「年齢は合ってますが、人間ではありません」　6歳の飼い猫に届いた“進研ゼミの案内”　なぜ届いたのかベネッセに聞いた](https://www.itmedia.co.jp/news/article/2610/26/2000002597/)
