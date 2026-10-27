@@ -694,3 +694,11 @@
 * [GMO、不正アクセス実行犯の手がかりに懸賞金　1億5000万円規模](https://www.itmedia.co.jp/news/article/2610/27/2000002642/)
 * [中国製AI「Qwen3.8」にセキュリティ対策を命じたら勝手に北京のサーバーへデータ送信を試みたことが判明](https://gigazine.net/news/20261027-concerning-behaviour-open-weight-ai-model/)
 * [プルリクエストのリスクを判定する仕組み - newmo 技術ブログ](https://tech.newmo.me/entry/2026/10/27/100000)
+
+## 取得日時: 10月28日 7時54分
+
+* [公開された情報と氏名など同一の人物、ＧＭＯクラウドサービスの利用「一度もない」](https://www.yomiuri.co.jp/national/20261027-GYT1T00367/)
+* [スライド作成入門_2024.indd](https://home.riise.hiroshima-u.ac.jp/~ten/slide_20240328.pdf?utm_source=chatgpt.com)
+* [3回つくってわかった、 定期実行ジョブ基盤の本質情報](https://speakerdeck.com/takai/i-built-a-scheduled-job-platform-three-times-and-now-i-know-the-essential-truths)
+* [公開された情報と氏名など同一の人物、ＧＭＯクラウドサービスの利用「一度もない」](https://www.yomiuri.co.jp/national/20261027-GYT1T00367/2/)
+* [GitHub - azu/chizu: 🧀 Chīzu is a small macOS default browser that sends links to a configured browser and, for Dia or Google Chrome, a named profile.](https://github.com/azu/chizu)
