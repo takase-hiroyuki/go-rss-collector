@@ -686,3 +686,11 @@
 * [アップル、薄さ5.4mmでOLED搭載の新「iPad mini」発表、11万9800円～](https://k-tai.watch.impress.co.jp/docs/news/2151317.html)
 * [有機ELの新型「iPad mini」発表　A20 Pro、IP67対応、8.5型に大型化して11万9800円から](https://www.itmedia.co.jp/pcuser/articles/2610/26/news081.html)
 * [「Python」に再び「eMudhra」問題への対策、「Python 3.15.2」など5バージョンを提供／侵害された鍵をブロックする“最後の砦”が「ssl」モジュールに](https://forest.watch.impress.co.jp/docs/news/2151194.html)
+
+## 取得日時: 10月27日 22時6分
+
+* [GMO、なんでそんなに嫌われているの？→ダークパターン、対応の悪さ、同業者からの悪評と集まった反応がまるでGMOのWikiのよう](https://togetter.com/li/2763425)
+* [【速報】閲覧しないよう注意と関係者](https://www.47news.jp/15145072.html)
+* [GMO、不正アクセス実行犯の手がかりに懸賞金　1億5000万円規模](https://www.itmedia.co.jp/news/article/2610/27/2000002642/)
+* [中国製AI「Qwen3.8」にセキュリティ対策を命じたら勝手に北京のサーバーへデータ送信を試みたことが判明](https://gigazine.net/news/20261027-concerning-behaviour-open-weight-ai-model/)
+* [プルリクエストのリスクを判定する仕組み - newmo 技術ブログ](https://tech.newmo.me/entry/2026/10/27/100000)
