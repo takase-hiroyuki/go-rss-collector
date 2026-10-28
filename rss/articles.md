@@ -702,3 +702,11 @@
 * [3回つくってわかった、 定期実行ジョブ基盤の本質情報](https://speakerdeck.com/takai/i-built-a-scheduled-job-platform-three-times-and-now-i-know-the-essential-truths)
 * [公開された情報と氏名など同一の人物、ＧＭＯクラウドサービスの利用「一度もない」](https://www.yomiuri.co.jp/national/20261027-GYT1T00367/2/)
 * [GitHub - azu/chizu: 🧀 Chīzu is a small macOS default browser that sends links to a configured browser and, for Dia or Google Chrome, a named profile.](https://github.com/azu/chizu)
+
+## 取得日時: 10月28日 22時56分
+
+* [トランプ大統領「AI」の名称使用を禁止の方針　代わりに「SI＝超知能」の使用を求める大統領令に署名 「AI使う者はすべて敵」（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/4573deab7a69a2492e721d2d5bf8e59d3393d84a)
+* [MarkdownからきれいなPDFを作るCLIツールpfpdfを公開しました｜株式会社Preferred Networks](https://www.preferred.jp/ja/blog/tech/1798)
+* [支給PCのスペックがショボすぎて、新人が辞めた。](https://anond.hatelabo.jp/20261028103922)
+* [女子高生が作った「音の消火器」、水も粉も使わずに5秒でボヤを消す | ギズモード・ジャパン](https://www.gizmodo.jp/article/2610-vortex-tech-sound-fire-extinguisher/)
+* [生成AI製のゲーム攻略Wikiが乱造、“存在しないキャラのアンロック方法”など載る始末。まともなWikiが埋もれる事態に、ゲーム開発者も頭を抱える - AUTOMATON](https://automaton-media.com/articles/newsjp/20261028-476063/)
