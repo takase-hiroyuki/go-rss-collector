@@ -710,3 +710,11 @@
 * [支給PCのスペックがショボすぎて、新人が辞めた。](https://anond.hatelabo.jp/20261028103922)
 * [女子高生が作った「音の消火器」、水も粉も使わずに5秒でボヤを消す | ギズモード・ジャパン](https://www.gizmodo.jp/article/2610-vortex-tech-sound-fire-extinguisher/)
 * [生成AI製のゲーム攻略Wikiが乱造、“存在しないキャラのアンロック方法”など載る始末。まともなWikiが埋もれる事態に、ゲーム開発者も頭を抱える - AUTOMATON](https://automaton-media.com/articles/newsjp/20261028-476063/)
+
+## 取得日時: 10月29日 8時4分
+
+* [pfpdf — Markdown から、印刷品質の PDF へ](https://pfpdf.preferred.tech/ja/)
+* [Gemini 4 Carbon: our next frontier model](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)
+* [GMO熊谷正寿事件の概要と雑感｜山本一郎（やまもといちろう）](https://note.com/kirik/n/n72f93c8a2819)
+* [AI時代のシニアエンジニアとは](https://speakerdeck.com/yosuke_furukawa/ai-jidai-no-shinia-enjinia-toha)
+* [Amadeus の旅客サービスシステムへの不正アクセスについてまとめてみた - piyolog](https://piyolog.hatenadiary.jp/entry/2026/10/28/214917)
