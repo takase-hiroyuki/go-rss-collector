@@ -718,3 +718,11 @@
 * [GMO熊谷正寿事件の概要と雑感｜山本一郎（やまもといちろう）](https://note.com/kirik/n/n72f93c8a2819)
 * [AI時代のシニアエンジニアとは](https://speakerdeck.com/yosuke_furukawa/ai-jidai-no-shinia-enjinia-toha)
 * [Amadeus の旅客サービスシステムへの不正アクセスについてまとめてみた - piyolog](https://piyolog.hatenadiary.jp/entry/2026/10/28/214917)
+
+## 取得日時: 10月29日 23時4分
+
+* [Cloudflare はなんでこんなに無料で使わせてくれるの？ | ashunar0](https://ashunar0.dev/posts/cloudflare-free-plan/)
+* [厳格にルール化すると面倒だからいい感じにして運用してたのに、それを悪用しまくる人が出てくると仕方なく厳しくして全員が苦しむ現象ってあるよね](https://togetter.com/li/2764263)
+* [グッスマ、顧客の2800人のカード番号全16桁＋セキュリティコードなど流出か　下4桁は40万枚分](https://www.itmedia.co.jp/news/article/2610/29/2000002716/)
+* [AIのコード解析を妨害するために「天安門事件」「台湾独立」「水道水に毒物混入」などのフレーズを大量に混入させる手法が発見される](https://gigazine.net/news/20261029-anti-ai-words-in-script/)
+* [最近の E2E 戦略（2026 年 10 月現在）](https://zenn.dev/polyco/articles/26624b38c951b5)
