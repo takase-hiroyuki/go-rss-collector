@@ -726,3 +726,11 @@
 * [グッスマ、顧客の2800人のカード番号全16桁＋セキュリティコードなど流出か　下4桁は40万枚分](https://www.itmedia.co.jp/news/article/2610/29/2000002716/)
 * [AIのコード解析を妨害するために「天安門事件」「台湾独立」「水道水に毒物混入」などのフレーズを大量に混入させる手法が発見される](https://gigazine.net/news/20261029-anti-ai-words-in-script/)
 * [最近の E2E 戦略（2026 年 10 月現在）](https://zenn.dev/polyco/articles/26624b38c951b5)
+
+## 取得日時: 10月30日 8時12分
+
+* [プライム会員なら実質無料！新世代AIアシスタント「Alexa+」と新型Echoをチェックしてきた](https://pc.watch.impress.co.jp/docs/news/2152255.html)
+* [GitHub - tester-army/e2e: Next generation e2e testing framework for web and mobile apps.](https://github.com/tester-army/e2e)
+* [1週間以上メンテだった『神撃のバハムート』、「PHP脆弱性」対応が無事完了。“複数世代にわたる大幅なバージョンアップ”を経て、老舗ゲームが大改修 - AUTOMATON](https://automaton-media.com/articles/newsjp/20261029-476529/)
+* [歌手・矢野顕子氏「音楽のプロとは思えない質問ですいませんが、CDをiPhoneやPCに取り込む方法を教えてください」→専用レコーダーやiTunesなど様々な方法が集まる](https://togetter.com/li/2764323)
+* [必要最低限の自分専用アプリをAIで作る](https://iwashi.co/2026/10/29/build-my-app)
