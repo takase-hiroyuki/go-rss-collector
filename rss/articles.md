@@ -742,3 +742,11 @@
 * [個人情報を自社のDBに持たない設計は、どこまでできるのか - every Tech Blog](https://tech.every.tv/entry/2026/10/30/124255)
 * [Linuxカーネルの重大な脆弱性（CVE-2026-98432）によるカーリルへの影響について – カーリルのブログ](https://blog.calil.jp/2026/10/linux-kernel.html)
 * [読んでいないコードを私たちはどれだけ信頼できるのか - YAMAGUCHI::weblog](https://ymotongpoo.hatenablog.com/entry/2026/10/30/093000)
+
+## 取得日時: 10月31日 7時55分
+
+* [「Gemini Notebook」、数百冊の教科書を無料で利用可能に](https://www.watch.impress.co.jp/docs/news/2152548.html)
+* [今後のセキュリティの考え方](https://zenn.dev/cscloud_blog/articles/a987163efae5d8)
+* [文章のAIっぽさを抑えるプロンプト](https://imoz.jp/scraps/202610_humanizer.html)
+* [CVE-2026-98432は「待ち受けに届くか」で決まる——OSとクラウドごとの対応状況と、修正版を待つ間にやること(更新)｜zephel01](https://note.com/zephel01/n/n4637423e080b)
+* [「電話越しにフロントスタッフを突破するのは私の今後の課題にしておきます！」自律型AIに年末年始のホテルについて質問したら勝手に電話をしてしまった話](https://togetter.com/li/2764692)
