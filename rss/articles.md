@@ -734,3 +734,11 @@
 * [1週間以上メンテだった『神撃のバハムート』、「PHP脆弱性」対応が無事完了。“複数世代にわたる大幅なバージョンアップ”を経て、老舗ゲームが大改修 - AUTOMATON](https://automaton-media.com/articles/newsjp/20261029-476529/)
 * [歌手・矢野顕子氏「音楽のプロとは思えない質問ですいませんが、CDをiPhoneやPCに取り込む方法を教えてください」→専用レコーダーやiTunesなど様々な方法が集まる](https://togetter.com/li/2764323)
 * [必要最低限の自分専用アプリをAIで作る](https://iwashi.co/2026/10/29/build-my-app)
+
+## 取得日時: 10月30日 22時57分
+
+* [無印良品、「MUJIアプリ」の利用者情報最大約2726万件が不正アクセスにより流出の可能性　](https://internet.watch.impress.co.jp/docs/news/2152666.html)
+* [メルセンヌ・ツイスタ。PythonやC++でも使われる、世界標準「擬似乱数」の設計思想【松本眞】 - レバテックLAB](https://levtech.jp/media/detail_959/)
+* [個人情報を自社のDBに持たない設計は、どこまでできるのか - every Tech Blog](https://tech.every.tv/entry/2026/10/30/124255)
+* [Linuxカーネルの重大な脆弱性（CVE-2026-98432）によるカーリルへの影響について – カーリルのブログ](https://blog.calil.jp/2026/10/linux-kernel.html)
+* [読んでいないコードを私たちはどれだけ信頼できるのか - YAMAGUCHI::weblog](https://ymotongpoo.hatenablog.com/entry/2026/10/30/093000)
