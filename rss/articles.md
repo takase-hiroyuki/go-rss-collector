@@ -758,3 +758,11 @@
 * [OpenAI CEOが個人PCにメモリを積むのは「かなりひどい」と発言。DRAMはクラウドに集約すべきと主張](https://gazlog.jp/entry/open-ai-ceo-memory-should-go-to-dc/)
 * [もう無理｜ひでと](https://note.com/happy_dahlia405/n/n1b16c06e71e6)
 * [タッチに対応した新しいMacBook Proに思うこと - Karagana Park](https://krgn1002.com/2026/10/thoughts-on-the-new-macbook-pro-with-proled-xdr-display/)
+
+## 取得日時: 11月1日 7時23分
+
+* [1Passwordに全部賭けろ。情報セキュリティ＆AIエージェント時代で生き残るために。｜hayatosc](https://sizu.me/hayatosc/posts/oxi9cff8k2bn)
+* [GMO 子会社がシステムぜい弱性を2年前に指摘 来週2日会見へ | NHKニュース](https://news.web.nhk/newsweb/na/nd-20261031de69024)
+* [3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）](https://zenn.dev/kauche/articles/f3736c660aab77)
+* [偽コンサルの一生 - 孤独な弧度法](https://2arctan-1.hatenablog.com/entry/2026/10/31/125102)
+* [GeoJSON入門　JSONで地図の点・線・面を表す仕組み - 一色政彦の技術ノート](https://blog.masahiko.info/entry/2026/10/31/113000)
