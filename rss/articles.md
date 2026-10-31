@@ -750,3 +750,11 @@
 * [文章のAIっぽさを抑えるプロンプト](https://imoz.jp/scraps/202610_humanizer.html)
 * [CVE-2026-98432は「待ち受けに届くか」で決まる——OSとクラウドごとの対応状況と、修正版を待つ間にやること(更新)｜zephel01](https://note.com/zephel01/n/n4637423e080b)
 * [「電話越しにフロントスタッフを突破するのは私の今後の課題にしておきます！」自律型AIに年末年始のホテルについて質問したら勝手に電話をしてしまった話](https://togetter.com/li/2764692)
+
+## 取得日時: 10月31日 22時30分
+
+* [GMO不正侵入、システム脆弱性を2年前に把握　子会社指摘も対策後手 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC30A460Q6A031C2000000/)
+* [OpenAI アルトマンCEO「PCに大量のRAMを搭載するのは問題」と発言。ローカルAIより「クラウドで24時間活用すべき」との考え語る | テクノエッジ TechnoEdge](https://www.techno-edge.net/article/2026/10/31/5657.html)
+* [OpenAI CEOが個人PCにメモリを積むのは「かなりひどい」と発言。DRAMはクラウドに集約すべきと主張](https://gazlog.jp/entry/open-ai-ceo-memory-should-go-to-dc/)
+* [もう無理｜ひでと](https://note.com/happy_dahlia405/n/n1b16c06e71e6)
+* [タッチに対応した新しいMacBook Proに思うこと - Karagana Park](https://krgn1002.com/2026/10/thoughts-on-the-new-macbook-pro-with-proled-xdr-display/)
