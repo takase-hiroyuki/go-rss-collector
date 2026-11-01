@@ -774,3 +774,11 @@
 * [TVerにおけるテスト自動化の歩み - TVer Tech Blog](https://techblog.tver.co.jp/entry/shiroma/history-of-test-automation)
 * [いまのダークウェブでは二段階認証も無力化する「ブラウザのクローンデータ」が売買されており、その対策にはブラウザを使い分けることが有効らしい](https://togetter.com/li/2765521)
 * [AI学習への利用拒否をrobots.txtで一括指定へ　OpenAIやGoogleなどが対応表明](https://www.itmedia.co.jp/news/article/2611/01/2000002776/)
+
+## 取得日時: 11月2日 7時41分
+
+* [「作曲って難しいと思うじゃん？だったら遊びにしちゃえばいいんじゃね？」ということで、音楽理論やコード進行が全くわからなくても音楽が作れる作曲ツールを作った](https://togetter.com/li/2765526)
+* [自作PWAをTailscale Serveで配るのが便利だった話](https://zenn.dev/6uclz1/articles/43e803ec9d54dd)
+* [【速報】GMO不正アクセス、北朝鮮関与か](https://www.47news.jp/15170287.html)
+* [米Microsoftはなぜ最大6万人に早期退職を打診するのか？　決算資料から読み解く巨額AI投資の“台所事情”](https://www.itmedia.co.jp/pcuser/articles/2611/02/news029.html)
+* [【独自】GMO攻撃、北朝鮮ハッカーか　複数の痕跡、政府に報告](https://www.47news.jp/15170379.html)
