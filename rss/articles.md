@@ -766,3 +766,11 @@
 * [3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）](https://zenn.dev/kauche/articles/f3736c660aab77)
 * [偽コンサルの一生 - 孤独な弧度法](https://2arctan-1.hatenablog.com/entry/2026/10/31/125102)
 * [GeoJSON入門　JSONで地図の点・線・面を表す仕組み - 一色政彦の技術ノート](https://blog.masahiko.info/entry/2026/10/31/113000)
+
+## 取得日時: 11月1日 23時12分
+
+* [いらすとや、ファンが生息域踏査　AIに押されサイト訪問者は減少 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC284ZY0Y6A021C2000000/)
+* [AIエージェント向けの業務手順書（Agent Skills）の設計方法](https://techblog.kazaneya.com/20261030-agent-skills/)
+* [TVerにおけるテスト自動化の歩み - TVer Tech Blog](https://techblog.tver.co.jp/entry/shiroma/history-of-test-automation)
+* [いまのダークウェブでは二段階認証も無力化する「ブラウザのクローンデータ」が売買されており、その対策にはブラウザを使い分けることが有効らしい](https://togetter.com/li/2765521)
+* [AI学習への利用拒否をrobots.txtで一括指定へ　OpenAIやGoogleなどが対応表明](https://www.itmedia.co.jp/news/article/2611/01/2000002776/)
