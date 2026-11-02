@@ -782,3 +782,11 @@
 * [【速報】GMO不正アクセス、北朝鮮関与か](https://www.47news.jp/15170287.html)
 * [米Microsoftはなぜ最大6万人に早期退職を打診するのか？　決算資料から読み解く巨額AI投資の“台所事情”](https://www.itmedia.co.jp/pcuser/articles/2611/02/news029.html)
 * [【独自】GMO攻撃、北朝鮮ハッカーか　複数の痕跡、政府に報告](https://www.47news.jp/15170379.html)
+
+## 取得日時: 11月3日 1時58分
+
+* [GMO熊谷代表、会見で改めて謝罪　SNS投稿巡り「配慮が欠けていた」](https://www.itmedia.co.jp/news/article/2611/02/2000002806/)
+* [【時系列で振り返る】GMO熊谷正寿社長 会見詳報 | 毎日新聞](https://mainichi.jp/articles/20261102/hrc/00m/020/001000d)
+* [GMO熊谷代表、涙の謝罪会見でも“熊谷節”さく裂──「31年間、もうけるという言葉は使ったことがない」](https://www.itmedia.co.jp/news/article/2611/02/2000002823/)
+* [「命の砂時計」連呼のGMO会見──熊谷代表の発言にXではツッコミ続出](https://www.itmedia.co.jp/news/article/2611/02/2000002828/)
+* [ドコモの5G基地局は他社の半分以下、5G化率18.5％で最下位　総務省調査](https://k-tai.watch.impress.co.jp/docs/news/2153051.html)
