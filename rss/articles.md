@@ -806,3 +806,11 @@
 * [AI書道コンクール](https://aishodo.enpitsu.org/)
 * [Protocol Explorer · Learn how the internet works](https://protocol-explorer-alpha.vercel.app/)
 * [「GoogleやAppleのアカウントを守るためにYubiKeyを使っている」物理キーが注目を集め、売り切れが相次いでいる→導入前に知っておきたい注意点は？](https://togetter.com/li/2766080)
+
+## 取得日時: 11月4日 8時55分
+
+* [アダルト動画サイトに組み込まれた情報窃取スクリプト群を追う - Weekend Researcher Tsurezure Diary](https://disconinja.hatenablog.com/entry/2026/11/03/230647)
+* [E2Eテスト大全（あなたの知らない、E2Eテスト周辺の理論） - 若くない何かの悩み](https://blog.kuniwak.com/entry/e2ebok)
+* [Aterm設定画面、「PHP使ってないのに.php」なぜ？　NECに聞いた](https://www.itmedia.co.jp/news/article/2611/04/2000002847/)
+* [freeeにおけるSoftware Factory](https://speakerdeck.com/freee/freee-niokeru-software-factory)
+* [薄く・軽く。画質も「プロ級」になった新iPad mini【西田宗千佳のRandomTracking】](https://av.watch.impress.co.jp/docs/series/rt/2153275.html)
