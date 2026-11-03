@@ -790,3 +790,11 @@
 * [GMO熊谷代表、涙の謝罪会見でも“熊谷節”さく裂──「31年間、もうけるという言葉は使ったことがない」](https://www.itmedia.co.jp/news/article/2611/02/2000002823/)
 * [「命の砂時計」連呼のGMO会見──熊谷代表の発言にXではツッコミ続出](https://www.itmedia.co.jp/news/article/2611/02/2000002828/)
 * [ドコモの5G基地局は他社の半分以下、5G化率18.5％で最下位　総務省調査](https://k-tai.watch.impress.co.jp/docs/news/2153051.html)
+
+## 取得日時: 11月3日 10時29分
+
+* [ARCHITECTURE.md](https://architecture.md/)
+* [ISUCON2026 で優勝しました（当日編）](https://zenn.dev/luvtechno/articles/isucon2026-competition-day)
+* [日本の全法令を git の履歴にしてみた](https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git)
+* [「日本の防衛はAIで優位に」　米パランティアCEOインタビュー - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN300HD0Q6A031C2000000/)
+* [スパコン級チップがノートPCに。RTX Sparkが日本で6社から登場](https://pc.watch.impress.co.jp/docs/news/2153206.html)
