@@ -798,3 +798,11 @@
 * [日本の全法令を git の履歴にしてみた](https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git)
 * [「日本の防衛はAIで優位に」　米パランティアCEOインタビュー - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN300HD0Q6A031C2000000/)
 * [スパコン級チップがノートPCに。RTX Sparkが日本で6社から登場](https://pc.watch.impress.co.jp/docs/news/2153206.html)
+
+## 取得日時: 11月3日 23時57分
+
+* [ドメイン更新料が2,676円から18,139円に。通知から約45時間で判断を迫られた話](https://anond.hatelabo.jp/20261103160506)
+* [毎年1万円だったドメインが、いきなり17万円になった話｜藪原太郎](https://note.com/t_yabuhara/n/n7871bfc65d5c)
+* [AI書道コンクール](https://aishodo.enpitsu.org/)
+* [Protocol Explorer · Learn how the internet works](https://protocol-explorer-alpha.vercel.app/)
+* [「GoogleやAppleのアカウントを守るためにYubiKeyを使っている」物理キーが注目を集め、売り切れが相次いでいる→導入前に知っておきたい注意点は？](https://togetter.com/li/2766080)
