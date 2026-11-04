@@ -814,3 +814,11 @@
 * [Aterm設定画面、「PHP使ってないのに.php」なぜ？　NECに聞いた](https://www.itmedia.co.jp/news/article/2611/04/2000002847/)
 * [freeeにおけるSoftware Factory](https://speakerdeck.com/freee/freee-niokeru-software-factory)
 * [薄く・軽く。画質も「プロ級」になった新iPad mini【西田宗千佳のRandomTracking】](https://av.watch.impress.co.jp/docs/series/rt/2153275.html)
+
+## 取得日時: 11月5日 0時18分
+
+* [良品計画 クレカ番号の全桁 約109万件が漏えいのおそれ | NHKニュース](https://news.web.nhk/newsweb/na/nd-20261104de70494)
+* [ローカルAI最強エンジン「Strata」初心者向けガイド【チャットAIで動画やマンガを自動生成】 | ちもろぐ](https://chimolog.co/strata-guide/)
+* [マッキンゼーが国に納品した資料2,446ページ、全部数えたらパターンは7つだけだった｜うちた](https://note.com/uchita_success/n/nfc53d1ef5f81)
+* [中国メーカー、出荷前のAndroid端末に犯罪用のバックドアを設置か　Googleが取引停止](https://www.itmedia.co.jp/news/article/2611/04/2000002884/)
+* [RAM関連発言で燃えたサム・アルトマンがXアカウント名を「Ram Altman」に変更、RAMをデータセンターに集約するべきという意見表明の後に](https://gigazine.net/news/20261104-ram-altman/)
