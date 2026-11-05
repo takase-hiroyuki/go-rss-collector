@@ -822,3 +822,11 @@
 * [マッキンゼーが国に納品した資料2,446ページ、全部数えたらパターンは7つだけだった｜うちた](https://note.com/uchita_success/n/nfc53d1ef5f81)
 * [中国メーカー、出荷前のAndroid端末に犯罪用のバックドアを設置か　Googleが取引停止](https://www.itmedia.co.jp/news/article/2611/04/2000002884/)
 * [RAM関連発言で燃えたサム・アルトマンがXアカウント名を「Ram Altman」に変更、RAMをデータセンターに集約するべきという意見表明の後に](https://gigazine.net/news/20261104-ram-altman/)
+
+## 取得日時: 11月5日 9時16分
+
+* [ChatGPT無料ユーザー、10月29日から返事がそっけなく――褒め言葉も減らす仕様変更に – shiritomo](https://hashout.jp/ai/13689/)
+* [エンジニアはAIのせいで燃え尽き、働く意欲を失い、アイデンティティ喪失の危機に直面している【3万人調査】 | Business Insider Japan](https://www.businessinsider.jp/article/2610-developers-are-burned-out-as-ai-coding-reshapes-work-survey/)
+* [無料でネット接続なしでもWikipedia・教科書・オフラインマップが検索できAIアシスタントも搭載したオフライン知識検索ツール「Project NOMAD」](https://gigazine.net/news/20261104-project-nomad/)
+* [AI駆動開発の次の段階: ソフトウェアファクトリー - Qiita](https://qiita.com/Syoitu/items/9364a0a175893bb15219)
+* [珠玉の書籍 「人生を変えた1冊」 yukiさん＆sivchariさん - Findy Media](https://findy-code.io/media/articles/influential-books-helloyuki_-sivchari)
