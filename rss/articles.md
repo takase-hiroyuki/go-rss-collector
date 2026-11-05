@@ -830,3 +830,11 @@
 * [無料でネット接続なしでもWikipedia・教科書・オフラインマップが検索できAIアシスタントも搭載したオフライン知識検索ツール「Project NOMAD」](https://gigazine.net/news/20261104-project-nomad/)
 * [AI駆動開発の次の段階: ソフトウェアファクトリー - Qiita](https://qiita.com/Syoitu/items/9364a0a175893bb15219)
 * [珠玉の書籍 「人生を変えた1冊」 yukiさん＆sivchariさん - Findy Media](https://findy-code.io/media/articles/influential-books-helloyuki_-sivchari)
+
+## 取得日時: 11月6日 0時19分
+
+* [自作AIエージェントの開発をやめた - 無駄と文化](https://blog.mudatobunka.org/entry/2026/11/05/100000)
+* [三井住友G保証会社 個人情報最大32万人分漏えい 住所や年収も | NHKニュース](https://news.web.nhk/newsweb/na/nd-20261105de71024)
+* [データ転送量が約4倍となる新規格「Bluetooth HDT」正式承認。ロスレスオーディオの標準化へ - PHILE WEB](https://www.phileweb.com/news/d-av/202611/05/66309.html)
+* [「勝利の女神：NIKKE」のPCランチャー経由の不正プログラム配布についてまとめてみた - piyolog](https://piyolog.hatenadiary.jp/entry/2026/11/05/133509)
+* [日本の全法令が「Git」の履歴に ～改正で何が変わったのかが一目瞭然／「Git」の意外な弱点も？【やじうまの杜】](https://forest.watch.impress.co.jp/docs/serial/yajiuma/2153621.html)
