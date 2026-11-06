@@ -854,3 +854,11 @@
 * [メタバース、ワーケーションなど「ここ数年で恐ろしいほど聞かなくなった言葉一覧」に共感「Clubhouse懐かしい！」「半分がWeb3でわろた」](https://togetter.com/li/2767231)
 * [Herdrで、複数のエージェントを見守りたい - じゃあ、おうちで学べる](https://syu-m-5151.hatenablog.com/entry/2026/11/06/132239)
 * [インプレス、セキュリティ書籍9冊を全文無料公開。11月9日まで](https://pc.watch.impress.co.jp/docs/news/2153924.html)
+
+## 取得日時: 11月7日 8時41分
+
+* [もう検索エンジンに戻れない](https://anond.hatelabo.jp/20260930202455)
+* [[破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件](https://zenn.dev/xin9le/articles/9a1cf8e10494d6)
+* [自己回帰生成モデルの熱力学を構築 ―大規模言語モデルに内在する「世界モデル」の定量的理解に向けて―](https://www.t.u-tokyo.ac.jp/press/pr2026-11-06-001)
+* [PHPは使っておりません - megamouthの葬列](https://www.megamouth.info/entry/2026/11/06/165305)
+* [自分は旧時代のエンジニアになってしまったのでは](https://www.mobtown.jp/article/old-engineer/)
