@@ -838,3 +838,11 @@
 * [データ転送量が約4倍となる新規格「Bluetooth HDT」正式承認。ロスレスオーディオの標準化へ - PHILE WEB](https://www.phileweb.com/news/d-av/202611/05/66309.html)
 * [「勝利の女神：NIKKE」のPCランチャー経由の不正プログラム配布についてまとめてみた - piyolog](https://piyolog.hatenadiary.jp/entry/2026/11/05/133509)
 * [日本の全法令が「Git」の履歴に ～改正で何が変わったのかが一目瞭然／「Git」の意外な弱点も？【やじうまの杜】](https://forest.watch.impress.co.jp/docs/serial/yajiuma/2153621.html)
+
+## 取得日時: 11月6日 9時0分
+
+* [*sshole · sshhole.com](https://sshhole.com/)
+* [「Firefox」に新しい「ミニウィンドウ」--マルチタスク派にとって夢のような機能](https://japan.zdnet.com/article/35254318/)
+* [PR投げたらClaudeがレビューしてくれる仕組みを作ってみた](https://speakerdeck.com/kuracchi_enj1/yokohama-north-meetup-18)
+* [第40回：解約するだけじゃダメ！？　マイナンバーカード付きスマホの持ち主が亡くなった時の、正しい処分法【天国へのプロトコル】](https://internet.watch.impress.co.jp/docs/column/tengoku/2152866.html)
+* [BS12、'27年4月から2ch体制に。「BS釣りビジョン」を承継](https://av.watch.impress.co.jp/docs/news/2153831.html)
