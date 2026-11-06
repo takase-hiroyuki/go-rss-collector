@@ -846,3 +846,11 @@
 * [PR投げたらClaudeがレビューしてくれる仕組みを作ってみた](https://speakerdeck.com/kuracchi_enj1/yokohama-north-meetup-18)
 * [第40回：解約するだけじゃダメ！？　マイナンバーカード付きスマホの持ち主が亡くなった時の、正しい処分法【天国へのプロトコル】](https://internet.watch.impress.co.jp/docs/column/tengoku/2152866.html)
 * [BS12、'27年4月から2ch体制に。「BS釣りビジョン」を承継](https://av.watch.impress.co.jp/docs/news/2153831.html)
+
+## 取得日時: 11月6日 23時55分
+
+* [ドコモ不正アクセス、「料金プラン」などの情報も流出　29.5万件](https://www.watch.impress.co.jp/docs/news/2154508.html)
+* [セキュリティ啓発団体に不正アクセス　個人情報最大1.5万件漏えいか](https://www.itmedia.co.jp/news/article/2611/06/2000002978/)
+* [メタバース、ワーケーションなど「ここ数年で恐ろしいほど聞かなくなった言葉一覧」に共感「Clubhouse懐かしい！」「半分がWeb3でわろた」](https://togetter.com/li/2767231)
+* [Herdrで、複数のエージェントを見守りたい - じゃあ、おうちで学べる](https://syu-m-5151.hatenablog.com/entry/2026/11/06/132239)
+* [インプレス、セキュリティ書籍9冊を全文無料公開。11月9日まで](https://pc.watch.impress.co.jp/docs/news/2153924.html)
