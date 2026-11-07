@@ -862,3 +862,11 @@
 * [自己回帰生成モデルの熱力学を構築 ―大規模言語モデルに内在する「世界モデル」の定量的理解に向けて―](https://www.t.u-tokyo.ac.jp/press/pr2026-11-06-001)
 * [PHPは使っておりません - megamouthの葬列](https://www.megamouth.info/entry/2026/11/06/165305)
 * [自分は旧時代のエンジニアになってしまったのでは](https://www.mobtown.jp/article/old-engineer/)
+
+## 取得日時: 11月7日 22時51分
+
+* [ワイヤレス主流時代になぜ？「有線イヤホン」再流行のワケ【THE TIME,】  | TBS NEWS DIG](https://newsdig.tbs.co.jp/articles/-/3068819)
+* [AI時代に求められる優秀なTechLeadの振る舞い - pospomeのプログラミング日記](https://www.pospome.work/entry/2026/11/07/192125)
+* [ISUCON2026をClaude Codeが優勝したらしい｜laiso](https://sizu.me/laiso/posts/k59is4cnd77f)
+* [GMO 管理者が全情報アクセス可能 リスク指摘も十分対策されず | NHKニュース](https://news.web.nhk/newsweb/na/nd-20261107de72062)
+* [旦那のデスクトップPCがハッキングされてクレカ不正利用が判明、今朝マウスを触っていないのにポイントが勝手に動き、決済メールをチマチマ消す決定的瞬間を目撃したらしい](https://togetter.com/li/2767610)
