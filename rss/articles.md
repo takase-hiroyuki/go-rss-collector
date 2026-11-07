@@ -870,3 +870,11 @@
 * [ISUCON2026をClaude Codeが優勝したらしい｜laiso](https://sizu.me/laiso/posts/k59is4cnd77f)
 * [GMO 管理者が全情報アクセス可能 リスク指摘も十分対策されず | NHKニュース](https://news.web.nhk/newsweb/na/nd-20261107de72062)
 * [旦那のデスクトップPCがハッキングされてクレカ不正利用が判明、今朝マウスを触っていないのにポイントが勝手に動き、決済メールをチマチマ消す決定的瞬間を目撃したらしい](https://togetter.com/li/2767610)
+
+## 取得日時: 11月8日 7時38分
+
+* [ハーネスエンジニアリングを有名OSSはどう組んでいるのか？AIへの信頼で比べる5事例](https://gibberishlab.com/blog/oss-ai-agent-harness-philosophy)
+* [シーリングライトの様子がおかしいので蓋開けて中を見てみたらこの有様「みたらし団子かと」「何がどうしてそうなった？」](https://togetter.com/li/2767778)
+* [AI時代の要求管理ハンドブック ～経営・現場・開発がともに描く、問いから実現への道筋～ | 社会・産業のデジタル変革 | IPA 独立行政法人 情報処理推進機構](https://www.ipa.go.jp/digital/kaihatsu/youkyu-kanri.html)
+* [桜井政博氏、生成AIへの考えかたを示す。「いまのところは使っていない」し、「どこかへの搾取になってはいけない」。一方で現在の“大変すぎるゲーム開発”への懸念も【ファミ通40周年フェス】 | ゲーム・エンタメ最新情報のファミ通.com](https://www.famitsu.com/article/202611/93352)
+* [無料でDiscordのようなチャット・音声・動画・ボットなどを駆使した小さなコミュニティを自分たちで運営できる「Harmony」、既存のDiscordサーバーと接続できるブリッジ機能もオープンソースでセルフホスト可能](https://gigazine.net/news/20261107-harmony/)
