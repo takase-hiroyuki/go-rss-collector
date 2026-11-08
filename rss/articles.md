@@ -878,3 +878,11 @@
 * [AI時代の要求管理ハンドブック ～経営・現場・開発がともに描く、問いから実現への道筋～ | 社会・産業のデジタル変革 | IPA 独立行政法人 情報処理推進機構](https://www.ipa.go.jp/digital/kaihatsu/youkyu-kanri.html)
 * [桜井政博氏、生成AIへの考えかたを示す。「いまのところは使っていない」し、「どこかへの搾取になってはいけない」。一方で現在の“大変すぎるゲーム開発”への懸念も【ファミ通40周年フェス】 | ゲーム・エンタメ最新情報のファミ通.com](https://www.famitsu.com/article/202611/93352)
 * [無料でDiscordのようなチャット・音声・動画・ボットなどを駆使した小さなコミュニティを自分たちで運営できる「Harmony」、既存のDiscordサーバーと接続できるブリッジ機能もオープンソースでセルフホスト可能](https://gigazine.net/news/20261107-harmony/)
+
+## 取得日時: 11月8日 23時12分
+
+* [ホテル川久に宿泊し、バブルの夢を偲ぶ - 生存記録](https://hayasinonakanozou.hatenablog.com/entry/2026/11/03/111931)
+* [MCPはなぜ復権したのか：CLIが支持された理由と、流れを変えた仕様変更 | Hiraoku.dev](https://hiraoku.dev/blog/mcp-cli-cloud/)
+* [Jw_cadを思わせる無料BIM「SumiCAD」登場！ 開発者の意外な正体とは | 建設ITブログ](https://ken-it.world/it/2026/11/sumicad-free-bim.html)
+* [日本で言う「活け締め」をAIロボで自動化したらしいんだが、ビジネスの組み方賢すぎる.](https://posfie.com/@su_damari/p/xvcxjNy)
+* [【図解あり】マルチエージェント設計「15のパターン」　GitHub、Google、Siemensの知見を一気に整理](https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html)
