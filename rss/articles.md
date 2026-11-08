@@ -886,3 +886,11 @@
 * [Jw_cadを思わせる無料BIM「SumiCAD」登場！ 開発者の意外な正体とは | 建設ITブログ](https://ken-it.world/it/2026/11/sumicad-free-bim.html)
 * [日本で言う「活け締め」をAIロボで自動化したらしいんだが、ビジネスの組み方賢すぎる.](https://posfie.com/@su_damari/p/xvcxjNy)
 * [【図解あり】マルチエージェント設計「15のパターン」　GitHub、Google、Siemensの知見を一気に整理](https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html)
+
+## 取得日時: 11月9日 7時44分
+
+* [Shizuku-Duplex：自然な間合いで話す日本語 Full-Duplex モデル](https://shizuku.ai/blog/1/)
+* [Claude Codeの「今後確認しない」が秘密情報をGitHubに漏らす — 1,122件の公開ファイルに1,379件の秘密情報 - Dev & Gadget Note](https://dev.ponkotsu.dev/entry/claude-code-settings-local-secrets)
+* [Macのセキュリティの仕組み - 標準機能と安全に使うための対策｜npaka](https://note.com/npaka/n/nae09bd9ce37d)
+* [人生タイムライン](https://ltimeline.com/ja/)
+* [Meta、「Muse」で自分専用アプリを作れる新機能「スペース」](https://www.watch.impress.co.jp/docs/news/2154571.html)
