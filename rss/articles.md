@@ -894,3 +894,11 @@
 * [Macのセキュリティの仕組み - 標準機能と安全に使うための対策｜npaka](https://note.com/npaka/n/nae09bd9ce37d)
 * [人生タイムライン](https://ltimeline.com/ja/)
 * [Meta、「Muse」で自分専用アプリを作れる新機能「スペース」](https://www.watch.impress.co.jp/docs/news/2154571.html)
+
+## 取得日時: 11月10日 2時21分
+
+* [「ITエンジニアの仕事を探しています」実務経験25年の50歳のエンジニアが書類選考を全く通過できずにXで求職活動した投稿が話題に「年齢足切りとAIのダブルパンチか」](https://togetter.com/li/2768439)
+* [ソフトウェア産業が消滅する日──小さなローカルAIが暴く「プログラムを売る」という商売の終焉](https://wirelesswire.jp/2026/11/94903/)
+* [GMO熊谷社長は記者会見4日前にも「俺は小さな人間じゃない！」と全社員の前で号泣していた「熊谷さんの講話は社内で『脳内同期』と呼ばれていて…」社員が語る「宗教的な社内慣習」（デイリー新潮） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/a03f626662a910f876f839e945090826ec56c68c)
+* [サカナAIが27年秋にも上場へ　スタートアップ国内最大級、生成AI初 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC067MH0W6A101C2000000/)
+* [Macにはユーザーの人間関係をグラフ化する常駐プログラムが搭載されている](https://gigazine.net/news/20261109-macos-personal-knowledge-graph/)
