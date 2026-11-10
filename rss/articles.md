@@ -910,3 +910,11 @@
 * [Introducing Claude Fable 5.2 and Claude Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)
 * [ヤマハからついに! 小型でも“中身はガチHi-Fi”ストリーミングアンプ「WXA-70A」。机やTVで使ってみた[Sponsored]](https://av.watch.impress.co.jp/docs/topic/special/2145430.html)
 * [Xユーザーのはまちや２さん: 「今日発表されたばかりの「ドラゴンクエストRPG　魔界樹と導かれし島」でGoogle検索すると1ページ目に西武プリンスホテルのサイトが何故か表示されるんだけど、どうやら... / X](https://x.com/Hamachiya2/status/2119691158423040348)
+
+## 取得日時: 11月11日 0時30分
+
+* [Claude Codeで最近使っているTips【2026/11】](https://zenn.dev/oikon/articles/claude-code-recipe)
+* [【資料公開】「自分の仕事はここまで」はどこから来るのか](https://www.ryuzee.com/contents/blog/14628)
+* [大学1年生がつくったOSSがGitHub Star 1万超。AIに渡す「画面の設計図」はどう生まれた？ - レバテックLAB](https://levtech.jp/media/detail_965/)
+* [SNSの偽広告掲載めぐり 前澤友作氏の訴え退ける 東京地裁 | NHKニュース](https://news.web.nhk/newsweb/na/nd-20261110de73285)
+* [退屈なCoding AgentはMuseにやらせよう](https://zenn.dev/watany/articles/342b9815dd0553)
