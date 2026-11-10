@@ -918,3 +918,11 @@
 * [大学1年生がつくったOSSがGitHub Star 1万超。AIに渡す「画面の設計図」はどう生まれた？ - レバテックLAB](https://levtech.jp/media/detail_965/)
 * [SNSの偽広告掲載めぐり 前澤友作氏の訴え退ける 東京地裁 | NHKニュース](https://news.web.nhk/newsweb/na/nd-20261110de73285)
 * [退屈なCoding AgentはMuseにやらせよう](https://zenn.dev/watany/articles/342b9815dd0553)
+
+## 取得日時: 11月11日 8時58分
+
+* [【国のデータをしゃぶり尽くせ！】無料で使える公共データ100選【永久保存版】 - Qiita](https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709)
+* [氏名や電話番号、聞きません　漏洩問題で企業側、個人情報手放す動き：朝日新聞](https://www.asahi.com/articles/ASVCB0H13VCBUTIL009M.html)
+* [【独自】Suica「ウォークスルー改札」対応の裏側　iPhoneとAndroidが「UWB乗車」に27年後半対応へ（鈴木淳也）](https://japan.cnet.com/article/35254664/)
+* [無料のプロジェクト管理ツール「Leantime」、カンバン・一覧表・ガントビュー・iCal・タイムブロッキング・ホワイトボード・タイムシートを組み合わせて認知負荷を軽減することでADHD・失読症・自閉症を念頭に置いて設計](https://gigazine.net/news/20261110-leantime/)
+* [おやすみ、インターネットの時代](https://wirelesswire.jp/2026/11/94886/)
