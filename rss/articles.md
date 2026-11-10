@@ -902,3 +902,11 @@
 * [GMO熊谷社長は記者会見4日前にも「俺は小さな人間じゃない！」と全社員の前で号泣していた「熊谷さんの講話は社内で『脳内同期』と呼ばれていて…」社員が語る「宗教的な社内慣習」（デイリー新潮） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/a03f626662a910f876f839e945090826ec56c68c)
 * [サカナAIが27年秋にも上場へ　スタートアップ国内最大級、生成AI初 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC067MH0W6A101C2000000/)
 * [Macにはユーザーの人間関係をグラフ化する常駐プログラムが搭載されている](https://gigazine.net/news/20261109-macos-personal-knowledge-graph/)
+
+## 取得日時: 11月10日 10時56分
+
+* [エンジニアにとってEMは魅力のない役割なのか - mtx2s’s blog](https://mtx2s.hatenablog.com/entry/2026/11/09/210114)
+* [Claude Fable 5.2へのプロンプト](https://platform.claude.com/docs/ja/build-with-claude/prompt-engineering/prompting-claude-fable-5-2)
+* [Introducing Claude Fable 5.2 and Claude Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)
+* [ヤマハからついに! 小型でも“中身はガチHi-Fi”ストリーミングアンプ「WXA-70A」。机やTVで使ってみた[Sponsored]](https://av.watch.impress.co.jp/docs/topic/special/2145430.html)
+* [Xユーザーのはまちや２さん: 「今日発表されたばかりの「ドラゴンクエストRPG　魔界樹と導かれし島」でGoogle検索すると1ページ目に西武プリンスホテルのサイトが何故か表示されるんだけど、どうやら... / X](https://x.com/Hamachiya2/status/2119691158423040348)
