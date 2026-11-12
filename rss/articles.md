@@ -942,3 +942,11 @@
 * [software-factory-mode-2026aki skill - 橋本商会](https://scrapbox.io/shokai/software-factory-mode-2026aki_skill)
 * [GitHub - aws/aws-emulator: AWS Emulator is a local emulator of the AWS APIs.](https://github.com/aws/aws-emulator)
 * [AWS Emulator and the engineer's job when agents write the code](https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html)
+
+## 取得日時: 11月13日 0時54分
+
+* [無印良品「21年までクレカ番号で顧客を識別していた」　“全ケタ保有＆漏えい“巡り謝罪　削除漏れなぜ発生](https://www.itmedia.co.jp/news/article/2611/12/2000003144/)
+* [Mozkey（もずきー）| 書くことに集中できる、日本語入力。](https://koyasi777.com/mozkey/)
+* [MetaのAIエージェント「Muse」に課金して使い倒した結果の、小ネタと生存戦略 - はげあたま.org](https://www.hageatama.org/20261112/1794464751)
+* [そのヤバいDockerイメージをいつまで使うのか - keroxpのScrapbox](https://scrapbox.io/keroxp/%E3%81%9D%E3%81%AE%E3%83%A4%E3%83%90%E3%81%84Docker%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%82%92%E3%81%84%E3%81%A4%E3%81%BE%E3%81%A7%E4%BD%BF%E3%81%86%E3%81%AE%E3%81%8B)
+* [AWS Emulator がリリースされたので試してみた | DevelopersIO](https://dev.classmethod.jp/articles/aws-emulator-local-try/)
