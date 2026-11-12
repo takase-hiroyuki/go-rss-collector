@@ -934,3 +934,11 @@
 * [靖国神社に不正アクセス　約1万4500件の個人情報漏えい、パスワードが特定されるおそれも](https://www.itmedia.co.jp/news/article/2611/11/2000003119/)
 * [最近、大学生と話して大変だなと思ったのが、AIに月に２万円くらい（Maxプラン相当）は課金していないと、周りに差がつけられる/おいていかれる+生活費も上がっている、のでさらに関係ないものも含めてバイトを増やさなければならないという事情。 圧倒的な格差の拡大が見えないところにある。→「これ、どこまで本当だろうか 情報系など一部の学部に限った話？ それとも水産学や経営学、日本文学、体育学など全般？」](https://posfie.com/@kalofollow/p/kDMLpbM)
 * [【速報】政府、AI開発事業者に罰則検討](https://www.47news.jp/15215659.html)
+
+## 取得日時: 11月12日 10時26分
+
+* [インシデント調査報告書チェックリスト公開のお知らせ](https://www.jpcert.or.jp/ir_report_checklist_20261111.html)
+* [【特集】 AIが“ダチ”になった。Meta「Muse」と過ごした2週間](https://pc.watch.impress.co.jp/docs/topic/feature/2155692.html)
+* [software-factory-mode-2026aki skill - 橋本商会](https://scrapbox.io/shokai/software-factory-mode-2026aki_skill)
+* [GitHub - aws/aws-emulator: AWS Emulator is a local emulator of the AWS APIs.](https://github.com/aws/aws-emulator)
+* [AWS Emulator and the engineer's job when agents write the code](https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html)
