@@ -958,3 +958,11 @@
 * [Microsoft 365で大規模障害　「Outlook」でメールにアクセスできず、「Teams」など複数サービスに影響](https://www.itmedia.co.jp/news/article/2611/13/2000003161/)
 * [GitHub - tsukumijima/YacchoGPT: ヤッチョGPT: ヤオヨロ〜！雑談も調べ物も悩み相談もお任せあれ！✨](https://github.com/tsukumijima/YacchoGPT)
 * [Announcing Rust 1.100.0 | Rust Blog](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)
+
+## 取得日時: 11月14日 0時15分
+
+* [Claude Codeのおすすめ環境を全体図で解説。ハーネス・スキル・MCPの仕組みと実例](https://ktlog.net/posts/claude-code-ai-ecosystem)
+* [Microsoft 365の障害で上司が事業部の部長から「こうなる事を予想して事前に対処しておくのがシステム部だろうが！」と言われ、反抗して早退…連絡の受け手は必然的に私に](https://togetter.com/li/2770045)
+* [ぼくのClaude Codeの使い方](https://speakerdeck.com/falken/boku-no-claude-code-no-tsukaikata)
+* [総務省が新しい無料オンライン講座「統計解析プログラミング」を1月に開講　Pythonでのデータ分析が4週間で学べる](https://atmarkit.itmedia.co.jp/ait/articles/2611/13/news013.html)
+* [2026年11月に発生したMicrosoft 365の接続障害についてまとめてみた - piyolog](https://piyolog.hatenadiary.jp/entry/2026/11/13/114230)
