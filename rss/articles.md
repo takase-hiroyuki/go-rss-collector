@@ -950,3 +950,11 @@
 * [MetaのAIエージェント「Muse」に課金して使い倒した結果の、小ネタと生存戦略 - はげあたま.org](https://www.hageatama.org/20261112/1794464751)
 * [そのヤバいDockerイメージをいつまで使うのか - keroxpのScrapbox](https://scrapbox.io/keroxp/%E3%81%9D%E3%81%AE%E3%83%A4%E3%83%90%E3%81%84Docker%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%82%92%E3%81%84%E3%81%A4%E3%81%BE%E3%81%A7%E4%BD%BF%E3%81%86%E3%81%AE%E3%81%8B)
 * [AWS Emulator がリリースされたので試してみた | DevelopersIO](https://dev.classmethod.jp/articles/aws-emulator-local-try/)
+
+## 取得日時: 11月13日 9時4分
+
+* [マイクロソフトで接続障害が発生 世界各地に影響のおそれ | NHKニュース](https://news.web.nhk/newsweb/na/nd-20261113de75121)
+* [マイクロソフト、「365」世界で大規模障害　メール送れずビジネスに影響 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN12CY20S6A111C2000000/)
+* [Microsoft 365で大規模障害　「Outlook」でメールにアクセスできず、「Teams」など複数サービスに影響](https://www.itmedia.co.jp/news/article/2611/13/2000003161/)
+* [GitHub - tsukumijima/YacchoGPT: ヤッチョGPT: ヤオヨロ〜！雑談も調べ物も悩み相談もお任せあれ！✨](https://github.com/tsukumijima/YacchoGPT)
+* [Announcing Rust 1.100.0 | Rust Blog](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)
