@@ -982,3 +982,11 @@
 * [幻覚がひどいAIでも言葉遣いが洗練されていれば人を簡単に騙せることが判明](https://gigazine.net/news/20261114-llm-fluency-credible/)
 * [Google、高速・高効率な「Gemini 4 Hydrogen」を発表 ～「Claude Sonnet 5.5」「GPT-6.1 Terra」のライバル／前世代「3.8 Flash」の2.5倍の速さでタスクを完了](https://forest.watch.impress.co.jp/docs/news/2156117.html)
 * [相次ぐ情報漏えいでアナログ回帰？　ダイソー「パスワード管理ノート」が品薄に　一方でリスクも──IPAに聞いた](https://www.itmedia.co.jp/news/article/2611/14/2000003193/)
+
+## 取得日時: 11月15日 7時55分
+
+* [常時稼働エージェントの作り方（Claude公式ブログを資料化）](https://speakerdeck.com/minorun365/jouji-kadou-ejento-no-tsukurikata)
+* [Building always-on agents](https://claude.com/resources/articles/building-always-on-agents)
+* [AI悪用の攻撃拠点、千台発見　サイトの弱点探索、不正侵入疑い](https://www.47news.jp/15231027.html)
+* [「すげぇ！教科書とかで見たフロッピーや！！これで容量どれくらいあるんですか？」若者のほのぼのとした感想がぶっ刺さるネット民](https://togetter.com/li/2770437)
+* [マネジメントされる側の仕事は「文句」を言うこと](https://speakerdeck.com/riyaamemiya/slides-export-013b776f-8661-4e92-bac0-1ac4285999f9)
