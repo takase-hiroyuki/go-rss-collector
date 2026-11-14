@@ -974,3 +974,11 @@
 * [学生が発表で使ったスライドがAIを使っていたので使用ソフトを尋ねたら「全部AIです」と言われた、Figmaとかだと思ったらツールごと全部AIとHTMLで作ってた](https://togetter.com/li/2770106)
 * [Firefoxの内蔵VPNを無料＆データ通信量無制限で全ユーザーに提供するとMozillaが発表、2027年1月31日まで](https://gigazine.net/news/20261113-firefox-vpn/)
 * [データセンターの排熱でエビ養殖、NTT系が実験　育ったら食べられる？　担当者に聞いてみた](https://www.itmedia.co.jp/news/article/2611/13/2000003200/)
+
+## 取得日時: 11月14日 23時2分
+
+* [AIチームを率いるとは、どういうこと？ with プログラマー・起業家 amachang Part1 | The Update](https://theupdate.coffee/episodes/0J7UP7922ZXV6NBTt7w9Jl/)
+* [【速報】マネックス証券、マイナカード画像漏えいか](https://www.47news.jp/15227159.html)
+* [幻覚がひどいAIでも言葉遣いが洗練されていれば人を簡単に騙せることが判明](https://gigazine.net/news/20261114-llm-fluency-credible/)
+* [Google、高速・高効率な「Gemini 4 Hydrogen」を発表 ～「Claude Sonnet 5.5」「GPT-6.1 Terra」のライバル／前世代「3.8 Flash」の2.5倍の速さでタスクを完了](https://forest.watch.impress.co.jp/docs/news/2156117.html)
+* [相次ぐ情報漏えいでアナログ回帰？　ダイソー「パスワード管理ノート」が品薄に　一方でリスクも──IPAに聞いた](https://www.itmedia.co.jp/news/article/2611/14/2000003193/)
