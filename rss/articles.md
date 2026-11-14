@@ -966,3 +966,11 @@
 * [ぼくのClaude Codeの使い方](https://speakerdeck.com/falken/boku-no-claude-code-no-tsukaikata)
 * [総務省が新しい無料オンライン講座「統計解析プログラミング」を1月に開講　Pythonでのデータ分析が4週間で学べる](https://atmarkit.itmedia.co.jp/ait/articles/2611/13/news013.html)
 * [2026年11月に発生したMicrosoft 365の接続障害についてまとめてみた - piyolog](https://piyolog.hatenadiary.jp/entry/2026/11/13/114230)
+
+## 取得日時: 11月14日 9時17分
+
+* [Fable 5.2は物理モデリング音源の実装も作曲もすごい - きしだのHatena](https://nowokay.hatenablog.com/entry/2026/11/13/101644)
+* [『検索システム』『推薦システム』とLLM時代の検索推薦 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ](https://joisino.hatenablog.com/entry/searchrecbook)
+* [学生が発表で使ったスライドがAIを使っていたので使用ソフトを尋ねたら「全部AIです」と言われた、Figmaとかだと思ったらツールごと全部AIとHTMLで作ってた](https://togetter.com/li/2770106)
+* [Firefoxの内蔵VPNを無料＆データ通信量無制限で全ユーザーに提供するとMozillaが発表、2027年1月31日まで](https://gigazine.net/news/20261113-firefox-vpn/)
+* [データセンターの排熱でエビ養殖、NTT系が実験　育ったら食べられる？　担当者に聞いてみた](https://www.itmedia.co.jp/news/article/2611/13/2000003200/)
