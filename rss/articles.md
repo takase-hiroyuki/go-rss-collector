@@ -990,3 +990,11 @@
 * [AI悪用の攻撃拠点、千台発見　サイトの弱点探索、不正侵入疑い](https://www.47news.jp/15231027.html)
 * [「すげぇ！教科書とかで見たフロッピーや！！これで容量どれくらいあるんですか？」若者のほのぼのとした感想がぶっ刺さるネット民](https://togetter.com/li/2770437)
 * [マネジメントされる側の仕事は「文句」を言うこと](https://speakerdeck.com/riyaamemiya/slides-export-013b776f-8661-4e92-bac0-1ac4285999f9)
+
+## 取得日時: 11月15日 23時38分
+
+* [マザーボードは、ほぼ壊れない ―組み立て2,400台とサポート43,000件で見えた、PCの故障の順序](https://clivelab.jp/blogs/news/motherboard-rarely-fails)
+* [今、ソフトウェアエンジニアとして何を思うか｜Mori Atsushi](https://note.com/at_sushi_at/n/n2e6ea3453e37)
+* [自作フィードリーダーを作った - A Day in the Life](https://secon.dev/entry/2026/11/12/220000-my-own-feed-reader/)
+* [独プールで15人体調不良　マイクロソフト障害影響 | NEWSjp](https://news.jp/i/1494496378441958289)
+* [脱WordPress：10年超の個人ブログをAstro + Cloudflare Workersへ移行しPageSpeed 100点を実現](https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb)
