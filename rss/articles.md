@@ -998,3 +998,11 @@
 * [自作フィードリーダーを作った - A Day in the Life](https://secon.dev/entry/2026/11/12/220000-my-own-feed-reader/)
 * [独プールで15人体調不良　マイクロソフト障害影響 | NEWSjp](https://news.jp/i/1494496378441958289)
 * [脱WordPress：10年超の個人ブログをAstro + Cloudflare Workersへ移行しPageSpeed 100点を実現](https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb)
+
+## 取得日時: 11月16日 8時21分
+
+* [こんなに変わった！ AWSネットワークの常識](https://speakerdeck.com/shotashiratori/nw-jaws-10th-keynote)
+* [俺、8210円で買える「透明レトロカメラ」に夢中なんだ。これ面白いんだぜ！ (1/5)](https://ascii.jp/elem/000/004/451/4451322/)
+* [マイクロソフト障害、インド政府機関ほぼ影響なし…印メディア「技術的自立の正しさ証明」](https://www.yomiuri.co.jp/world/20261115-GYT1T00190/)
+* [さようならSSH鍵、こんにちはゼロトラスト ― AIフレンドリーで快適な自宅鯖SSH](https://speakerdeck.com/atalie2m/goodbye-ssh-key-jisabakan-2026)
+* [Museに雑に投げて頭を空けておく - taxin.dev](https://taxin.dev/articles/2026-11-15)
