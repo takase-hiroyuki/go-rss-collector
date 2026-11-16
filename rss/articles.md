@@ -1006,3 +1006,11 @@
 * [マイクロソフト障害、インド政府機関ほぼ影響なし…印メディア「技術的自立の正しさ証明」](https://www.yomiuri.co.jp/world/20261115-GYT1T00190/)
 * [さようならSSH鍵、こんにちはゼロトラスト ― AIフレンドリーで快適な自宅鯖SSH](https://speakerdeck.com/atalie2m/goodbye-ssh-key-jisabakan-2026)
 * [Museに雑に投げて頭を空けておく - taxin.dev](https://taxin.dev/articles/2026-11-15)
+
+## 取得日時: 11月17日 1時54分
+
+* [もういい加減"技術勉強会"やめませんか？ - Qiita](https://qiita.com/kotowazaman/items/9ee7c475a475e7527b0e)
+* [パスワードより安全なはずが……パスキー対応103サイトを検証→全てに脆弱性　独大学の調査結果](https://www.itmedia.co.jp/news/article/2611/16/2000003199/)
+* [「年齢で断らない」賃貸アパート　全戸に見守りWi-Fi　電波の変化で安否を検知](https://japan.cnet.com/article/35254951/)
+* [OpenAIもAnthropicも勧めるのになぜ流行らない？「AIへの指示は99%音声入力」のPdMに聞く活用術 - レバテックLAB](https://levtech.jp/media/detail_972/)
+* [グーグルのAI認定講座、1万人に無料提供　「Google AI Pro」3カ月利用権も](https://www.watch.impress.co.jp/docs/news/2156720.html)
