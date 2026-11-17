@@ -1022,3 +1022,11 @@
 * [「Microsoft 365」大規模障害、7月の修正で混入した不具合が原因　負荷増と容量減が重なり世界に波及](https://www.itmedia.co.jp/news/article/2611/17/2000003245/)
 * [Node.jsとnpmをWebブラウザ上で実行可能にする「OpenVessel」、神戸ソフトがオープンソースで公開](https://www.publickey1.jp/blog/26/nodejsnpmwebopenvessel.html)
 * [Google、人間の関与なしに脆弱性を見つけて悪用するAIフレームワークを初めて観測　GTIGのAI脅威レポート](https://www.itmedia.co.jp/news/article/2611/16/2000003244/)
+
+## 取得日時: 11月18日 1時49分
+
+* [当社お客様の情報漏えいの可能性に関するお詫びとお知らせ:楽天証券](https://www.rakuten-sec.co.jp/web/info/info20261117-02.html)
+* [おい、 Mutation Test をやれ。テスト品質を、測るために](https://zenn.dev/mizchi/articles/mutation-test-quality)
+* [楽天証券に不正アクセス 最大1125万口座の情報漏えい可能性](https://www.watch.impress.co.jp/docs/news/2157207.html)
+* [楽天証券に不正アクセス、最大1125万口座のログインIDなど漏えいのおそれ（CNET Japan） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/141fe69b0f33952604cde710494bbdff584f269a)
+* [メルカリ、Google Play ストアでアプリが検索・ダウンロードできない状態に](https://www.itmedia.co.jp/news/article/2611/17/2000003274/)
