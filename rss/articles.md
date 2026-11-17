@@ -1014,3 +1014,11 @@
 * [「年齢で断らない」賃貸アパート　全戸に見守りWi-Fi　電波の変化で安否を検知](https://japan.cnet.com/article/35254951/)
 * [OpenAIもAnthropicも勧めるのになぜ流行らない？「AIへの指示は99%音声入力」のPdMに聞く活用術 - レバテックLAB](https://levtech.jp/media/detail_972/)
 * [グーグルのAI認定講座、1万人に無料提供　「Google AI Pro」3カ月利用権も](https://www.watch.impress.co.jp/docs/news/2156720.html)
+
+## 取得日時: 11月17日 11時24分
+
+* [スーパーコンピューター「富岳」への不正アクセスについてまとめてみた - piyolog](https://piyolog.hatenadiary.jp/entry/2026/11/17/030254)
+* [AIが文学界を揺るがしている](https://gigazine.net/news/20261116-ai-literary-world/)
+* [「Microsoft 365」大規模障害、7月の修正で混入した不具合が原因　負荷増と容量減が重なり世界に波及](https://www.itmedia.co.jp/news/article/2611/17/2000003245/)
+* [Node.jsとnpmをWebブラウザ上で実行可能にする「OpenVessel」、神戸ソフトがオープンソースで公開](https://www.publickey1.jp/blog/26/nodejsnpmwebopenvessel.html)
+* [Google、人間の関与なしに脆弱性を見つけて悪用するAIフレームワークを初めて観測　GTIGのAI脅威レポート](https://www.itmedia.co.jp/news/article/2611/16/2000003244/)
