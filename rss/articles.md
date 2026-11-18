@@ -1038,3 +1038,11 @@
 * [14年間使ってきたWordPressをやめて、個人ブログを作り直した話｜星影｜Tech Hunter](https://note.com/unsoluble_sugar/n/n58c97b4dee67)
 * [Google「Gemini Notebook」、業務ツールを生成できる新機能](https://japan.cnet.com/article/35254996/)
 * [蒸気タービンとは？｜ターボ機械協会](https://www.turbo-so.jp/turbo-kids5.html)
+
+## 取得日時: 11月19日 1時20分
+
+* [Suicaペンギンの後継キャラはB案「紫のうさぎ」に　愛称募集を開始](https://www.watch.impress.co.jp/docs/news/2157432.html)
+* [部下がClaudeっぽいスライドしか出してこなくてウンザリしてる上司はこれを使わせなさい - Qiita](https://qiita.com/nuco_d/items/b279477cbcdbe5921abd)
+* [MUJI Card発行のクレディセゾン、カード番号削除を2度依頼　無印は実行せず](https://xtech.nikkei.com/atcl/nxt/column/18/00001/12190/)
+* [楽天証券への不正アクセスについてまとめてみた - piyolog](https://piyolog.hatenadiary.jp/entry/2026/11/18/100525)
+* [「ガチャを回すみたいに強盗する」裁判傍聴の民が実際に見てきたトクリュウの実態がしんどすぎる「普通に仕事しろ」](https://togetter.com/li/2772114)
