@@ -1030,3 +1030,11 @@
 * [楽天証券に不正アクセス 最大1125万口座の情報漏えい可能性](https://www.watch.impress.co.jp/docs/news/2157207.html)
 * [楽天証券に不正アクセス、最大1125万口座のログインIDなど漏えいのおそれ（CNET Japan） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/141fe69b0f33952604cde710494bbdff584f269a)
 * [メルカリ、Google Play ストアでアプリが検索・ダウンロードできない状態に](https://www.itmedia.co.jp/news/article/2611/17/2000003274/)
+
+## 取得日時: 11月18日 10時33分
+
+* [[AWS] S3Vectorsは全文検索エンジンとしてOpenSearchの代わりになるのか？ - Qiita](https://qiita.com/kikuziro/items/cd1389f6a1601494895f?utm_campaign=post_article&utm_medium=twitter&utm_source=twitter_share)
+* [ソフトウェアエンジニアの黄昏期をこう過ごそうと思う｜わかばめ](https://note.com/wakabame/n/nc76b65a187bb)
+* [14年間使ってきたWordPressをやめて、個人ブログを作り直した話｜星影｜Tech Hunter](https://note.com/unsoluble_sugar/n/n58c97b4dee67)
+* [Google「Gemini Notebook」、業務ツールを生成できる新機能](https://japan.cnet.com/article/35254996/)
+* [蒸気タービンとは？｜ターボ機械協会](https://www.turbo-so.jp/turbo-kids5.html)
