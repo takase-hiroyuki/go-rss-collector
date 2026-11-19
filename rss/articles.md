@@ -1046,3 +1046,11 @@
 * [MUJI Card発行のクレディセゾン、カード番号削除を2度依頼　無印は実行せず](https://xtech.nikkei.com/atcl/nxt/column/18/00001/12190/)
 * [楽天証券への不正アクセスについてまとめてみた - piyolog](https://piyolog.hatenadiary.jp/entry/2026/11/18/100525)
 * [「ガチャを回すみたいに強盗する」裁判傍聴の民が実際に見てきたトクリュウの実態がしんどすぎる「普通に仕事しろ」](https://togetter.com/li/2772114)
+
+## 取得日時: 11月19日 10時2分
+
+* [「PHP」に再び“致命的”な脆弱性、日本時間19日夜にセキュリティリリースへ／サポート中の全バージョンが対象](https://forest.watch.impress.co.jp/docs/news/2157690.html)
+* [nginx2root の HTTP/2 脆弱性2件を AWS 構成ごとに整理してみた | DevelopersIO](https://dev.classmethod.jp/articles/nginx-http2-rce-aws-mitigation/)
+* [実質的無職になった｜Y.Hirano](https://note.com/y_hirano/n/nc986ab18b90e)
+* [アプリ作りに専門知識が不要に!? AIが変える常識と落とし穴 | NHKニュース](https://news.web.nhk/newsweb/na/nd-20261117de77369)
+* [マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始](https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html)
