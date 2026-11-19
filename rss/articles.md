@@ -1054,3 +1054,11 @@
 * [実質的無職になった｜Y.Hirano](https://note.com/y_hirano/n/nc986ab18b90e)
 * [アプリ作りに専門知識が不要に!? AIが変える常識と落とし穴 | NHKニュース](https://news.web.nhk/newsweb/na/nd-20261117de77369)
 * [マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始](https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html)
+
+## 取得日時: 11月20日 1時28分
+
+* [美少女ゲーム「NIKKE」経由でマルウェア感染　北海道2自治体、委託先が認める](https://www.itmedia.co.jp/news/article/2611/19/2000003351/)
+* [教師のためのAI入門](https://yamazato.nuee.nagoya-u.ac.jp/PDF/AI-for-Teachers-an-Open-Textbook-v1.0.0.pdf)
+* [相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ](https://zenn.dev/kusuke/articles/98e178e6824cac)
+* [複雑な立体形状や皮膚上に直接形成可能なナノメッシュ皮膚センサの開発に成功 ―次世代ヘルスケアやヒューマン・マシン・インターフェース応用に期待―](https://www.t.u-tokyo.ac.jp/press/pr2026-11-19-001)
+* [ソフトウェアダークファクトリー | 技術評論社](https://gihyo.jp/book/2026/978-4-297-16073-9)
