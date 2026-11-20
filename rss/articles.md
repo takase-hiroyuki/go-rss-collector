@@ -1070,3 +1070,11 @@
 * [11月に修正されたPHPの脆弱性についてまとめてみた - piyolog](https://piyolog.hatenadiary.jp/entry/2026/11/20/003148)
 * [マウスやキーボードの電池残量がタスクバーで確認できる「BatteryHub」](https://pc.watch.impress.co.jp/docs/news/2158043.html)
 * [AIの返答が理解しづらいので、自分の認知特性をAIに分析させてSkillにした - $shibayu36->blog;](https://blog.shibayu36.org/entry/2026/11/17/120000)
+
+## 取得日時: 11月21日 0時59分
+
+* [【速報】三井住友銀で情報漏えい、最大1400万件](https://www.47news.jp/15262461.html)
+* [「あと10年もたないかもしれない」Rubyの父 まつもとゆきひろが危惧するOSS文化の消滅 - エンジニアtype | 転職type](https://type.jp/et/feature/32219/)
+* [「httpS://」だと暗号化されず平文で送信……「PHP」に約20年潜んでいた脆弱性が解決／問題はいたってシンプル、なんともはや……【やじうまの杜】](https://forest.watch.impress.co.jp/docs/serial/yajiuma/2158241.html)
+* [政府の内部資料流出か、基幹システムに不正アクセス　デジタル庁発表：朝日新聞](https://www.asahi.com/articles/ASVCN30WCVCNULFA01NM.html)
+* [はてなエンジニアの自作RSSリーダーをご紹介します 2026 - Hatena Developer Blog](https://developer.hatenastaff.com/entry/2026/11/20/162322)
