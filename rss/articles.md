@@ -1062,3 +1062,11 @@
 * [相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ](https://zenn.dev/kusuke/articles/98e178e6824cac)
 * [複雑な立体形状や皮膚上に直接形成可能なナノメッシュ皮膚センサの開発に成功 ―次世代ヘルスケアやヒューマン・マシン・インターフェース応用に期待―](https://www.t.u-tokyo.ac.jp/press/pr2026-11-19-001)
 * [ソフトウェアダークファクトリー | 技術評論社](https://gihyo.jp/book/2026/978-4-297-16073-9)
+
+## 取得日時: 11月20日 10時9分
+
+* [「ほぼ全人類が永久に失業する」Anthropic研究者がAIの未来を予測](https://ascii.jp/elem/000/004/452/4452982/)
+* [AIに悩みを相談する際に気をつけて欲しいこと｜SSC](https://www.assdr.kyoto-u.ac.jp/ssc/consulting_ai/)
+* [11月に修正されたPHPの脆弱性についてまとめてみた - piyolog](https://piyolog.hatenadiary.jp/entry/2026/11/20/003148)
+* [マウスやキーボードの電池残量がタスクバーで確認できる「BatteryHub」](https://pc.watch.impress.co.jp/docs/news/2158043.html)
+* [AIの返答が理解しづらいので、自分の認知特性をAIに分析させてSkillにした - $shibayu36->blog;](https://blog.shibayu36.org/entry/2026/11/17/120000)
