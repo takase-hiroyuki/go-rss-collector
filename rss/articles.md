@@ -1078,3 +1078,11 @@
 * [「httpS://」だと暗号化されず平文で送信……「PHP」に約20年潜んでいた脆弱性が解決／問題はいたってシンプル、なんともはや……【やじうまの杜】](https://forest.watch.impress.co.jp/docs/serial/yajiuma/2158241.html)
 * [政府の内部資料流出か、基幹システムに不正アクセス　デジタル庁発表：朝日新聞](https://www.asahi.com/articles/ASVCN30WCVCNULFA01NM.html)
 * [はてなエンジニアの自作RSSリーダーをご紹介します 2026 - Hatena Developer Blog](https://developer.hatenastaff.com/entry/2026/11/20/162322)
+
+## 取得日時: 11月21日 9時43分
+
+* [SSDの価格は2027年後半に下落し始める可能性あり](https://gigazine.net/news/20261120-ssd-prices-outlook/)
+* [「Windows Server 2028」で「WSUS」や「SMB 1.0」、「VBScript」などが削除へ／「Windows PowerShell 5.1」「WDS」は非推奨に、レガシーBIOSでの起動も不可](https://forest.watch.impress.co.jp/docs/news/2158261.html)
+* [メモリ圧縮を使えばCPUの処理能力を少し犠牲にするだけでメモリ使用量を大幅に削減できる](https://gigazine.net/news/20261120-memory-compress/)
+* [MetaのAIアシスタント搭載小型デバイス「Muse Charm」の価格は4万円台か](https://gigazine.net/news/20261120-muse-charm-may-cost-300-usd/)
+* [「KARTE」への不正アクセスに関する当社調査結果と、サービス再開の見通し等のお知らせ](https://plaid.co.jp/news/20261120/)
