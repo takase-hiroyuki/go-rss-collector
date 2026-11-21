@@ -1094,3 +1094,11 @@
 * [新宿駅で財布を忘れて家に帰れない女の子から「PayPay1000円分を現金で交換して貰えませんか？」とお願いされ、「返さなくていいよ」と1000円あげたら喜ばれず戸惑っていた](https://togetter.com/li/2773268)
 * [どれだけGeminiが賢くなってもAIオタクが避ける理由。ついに解消の可能性 - すまほん!!](https://smhn.info/202611-gemini-subscription-third-party-harness-december-2)
 * [ソフトウェアファクトリーとコード設計と顧客価値](https://kosui.me/posts/2026/11/15/code-design-after-agents)
+
+## 取得日時: 11月22日 8時44分
+
+* [寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド](https://zenn.dev/canly/articles/ca6875cd79539f)
+* ["リーマン予想の証明"の検証は現在どこまで進んでいるか｜加藤文元](https://note.com/katobungen/n/n9c2bb939b9c7)
+* [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
+* [KARTEを選んだのは顧客の私じゃない｜しがないサラリーマン](https://note.com/kochan34123412/n/nf37511e42de9)
+* [GitHub - fkubota/understand-mode: Claude Code の出力・PR・コードを、付箋のホワイトボードで寄り道しながら理解する /understand スキル](https://github.com/fkubota/understand-mode)
