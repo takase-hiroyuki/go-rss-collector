@@ -1086,3 +1086,11 @@
 * [メモリ圧縮を使えばCPUの処理能力を少し犠牲にするだけでメモリ使用量を大幅に削減できる](https://gigazine.net/news/20261120-memory-compress/)
 * [MetaのAIアシスタント搭載小型デバイス「Muse Charm」の価格は4万円台か](https://gigazine.net/news/20261120-muse-charm-may-cost-300-usd/)
 * [「KARTE」への不正アクセスに関する当社調査結果と、サービス再開の見通し等のお知らせ](https://plaid.co.jp/news/20261120/)
+
+## 取得日時: 11月22日 0時14分
+
+* [イーロン・マスクが金持ちでもそんなネットで嫌われてないのって「男の子がワクワクするもの」に迷わず巨額の金を突っ込むからだと思うんだよな](https://togetter.com/li/2773122)
+* [GitHub - mitaku/andon: A one-person software factory: AI coding agents take tasks from a ledger through review to merge, and call the human only for decisions only they can make.](https://github.com/mitaku/andon)
+* [新宿駅で財布を忘れて家に帰れない女の子から「PayPay1000円分を現金で交換して貰えませんか？」とお願いされ、「返さなくていいよ」と1000円あげたら喜ばれず戸惑っていた](https://togetter.com/li/2773268)
+* [どれだけGeminiが賢くなってもAIオタクが避ける理由。ついに解消の可能性 - すまほん!!](https://smhn.info/202611-gemini-subscription-third-party-harness-december-2)
+* [ソフトウェアファクトリーとコード設計と顧客価値](https://kosui.me/posts/2026/11/15/code-design-after-agents)
