@@ -1102,3 +1102,11 @@
 * [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
 * [KARTEを選んだのは顧客の私じゃない｜しがないサラリーマン](https://note.com/kochan34123412/n/nf37511e42de9)
 * [GitHub - fkubota/understand-mode: Claude Code の出力・PR・コードを、付箋のホワイトボードで寄り道しながら理解する /understand スキル](https://github.com/fkubota/understand-mode)
+
+## 取得日時: 11月23日 0時11分
+
+* [MetaのAIエージェント「Muse」は何ができる？　ChatGPTやGeminiとの違い、注意点を解説](https://www.itmedia.co.jp/mobile/articles/2611/22/news005.html)
+* [おやつ屋「六花亭」が不正アクセス、クレカのセキュリティコードまで流出→最上位のやらかしなのに誠実さを感じてかあまり荒れていない……なぜ他社にこれができないのか？](https://togetter.com/li/2773676)
+* [グーグルのGemini Notebook、資料を操作可能なWebサイトへ変換可能に](https://k-tai.watch.impress.co.jp/docs/news/2157164.html)
+* [タワーレコード 不正アクセスで約1100万件の個人情報流出 | NHKニュース](https://news.web.nhk/newsweb/na/nd-20261122de79936)
+* [クロネコヤマトのロゴが外国人たちに人気らしい「これまでで一番好きな企業ロゴ」「これの絵柄が前後に入ったシャツを持ってるよ！」](https://togetter.com/li/2773549)
