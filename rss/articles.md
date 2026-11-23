@@ -1110,3 +1110,11 @@
 * [グーグルのGemini Notebook、資料を操作可能なWebサイトへ変換可能に](https://k-tai.watch.impress.co.jp/docs/news/2157164.html)
 * [タワーレコード 不正アクセスで約1100万件の個人情報流出 | NHKニュース](https://news.web.nhk/newsweb/na/nd-20261122de79936)
 * [クロネコヤマトのロゴが外国人たちに人気らしい「これまでで一番好きな企業ロゴ」「これの絵柄が前後に入ったシャツを持ってるよ！」](https://togetter.com/li/2773549)
+
+## 取得日時: 11月23日 9時8分
+
+* [ここ1か月くらい、PCに勝手に Adobe Express Photos が勝手にインストールされたっていう問い合わせが多発してるんですが、さすがにこれはAdobeさんやりすぎじゃないでしょうか・・・？ しかも、Windows+Shift+Sを勝手に上書きして、機能劣化版のスクショツールに置き換わるんですよ…→「これマジでクソ過ぎてAdobe系製品全部消したい」](https://posfie.com/@petaritape/p/tgzVdbL)
+* [2026年11月21日をもって世界はシンギュラリティに突入した｜たてはま](https://note.com/cgbeginner/n/n5856d402f125)
+* [なんでみんなそんなにセルフレジに戸惑うんだ？ UIや導線が統一されてない..](https://anond.hatelabo.jp/20261122011458)
+* [Agent Harnessを理解するために、150行ほどのPythonで自作してみた - Qiita](https://qiita.com/yamamoto_a_genee/items/76562c5c80032ad9e962)
+* [AndroidスマホがWindows PCのサブ画面に？マイクロソフトが新機能 - すまほん!!](https://smhn.info/202611-microsoft-link-to-windows-extend-display-android-second-screen)
