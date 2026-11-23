@@ -1118,3 +1118,11 @@
 * [なんでみんなそんなにセルフレジに戸惑うんだ？ UIや導線が統一されてない..](https://anond.hatelabo.jp/20261122011458)
 * [Agent Harnessを理解するために、150行ほどのPythonで自作してみた - Qiita](https://qiita.com/yamamoto_a_genee/items/76562c5c80032ad9e962)
 * [AndroidスマホがWindows PCのサブ画面に？マイクロソフトが新機能 - すまほん!!](https://smhn.info/202611-microsoft-link-to-windows-extend-display-android-second-screen)
+
+## 取得日時: 11月24日 4時8分
+
+* [著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話](https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7)
+* [NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director | NVIDIA Newsroom](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director)
+* [Lean で手続き的プログラム の証明が書けるようになった](https://speakerdeck.com/inoueasei/slide-aa115490-ea99-4286-9de2-40794f4e861f)
+* [なぜ今形式検証なのか](https://zenn.dev/ncdc/articles/dcec80b0c067b0)
+* [AI時代、結局"食いっぱぐれるエンジニア"と"生き残るエンジニア"を分けるものは何か - rokujyouhitoma's blog](https://rokujyouhitoma.hatenablog.com/entry/2026/11/23/135112)
