@@ -1126,3 +1126,11 @@
 * [Lean で手続き的プログラム の証明が書けるようになった](https://speakerdeck.com/inoueasei/slide-aa115490-ea99-4286-9de2-40794f4e861f)
 * [なぜ今形式検証なのか](https://zenn.dev/ncdc/articles/dcec80b0c067b0)
 * [AI時代、結局"食いっぱぐれるエンジニア"と"生き残るエンジニア"を分けるものは何か - rokujyouhitoma's blog](https://rokujyouhitoma.hatenablog.com/entry/2026/11/23/135112)
+
+## 取得日時: 11月25日 3時47分
+
+* [当社お客様の情報漏えいに関するお詫びとお知らせ（第2報）:楽天証券](https://www.rakuten-sec.co.jp/web/info/info20261124-04.html)
+* [ソフトバンク、「ITmedia」運営会社の売却検討　AI関連事業に集中 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC1688U0W6A111C2000000/)
+* [ソフトバンク、アイティメディアの売却検討か　2社「コメント控える」「決定した事実ない」](https://www.itmedia.co.jp/news/article/2611/24/2000003427/)
+* [品質を積み上げられるようにする](https://speakerdeck.com/goyoki/building-up-of-quality)
+* [「松屋」の一人負けなのか？「吉野家」「すき家」と明暗を分けた既存店売上、その差はどこにあるのか #エキスパートトピ（三輪大輔） - エキスパート - Yahoo!ニュース](https://news.yahoo.co.jp/expert/articles/c6b02eabde817393055dacbd810b748a6637ae39)
