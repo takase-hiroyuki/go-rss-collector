@@ -1142,3 +1142,11 @@
 * [ずっしり重い新型ウォークマン　歴代最高65万円なぜここまで高級化：朝日新聞](https://www.asahi.com/articles/ASVCN2QXSVCNULFA01XM.html)
 * [AI時代の実践・形式検証入門](https://docs.google.com/presentation/d/1s-ie7b1rD47NUkwSIvdDYCJfrHzWOl-rt1c2hSgeerM/mobilepresent?slide=id.p1)
 * [34年目の秀丸エディタと、AIの距離感　「正直皆どんな目的で使ってるかよく分かりません」 - レバテックLAB](https://levtech.jp/media/detail_973/)
+
+## 取得日時: 11月26日 2時54分
+
+* [AIで学習アプリを作って2週間で宅建に合格した話【テキスト不要】｜Shikimi](https://note.com/shikimi_crypto/n/n35d0bb54e6fb)
+* [窓の内側に貼って屋外を撮影する防犯カメラ　Ankerが9990円で発売](https://japan.cnet.com/article/35255394/)
+* [マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった](https://zenn.dev/henteko/articles/ed8d1458246d7a)
+* [高木浩光＠自宅の日記 - 「氏名は含まれておりません」では済まない——KARTE事件で漏れた行動の記録は誰の個人データか](http://takagi-hiromitsu.jp/diary/20261124.html)
+* [地上波テレビの全番組を「ネットで同時・見逃し配信」、総務省が提案　2040年までに](https://japan.cnet.com/article/35255356/)
