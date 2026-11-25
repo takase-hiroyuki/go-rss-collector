@@ -1134,3 +1134,11 @@
 * [ソフトバンク、アイティメディアの売却検討か　2社「コメント控える」「決定した事実ない」](https://www.itmedia.co.jp/news/article/2611/24/2000003427/)
 * [品質を積み上げられるようにする](https://speakerdeck.com/goyoki/building-up-of-quality)
 * [「松屋」の一人負けなのか？「吉野家」「すき家」と明暗を分けた既存店売上、その差はどこにあるのか #エキスパートトピ（三輪大輔） - エキスパート - Yahoo!ニュース](https://news.yahoo.co.jp/expert/articles/c6b02eabde817393055dacbd810b748a6637ae39)
+
+## 取得日時: 11月25日 11時58分
+
+* [個人開発 with AI](https://zenn.dev/holygrail/scraps/dec6ae85d06b4f)
+* [ロシア軍の死者４９万人超か、サイバー攻撃による流出データは「本物」と英報道…「５分に１人」戦死の計算](https://www.yomiuri.co.jp/world/20261124-GYT1T00383/)
+* [ずっしり重い新型ウォークマン　歴代最高65万円なぜここまで高級化：朝日新聞](https://www.asahi.com/articles/ASVCN2QXSVCNULFA01XM.html)
+* [AI時代の実践・形式検証入門](https://docs.google.com/presentation/d/1s-ie7b1rD47NUkwSIvdDYCJfrHzWOl-rt1c2hSgeerM/mobilepresent?slide=id.p1)
+* [34年目の秀丸エディタと、AIの距離感　「正直皆どんな目的で使ってるかよく分かりません」 - レバテックLAB](https://levtech.jp/media/detail_973/)
