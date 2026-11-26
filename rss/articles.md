@@ -1150,3 +1150,11 @@
 * [マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった](https://zenn.dev/henteko/articles/ed8d1458246d7a)
 * [高木浩光＠自宅の日記 - 「氏名は含まれておりません」では済まない——KARTE事件で漏れた行動の記録は誰の個人データか](http://takagi-hiromitsu.jp/diary/20261124.html)
 * [地上波テレビの全番組を「ネットで同時・見逃し配信」、総務省が提案　2040年までに](https://japan.cnet.com/article/35255356/)
+
+## 取得日時: 11月26日 11時7分
+
+* [日本語サイトで指定しておきたいCSS 2026年版 - Qiita](https://qiita.com/tofu_frontend/items/6a1bb7d80a58736eef0e)
+* [1Password、従業員のGitHubアカウント経由で顧客の氏名とメールアドレスが流出したと発表 — BigGo ファイナンス](https://finance.biggo.jp/news/86bd3431-ad2e-4b18-b885-4fb6393beb46)
+* [観測者から当事者へ、AI 時代にドメインへ深入りする知識と技術 / From Observer to Practitioner: Going Deep into Domains in the Age of AI](https://speakerdeck.com/nrslib/from-observer-to-practitioner-going-deep-into-domains-in-the-age-of-ai)
+* [「AI検索に電話番号が……」鳴りやまぬコールセンター　バッファローは壊れた「顧客導線」をどう改善した？](https://www.itmedia.co.jp/business/articles/2611/26/news015.html)
+* [Update on a security incident involving 1Password’s backend systems. | 1Password](https://1password.com/blog/update-on-nov-2026-security-incident)
