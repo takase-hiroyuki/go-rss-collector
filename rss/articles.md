@@ -1158,3 +1158,11 @@
 * [観測者から当事者へ、AI 時代にドメインへ深入りする知識と技術 / From Observer to Practitioner: Going Deep into Domains in the Age of AI](https://speakerdeck.com/nrslib/from-observer-to-practitioner-going-deep-into-domains-in-the-age-of-ai)
 * [「AI検索に電話番号が……」鳴りやまぬコールセンター　バッファローは壊れた「顧客導線」をどう改善した？](https://www.itmedia.co.jp/business/articles/2611/26/news015.html)
 * [Update on a security incident involving 1Password’s backend systems. | 1Password](https://1password.com/blog/update-on-nov-2026-security-incident)
+
+## 取得日時: 11月27日 2時39分
+
+* [【Claude Code】鹿野さんが実践するエンジニアの日常業務を爆速にする最新推しツール 大公開](https://speakerdeck.com/tonkotsuboy_com/index-1f2ed0d2-597d-459d-abf2-db8db109c5d6)
+* [ニート寸前の女子大生→“ChatGPTを使い倒して”未経験で100日連続アプリ開発→国際学会で発表…年収2000万円・25歳経営者の“生成AIで激変した人生” | 文春オンライン](https://bunshun.jp/articles/-/93682)
+* [理解をあきらめないAI駆動開発 ——開発の流れに「理解の工程」を織り込む6つの実践｜株式会社アシュアード](https://note.com/assuredjp/n/n6ec5f6544e0c)
+* [CLAUDE.md / AGENTS.md を Claude Codeに継続的に書かせる](https://anond.hatelabo.jp/20261126144022)
+* [1Passwordへの不正アクセスについてまとめてみた - piyolog](https://piyolog.hatenadiary.jp/entry/2026/11/26/153937)
