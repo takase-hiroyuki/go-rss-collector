@@ -1174,3 +1174,11 @@
 * [デジタル庁デザインシステムをどう使うか：導入先に合わせた「ローカルデザインシステム」を作る｜デジタル庁ニュース](https://digital-agency-news.digital.go.jp/articles/2026-11-26)
 * [2026-11-26 LayerXにおけるAI Agentを支えるデータ基盤のアーキテクチャと設計思想 / The Architecture and Design Philosophy of the Data Platform For AI Agents at LayerX](https://speakerdeck.com/civitaspo/the-architecture-and-design-philosophy-of-the-data-platform-for-ai-agents-at-layerx)
 * [SSH is a GUI framework | ssh zydra.sh](https://zydra.sh/articles/ssh-is-a-gui-framework/)
+
+## 取得日時: 11月28日 2時21分
+
+* [はじめての Lean](https://unaoya.github.io/lean-intro/)
+* [2026年に刊行されてよかったなと思うコンピューター技術書 - golden-luckyの日記](https://golden-lucky.hatenablog.com/entry/2026/11/27/111643)
+* [「ロリポップ！レンタルサーバー」および関連サービスに対する不正アクセスによるお客様情報の漏えいについて - ロリポップ！レンタルサーバー](https://lolipop.jp/info/news/8279/)
+* [GMO熊谷氏「ハッカーを丸裸に」　サイバー攻撃の可視化サイト開設 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC271FH0X21C26A1000000/)
+* [Linuxカーネルのバグ「TCPanic」を発見、TCP通信のみでホストが停止する脆弱性 | Ikotas Labs](https://ikotaslabs.com/news/2026-11-27)
