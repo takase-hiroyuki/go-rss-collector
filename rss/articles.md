@@ -1166,3 +1166,11 @@
 * [理解をあきらめないAI駆動開発 ——開発の流れに「理解の工程」を織り込む6つの実践｜株式会社アシュアード](https://note.com/assuredjp/n/n6ec5f6544e0c)
 * [CLAUDE.md / AGENTS.md を Claude Codeに継続的に書かせる](https://anond.hatelabo.jp/20261126144022)
 * [1Passwordへの不正アクセスについてまとめてみた - piyolog](https://piyolog.hatenadiary.jp/entry/2026/11/26/153937)
+
+## 取得日時: 11月27日 11時6分
+
+* [情報量が4倍のQRコードを作ろう - Qiita](https://qiita.com/reipandada/items/17496db6ac5f64a5e61a)
+* [さくらインターネット、AIを月額固定料金で提供する「シンプルAI」発表、システムへの組み込み用途を想定](https://www.publickey1.jp/blog/26/aiai_1.html)
+* [デジタル庁デザインシステムをどう使うか：導入先に合わせた「ローカルデザインシステム」を作る｜デジタル庁ニュース](https://digital-agency-news.digital.go.jp/articles/2026-11-26)
+* [2026-11-26 LayerXにおけるAI Agentを支えるデータ基盤のアーキテクチャと設計思想 / The Architecture and Design Philosophy of the Data Platform For AI Agents at LayerX](https://speakerdeck.com/civitaspo/the-architecture-and-design-philosophy-of-the-data-platform-for-ai-agents-at-layerx)
+* [SSH is a GUI framework | ssh zydra.sh](https://zydra.sh/articles/ssh-is-a-gui-framework/)
