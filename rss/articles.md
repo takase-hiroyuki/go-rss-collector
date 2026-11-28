@@ -1182,3 +1182,11 @@
 * [「ロリポップ！レンタルサーバー」および関連サービスに対する不正アクセスによるお客様情報の漏えいについて - ロリポップ！レンタルサーバー](https://lolipop.jp/info/news/8279/)
 * [GMO熊谷氏「ハッカーを丸裸に」　サイバー攻撃の可視化サイト開設 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOUC271FH0X21C26A1000000/)
 * [Linuxカーネルのバグ「TCPanic」を発見、TCP通信のみでホストが停止する脆弱性 | Ikotas Labs](https://ikotaslabs.com/news/2026-11-27)
+
+## 取得日時: 11月28日 10時51分
+
+* [なぜAIは超難問を解けるのに、あなたの現場では“綺麗なゴミ”を量産するのか？ - サッとぶ](https://kei-1010.hatenablog.com/entry/2026/11/27/133416)
+* [｢もう管理職はいらない｣　震源はシリコンバレー、AIで消える肩書と階層 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOGN246EE0U6A121C2000000/)
+* [シンプルな構文で美しい図を自動生成する「D2」が進化、非営利化で独自レイアウトエンジンもオープンソース化](https://gigazine.net/news/20261127-d2/)
+* [ノンフライヤーはからあげだけじゃない　夕飯作りラクにしてくれるかも](https://kaden.watch.impress.co.jp/docs/column/iikoto/2160002.html)
+* [【資料公開】コードを書くAI、アーキテクチャーを決める組織](https://www.ryuzee.com/contents/blog/14629)
