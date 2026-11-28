@@ -1190,3 +1190,11 @@
 * [シンプルな構文で美しい図を自動生成する「D2」が進化、非営利化で独自レイアウトエンジンもオープンソース化](https://gigazine.net/news/20261127-d2/)
 * [ノンフライヤーはからあげだけじゃない　夕飯作りラクにしてくれるかも](https://kaden.watch.impress.co.jp/docs/column/iikoto/2160002.html)
 * [【資料公開】コードを書くAI、アーキテクチャーを決める組織](https://www.ryuzee.com/contents/blog/14629)
+
+## 取得日時: 11月29日 1時5分
+
+* [人類はまだWin+Shift+Tで画像に表示された文字をOCRでコピー出来ることを知らない…ただしMicrosoft PowerToysを入れる必要がある](https://togetter.com/li/2776106)
+* [生成AIは知的労働能力を「ドーピング」することはできるが、「定着」させることはできない - 渋谷駅前で働くデータサイエンティストのブログ](https://tjo.hatenablog.com/entry/2026/11/28/185602)
+* [パスキーは最強で美しいよ、正しく実装すればね](https://zenn.dev/kantacky/articles/b5a03eab70c7b1)
+* [古い PHP / Laravel の脆弱性対応は、Rector と AI でだいたい簡単に終わる](https://zenn.dev/miraizuk/articles/ae8db2bc3ff561)
+* [データサイエンティストの Claude Code 活用術-Claude Code にデータ分析をさせる方法論](https://speakerdeck.com/yossyds/deta-saientisuto-no-claude-code-katsuyoujutsu)
